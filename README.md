@@ -6,6 +6,15 @@ Conteúdos:
 
 - [NVDA](nvda.md)
 
+to-dos:
+
+- Desktop:
+  - ajustar o artigo anterior para "Auditoria de elementos HTML de uma página Web com NVDA"
+  - produzir arttigo para "Auditoria de elementos HTML de uma página Web com VoiceOver (macOS)"
+- Mobile:
+  - produzir "Auditoria de elementos HTML de uma página Web com VoiceOver (iOS)" (comandos via teclado e gestos)
+  - produzir "Auditoria de elementos HTML de uma página Web com TalkBack (Android)" (comandos via teclado e gestos)
+
 **nota:** para mais conteúdos em desenvolvimento consulte a wiki do presente repositório.
 
 ---
