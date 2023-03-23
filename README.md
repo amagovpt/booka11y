@@ -18,4 +18,4 @@ to-dos:
 **nota:** para mais conteúdos em desenvolvimento consulte a wiki do presente repositório.
 
 ---
-2023 - AMA, I.P. Criado por [Jorge Fernandes](mailto:jorge.fernandes@ama.pt).Última atualização: {%date} 11 de fevereiro 2023.  
+2023 - AMA, I.P. Criado por [Jorge Fernandes](mailto:jorge.fernandes@ama.pt). Última atualização: 23 de março 2023.
