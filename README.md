@@ -4,7 +4,8 @@ O presente repositório pertence à Equipa de Usabilidade e Conteúdos. No BookA
 
 Conteúdos:
 
-- [NVDA](nvda.md)
+- Auditoria de elementos HTML de uma página Web com leitores de ecrã
+  - [NVDA](nvda.md)
 
 to-dos:
 
