@@ -7,7 +7,7 @@ Conteúdos:
 - Auditoria de elementos HTML de uma página Web com leitores de ecrã
   - [NVDA](nvda.md)
 - Listas de testes de validadores de acessibilidade Web
-  - [Lista de testes HTML implementados no AXE](https://dequeuniversity.com/rules/axe/4.4/)
+  - [Lista de testes automáticos HTML implementados no AXE](https://dequeuniversity.com/rules/axe/4.4/)
   
 
 to-dos:
