@@ -188,7 +188,7 @@ Corrigir o texto para:
 ## Correções de texto
 
 <h2 _ngcontent-mhy-c351="" class="h5">Níveis de conformidade</h2>
-<p _ngcontent-mhy-c351="">A declara<mark>ç</mark>ão de acessibilidade divide-se em 3 niveis de conformidade:</p>
+<p _ngcontent-mhy-c351="">A <mark>D</mark>eclara<mark>ç</mark>ão de <mark>A</mark>cessibilidade <mark>tem 3 estados possíveis</mark> <stroke>divide-se em niveis de conformidade</stroke>:</p>
 <ul _ngcontent-mhy-c351=""><li _ngcontent-mhy-c351="">Plenamente conforme</li><li _ngcontent-mhy-c351="">Parcialmente conforme</li><li _ngcontent-mhy-c351="">Não conforme</li></ul>
 <li _ngcontent-mhy-c351="">Plenamente conforme</li>
 <li _ngcontent-mhy-c351="">Parcialmente conforme</li>
