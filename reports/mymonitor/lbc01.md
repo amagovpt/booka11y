@@ -188,14 +188,17 @@ Corrigir o texto para:
 ## Correções de texto
 
 <h2 _ngcontent-mhy-c351="" class="h5">Níveis de conformidade</h2>
-<p _ngcontent-mhy-c351="">A <mark>D</mark>eclara<mark>ç</mark>ão de <mark>A</mark>cessibilidade <mark>tem 3 estados possíveis</mark> <stroke>divide-se em niveis de conformidade</stroke>:</p>
-<ul _ngcontent-mhy-c351=""><li _ngcontent-mhy-c351="">Plenamente conforme</li><li _ngcontent-mhy-c351="">Parcialmente conforme</li><li _ngcontent-mhy-c351="">Não conforme</li></ul>
-<li _ngcontent-mhy-c351="">Plenamente conforme</li>
-<li _ngcontent-mhy-c351="">Parcialmente conforme</li>
-<li _ngcontent-mhy-c351="">Não conforme</li>
-<ul _ngcontent-mhy-c351=""><li _ngcontent-mhy-c351="">Plenamente conforme</li><li _ngcontent-mhy-c351="">Parcialmente conforme</li><li _ngcontent-mhy-c351="">Não conforme</li></ul>
+<p _ngcontent-mhy-c351="">A <mark>D</mark>eclara<mark>ç</mark>ão de <mark>A</mark>cessibilidade <mark>tem 3 estados possíveis</mark> <strike>divide-se em niveis de conformidade</strike>:</p>
+<ul _ngcontent-mhy-c351="">
+   <li _ngcontent-mhy-c351="">Plenamente conforme</li>
+   <li _ngcontent-mhy-c351="">Parcialmente conforme</li>
+   <li _ngcontent-mhy-c351="">Não conforme</li>
+</ul>
 
-## Botão voltar ao topo
+## Botão voltar ao topo, está sem texto alternativo
 
+<img width="250" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/cbe06c74-6d2d-465b-b553-5b7435d3b837">
 
-
+O que o botão deve fazer:
+- Botão está sem texto alternativo.
+- O nome acessível, ou parte dele, deve estar visível.
