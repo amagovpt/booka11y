@@ -41,9 +41,7 @@ Desta forma, os leitores de ecrã irão percecionar o elemento como sendo uma es
 
 <img width="297" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/9e8da728-a290-48b0-9b72-059ca041d726">
 
-Notas:
-- o último elemento não deve ter link.
-- o elemento não tem estrutura - apresenta-se como um monte de links e sinais '>'.
+O Breadcrumb atual tem apresenta-se consoante iamgem anterior, com o seguinte código:
 
 ```html
 <nav _ngcontent-mhy-c305="" fxlayout="row"
@@ -52,6 +50,11 @@ Notas:
 <a _ngcontent-mhy-c305="" href="/">Ecossistema</a>
 <span _ngcontent-mhy-c305="">&gt;</span>
  ```
+
+Notas (elementos a corrigir):
+- o último elemento não deve ter link.
+- o elemento não tem estrutura - apresenta-se como um monte de links e sinais '>'.
+
 Aconselha-se a utilizar uma estrutura semelante à [estrutura do Breadcrumb do Ágora](https://prd-agora.northeurope.cloudapp.azure.com/?path=/docs/components-atoms-breadcrumb--docs).
 <img width="501" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/3a8c5a15-0e66-478f-8683-d3eb47b05387">
 
@@ -74,6 +77,92 @@ Será algo como:
 </nav>
 ```
 
+## Nome do sítio Web
+
+<img width="416" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/7389c1c4-260e-468f-acab-6dd5df4e6ffd">
+
+O cabeçalho `<h1>` está corretamente marcado. Contudo aconselha-se a corrigir o texto para:
+
+```html
+<p>Sumário da Declaração de Acessibilidade</p>
+```
+
+<img width="155" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/bc933e3b-5a1c-4cdf-9e3e-1a0f4cd95de9">
+
+O nome do sítio Web está marcado como:
+
+```html
+<p>Portal da Justiça</p>
+```
+
+Aconselha-se a indicar um rótulo para contextualizar este campo. Poderá ficar escondido visualmente e visível para leitores de ecrã. Poderá ser contrastado com um ícone antes do nome. Poderá ter os dois.
+
+```html
+<p><i class="icon-website"><strong class="sr-only">Sítio Web: </strong></i>Portal da Justiça</p>
+```
+
+## Avaliação mais recente
+
+O código atual:
+
+```html
+<p _ngcontent-mhy-c351="" class="m-0"><strong _ngcontent-mhy-c351="">Avaliação mais recente</strong></p>
+<p _ngcontent-mhy-c351=""> 14 de setembro de 2023 </p>
+```
+
+Deve passar a:
+
+```html
+<p><strong>Avaliação mais recente</strong> 14 de setembro de 2023</p>
+```
+
+O estilo pode ser o que está no Mockup.
+
+## Sumário da Declaração de Acessibilidade
+<img width="1417" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/5702e1a0-274b-48f5-8a91-a9e07aad2faa">
+
+A versão linear atual desta componente mostra a estrutura não tem nexo (ver imagem seguinte).
+<img width="634" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/7f9006d8-bb40-4e9e-bd62-5b765f5cd654">
+
+Aconselha-se uma estrutura do tipo lista com 4 itens.
+
+```html
+<ul aria-label="dados atualmente inscritos na Declaração de Acessibilidade">
+  <li><strong>Amostra:</strong> <span>1 página</span></li>
+  <li>Avaliação automática:
+   <ul>
+     <li><strong>Pontuação:</strong> 10 pontos <span>escala MyMonitor</span></li>
+     <li><a href="consultar_aa.html">Consultar avaliação automática</a></li>
+   </ul>
+  </li>
+  <li>Avaliação manual:
+   <ul>
+     <li><strong>Satisfaz:</strong> <span>25%</span> dos requisitos da <em lang="en">checklist</em> 10 aspetos críticos de acessibilidade funcional</li>
+     <li><a href="consultar_am.html">Consultar avaliação manual</a></li>
+   </ul>
+  </li>
+  <li><strong>Estado da Declaração de Acessibilidade</strong> Não conforme</li>
+</ul>
+```
+
+Ou seja, estruturalmente apresenta-se assim:
+
+<ul aria-label="dados atualmente inscritos na Declaração de Acessibilidade">
+  <li><strong>Amostra:</strong> <span>1 página</span></li>
+  <li>Avaliação automática:
+   <ul>
+     <li><strong>Pontuação:</strong> 10 pontos <span>escala MyMonitor</span></li>
+     <li><a href="consultar_aa.html">Consultar avaliação automática</a></li>
+   </ul>
+  </li>
+  <li>Avaliação manual:
+   <ul>
+     <li><strong>Satisfaz:</strong> <span>25%</span> dos requisitos da <em lang="en">checklist</em> 10 aspetos críticos de acessibilidade funcional</li>
+     <li><a href="consultar_am.html">Consultar avaliação manual</a></li>
+   </ul>
+  </li>
+  <li><strong>Estado da Declaração de Acessibilidade</strong> Não conforme</li>
+</ul>
 
 
 
