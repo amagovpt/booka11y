@@ -29,6 +29,11 @@ Ou seja, a estrutura ficará algo como:
       <circle _ngcontent-mhy-c306="" fill="currentColor" cx="9.86" cy="11.04" r="0.99"></circle><path _ngcontent-mhy-c306="" fill="currentColor" d="M14,16.54a6.49,6.49,0,0,1-9.93-5.49.86.86,0,0,0,0-.17,1,1,0,0,0,0-.17A6.49,6.49,0,0,1,14,5.21a1.11,1.11,0,1,0,1.18-1.87A8.7,8.7,0,0,0,1.9,10.71a1,1,0,0,0,0,.17.86.86,0,0,0,0,.17,8.71,8.71,0,0,0,13.32,7.37A1.11,1.11,0,1,0,14,16.54Z"></path>
     </svg>
   </button>
+
+   Desta forma, os leitores de ecrã irão percecionar o elemento como sendo uma estrutura de navegação:
+
+   <img width="475" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/d91171dc-b9b6-42a6-ad67-5eeca52c35b6">
+
   </li>
  </ul>
 </nav>
