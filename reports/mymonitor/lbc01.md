@@ -16,6 +16,7 @@ Transformar em menu do tipo:
  </ul>
 </nav>
 ```
+Ou seja, a estrutura ficará algo como:
 
 <nav aria-label="menu principal do MyMonitor">
  <ul>
