@@ -35,5 +35,45 @@ Ou seja, a estrutura ficará algo como:
 
 Desta forma, os leitores de ecrã irão percecionar o elemento como sendo uma estrutura de navegação:
 
+<img width="812" alt="VO diz menu principal do MyMonitor, navegação" src="https://github.com/amagovpt/booka11y/assets/27677125/46263723-f489-4978-9f35-b8f6a1a36d76">
+
+## Breadcrumb
+
+<img width="297" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/9e8da728-a290-48b0-9b72-059ca041d726">
+
+Notas:
+- o último elemento não deve ter link.
+- o elemento não tem estrutura - apresenta-se como um monte de links e sinais '>'.
+
+```html
+<nav _ngcontent-mhy-c305="" fxlayout="row"
+      ng-reflect-fx-layout="row"
+      style="flex-direction: row; box-sizing: border-box; display: flex;">
+<a _ngcontent-mhy-c305="" href="/">Ecossistema</a>
+<span _ngcontent-mhy-c305="">&gt;</span>
+ ```
+Aconselha-se a utilizar uma estrutura semelante à [estrutura do Breadcrumb do Ágora](https://prd-agora.northeurope.cloudapp.azure.com/?path=/docs/components-atoms-breadcrumb--docs).
+<img width="501" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/3a8c5a15-0e66-478f-8683-d3eb47b05387">
+
+O Breadcrumb do Ágora tem:
+
+- marcação landmark nav
+- título para landmark nav (i.e. 'você está aqui')
+- lista ordenada de links
+- marcação da página atual na estrutura
+
+Será algo como:
+
+```html
+<nav ... aria-label="você está aqui">
+  <ol>
+   <li><a ...>acessibilidade.gov</a></li>
+   <li><a ...>MyMonitor</a></li>
+   <li><a ... aria-current="page">Gerar Declaração de Acessibilidade</a></li>
+  </ol>
+</nav>
+```
+
+
 
 
