@@ -35,6 +35,5 @@ Ou seja, a estrutura ficará algo como:
 
 Desta forma, os leitores de ecrã irão percecionar o elemento como sendo uma estrutura de navegação:
 
-<img width="475" alt="VO diz menu principal do MyMonitor" src="https://github.com/amagovpt/booka11y/assets/27677125/d91171dc-b9b6-42a6-ad67-5eeca52c35b6">
 
 
