@@ -20,7 +20,7 @@ Transformar em menu do tipo:
 <nav aria-label="menu principal do MyMonitor">
  <ul>
   <li><a href="/">MyMonitor</a></li>
-  <li><button ...>
+  <li><button>
     Sair
     <svg _ngcontent-mhy-c306="" xmlns="http://www.w3.org/2000/svg" width="25.2" height="24.8" viewBox="0 0 25.2 24.8">
       <path _ngcontent-mhy-c306="" fill="currentColor" d="M20.79,12l-.85.85L18.42,14.4a1,1,0,0,0-.13,1.46,1,1,0,0,0,1.45.13h0l.12-.14,2-2,2-2a1.11,1.11,0,0,0,0-1.58h0l-2-2-2-2a1,1,0,0,0-1.58,1.25l.14.14.79.79L20.79,10H17.86a1,1,0,0,0,0,2Z"></path>
