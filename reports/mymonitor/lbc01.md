@@ -130,13 +130,13 @@ Aconselha-se uma estrutura do tipo lista com 4 itens.
 <ul aria-label="dados atualmente inscritos na Declaração de Acessibilidade">
   <li><strong>Amostra:</strong> <span>1 página</span></li>
   <li>Avaliação automática:
-   <ul>
+   <ul aria-label="avaliação automática">
      <li><strong>Pontuação:</strong> 10 pontos <span>escala MyMonitor</span></li>
      <li><a href="consultar_aa.html">Consultar avaliação automática</a></li>
    </ul>
   </li>
   <li>Avaliação manual:
-   <ul>
+   <ul aria-label="avaliação manual">
      <li><strong>Satisfaz:</strong> <span>25%</span> dos requisitos da <em lang="en">checklist</em> 10 aspetos críticos de acessibilidade funcional</li>
      <li><a href="consultar_am.html">Consultar avaliação manual</a></li>
    </ul>
@@ -150,19 +150,52 @@ Ou seja, estruturalmente apresenta-se assim:
 <ul aria-label="dados atualmente inscritos na Declaração de Acessibilidade">
   <li><strong>Amostra:</strong> <span>1 página</span></li>
   <li>Avaliação automática:
-   <ul>
+   <ul aria-label="avaliação automática">
      <li><strong>Pontuação:</strong> 10 pontos <span>escala MyMonitor</span></li>
      <li><a href="consultar_aa.html">Consultar avaliação automática</a></li>
    </ul>
   </li>
   <li>Avaliação manual:
-   <ul>
+   <ul aria-label="avaliação manual">
      <li><strong>Satisfaz:</strong> <span>25%</span> dos requisitos da <em lang="en">checklist</em> 10 aspetos críticos de acessibilidade funcional</li>
      <li><a href="consultar_am.html">Consultar avaliação manual</a></li>
    </ul>
   </li>
   <li><strong>Estado da Declaração de Acessibilidade</strong> Não conforme</li>
 </ul>
+
+## Sobre a Declaração de Acessibilidade
+<img width="1378" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/e309d510-f038-45ea-a5be-3fe520e705f3">
+
+Corrigir o texto para:
+
+<h2>Sobre a Declaração de Acessibilidade</h2>
+<p>Como posso declarar que o meu sítio Web satisfaz os requisitos de acessibilidade? Através da Declaração de Acessibilidade. Desde setembro de 2020, todos os sítios Web da Administraçãoo Pública estão obrigados a publicar uma Declaração de Acessibilidade.</p>
+<p>Para mais informações, consulte a página:</p>
+<ul>
+ <li><a href="3passos.html">3 passos para publicar a Declaração de Acessibilidade</a>.</li>
+</ul>
+
+```html
+<h2>Sobre a Declaração de Acessibilidade</h2>
+<p>Como posso declarar que o meu sítio Web satisfaz os requisitos de acessibilidade? Através da Declaração de Acessibilidade. Desde setembro de 2020, todos os sítios Web da Administraçãoo Pública estão obrigados a publicar uma Declaração de Acessibilidade.</p>
+<p>Para mais informações, consulte a página:</p>
+<ul>
+ <li><a href="3passos.html">3 passos para publicar a Declaração de Acessibilidade</a>.</li>
+</ul>
+```
+
+## Correções de texto
+
+<h2 _ngcontent-mhy-c351="" class="h5">Níveis de conformidade</h2>
+<p _ngcontent-mhy-c351="">A declara<mark>ç</mark>ão de acessibilidade divide-se em 3 niveis de conformidade:</p>
+<ul _ngcontent-mhy-c351=""><li _ngcontent-mhy-c351="">Plenamente conforme</li><li _ngcontent-mhy-c351="">Parcialmente conforme</li><li _ngcontent-mhy-c351="">Não conforme</li></ul>
+<li _ngcontent-mhy-c351="">Plenamente conforme</li>
+<li _ngcontent-mhy-c351="">Parcialmente conforme</li>
+<li _ngcontent-mhy-c351="">Não conforme</li>
+<ul _ngcontent-mhy-c351=""><li _ngcontent-mhy-c351="">Plenamente conforme</li><li _ngcontent-mhy-c351="">Parcialmente conforme</li><li _ngcontent-mhy-c351="">Não conforme</li></ul>
+
+## Botão voltar ao topo
 
 
 
