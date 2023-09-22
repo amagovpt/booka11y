@@ -198,6 +198,23 @@ Corrigir o texto para:
 ## Botão voltar ao topo, está sem texto alternativo
 
 <img width="250" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/cbe06c74-6d2d-465b-b553-5b7435d3b837">
+Fig. - evidência do 1º aspeto
+
+<img width="516" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/5fe7ea7a-6ac4-4730-b7eb-f1a8e920a6d5">
+Fig. - evidência do 2º aspeto
+
+<img width="806" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/42c37ee0-e1a5-4096-9830-1d2bba8b7cb4">
+Fig. - evidência do 3º e 4º aspeto
+
+<img width="310" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/882f33c1-1c89-4273-8a70-e1189c77a095">
+Fig. - evidência em como o 4º aspeto é visto no Chrome. Parece ser um problema do Safari, não ver o title do SVG. Por isso o VO não o lê.
+
+Há 3 aspetos estranhos no atual botão:
+- 1º, o VO não fornece o nome acessível;
+- 2º, o ANDI diz que existe um nome acessível;
+- 3º, há um nome acessível no elemento <title> do SVG que é 'monitor_icons_tools_back-to-top' (!?)
+- 4º, o elemento <title> parece que não é processado pelo browser - surge escrito a cinzento.
+- 5º, o svg nao tem role="img"; adicionei, mas o title continua a não ser lido pelo VO nem forma o nome acessível no <button>. 
 
 O que o botão deve fazer:
 - Botão está sem texto alternativo.
