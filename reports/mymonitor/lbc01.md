@@ -164,7 +164,7 @@ Ou seja, estruturalmente apresenta-se assim:
   <li><strong>Estado da Declaração de Acessibilidade</strong> Não conforme</li>
 </ul>
 
-## Sobre a Declaração de Acessibilidade
+## Correções de texto - Sobre a Declaração de Acessibilidade
 <img width="1378" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/e309d510-f038-45ea-a5be-3fe520e705f3">
 
 Corrigir o texto para:
@@ -185,7 +185,7 @@ Corrigir o texto para:
 </ul>
 ```
 
-## Correções de texto
+## Correções de texto - Níveis de conformidade
 
 <h2 _ngcontent-mhy-c351="" class="h5">Níveis de conformidade</h2>
 <p _ngcontent-mhy-c351="">A <mark>D</mark>eclara<mark>ç</mark>ão de <mark>A</mark>cessibilidade <mark>tem 3 estados possíveis</mark> <strike>divide-se em niveis de conformidade</strike>:</p>
@@ -221,3 +221,60 @@ Há 3 aspetos estranhos no atual botão:
 O que o botão deve fazer:
 - Botão está sem texto alternativo.
 - O nome acessível, ou parte dele, deve estar visível.
+
+## Páginas <em lang="en">Responsive</em>
+
+Precisamos de páginas responsive.
+
+<img width="105" alt="Printscreen da página num iPhone 11" src="https://github.com/amagovpt/booka11y/assets/27677125/8842d42f-bc06-433c-af04-a510f747db72">
+Fig. Página num iPhone 11.
+
+## Landmarks de 1º nível
+
+Precisamos de uma página com as landmarks de 1º nível devidamente marcadas.
+
+Algo como:
+
+```html
+<body>
+  <header>(...)</header>
+  <main>(...)</main>
+  <footer>(...)</footer>
+</body>
+```
+
+Atualmente (1º nível)
+
+<img width="425" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/ae8bae53-acee-4c46-a170-491ad26f3547">
+
+Tentando descer mais um pouco, temos:
+
+<img width="425" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/8c0f4060-1e18-454d-ba28-2040ebfc4fdd">
+
+Nota:
+- O uso de <br> para efeitos de estilo é causa de despedimento da equipa de acessibilidade 
+- O botão go to top parece estar perdido. Ou pertence ao footer, ou pertence ao main?
+- Nada de script no body  . É script. É style, a referência vai para o head da página. Problemas de carregamento da página? Sim, é provável. Estudar os métodos de carregamento de script ‘async’ e ‘defer’.
+
+Tentando entrar em maior profundidade na página:
+
+<img width="282" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/081cdc6a-6cbe-49f3-95f3-c01e23ab8a93">
+
+Notas:
+- Há muitas peças que não estão dentro nem de header, nem de main, nem de footer.
+- Os atributos angular _ngcontent-mhy-c308 são desconhecidos na gramática HTML. Diz o standard HTML que ter prefixo data_, ou seja data_ngcontent ... Que todos desrespeitem a gramática de HTML, nós não o vamos poder fazer. 
+
+## Saltar para o conteúdo principal da página
+
+<img width="297" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/eb891ed3-0488-469a-ac6c-ea343272bc92">
+
+Com o atual set, não foi possível perceber com leitor de ecrã se o link está correto ou não. Ao acionar o link com leitor de ecrã, o salto não é efetuado.
+
+## 2 menus iguais
+
+<img width="425" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/210b7623-61e0-4222-b0bd-f77bc1bd6e46">
+
+Nota:
+- Não se consegue fazer 1 só rodapé em vez de 2?
+
+
