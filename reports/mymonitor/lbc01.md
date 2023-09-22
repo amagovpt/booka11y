@@ -195,6 +195,8 @@ Corrigir o texto para:
    <li _ngcontent-mhy-c351="">Não conforme</li>
 </ul>
 
+Nota: Há que efetuar revisão dos textos.
+
 ## Botão voltar ao topo, está sem texto alternativo
 
 <img width="250" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/cbe06c74-6d2d-465b-b553-5b7435d3b837">
@@ -212,9 +214,9 @@ Fig. - evidência em como o 4º aspeto é visto no Chrome. Parece ser um problem
 Há 3 aspetos estranhos no atual botão:
 - 1º, o VO não fornece o nome acessível;
 - 2º, o ANDI diz que existe um nome acessível;
-- 3º, há um nome acessível no elemento <title> do SVG que é 'monitor_icons_tools_back-to-top' (!?)
-- 4º, o elemento <title> parece que não é processado pelo browser - surge escrito a cinzento.
-- 5º, o svg nao tem role="img"; adicionei, mas o title continua a não ser lido pelo VO nem forma o nome acessível no <button>. 
+- 3º, há um nome acessível no elemento `<title>` do SVG que é 'monitor_icons_tools_back-to-top' (!?)
+- 4º, o elemento `<title>` parece que não é processado pelo browser - surge escrito a cinzento.
+- 5º, o svg nao tem role="img"; adicionei, mas o title continua a não ser lido pelo VO nem forma o nome acessível no `<button>`. 
 
 O que o botão deve fazer:
 - Botão está sem texto alternativo.
