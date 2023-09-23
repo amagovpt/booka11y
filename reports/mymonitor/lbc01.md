@@ -1,8 +1,9 @@
 ---
-title: lbc01.md | Homepage HTML MyMonitor.
+title: HTML Homepage MyMonitor
 created: 21/09/2023
-updated: 21/09/2023
+updated: 23/09/2023
 ---
+
 ## Menu
 <img width="1408" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/d20737ad-45cb-46df-ab27-303b60773cda">
 
