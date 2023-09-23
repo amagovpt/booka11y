@@ -29,6 +29,10 @@
       </nav>
     {%- endif -%}
     -->
-    <p>Relatório de acessibilidade</p>
+    {% if page.url == "/" %}
+       <h1>Relatórios de acessibilidade</h1>
+    {% else %}
+       <p>Relatório de acessibilidade</p>
+    {% endif %}
   </div>
 </header>
