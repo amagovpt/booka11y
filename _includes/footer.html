@@ -14,6 +14,9 @@
           </a>
         </p>
         -->
+        {% if page.categories %}
+          <p>{{ page.categories }}</p>
+        {% endif %}
         <p class="feed-subscribe"><small>&copy;2023 AMA I.P.</small></p>
       {%- if site.author %}
         <ul class="contact-list">
