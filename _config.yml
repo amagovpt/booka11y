@@ -1,7 +1,7 @@
-# title: Relatórios de Acessibilidade
+name: null
+title: null
 author: EUC / AMA, I.P.
-#  name: 
-#  email: 
+email: null
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -46,7 +46,7 @@ minima:
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
-header_pages: none
+header_pages: null
 
 
 # Set to `true` to show excerpts on the homepage.
