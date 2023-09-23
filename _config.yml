@@ -6,7 +6,7 @@ email: null
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Equipa de Usabilidade e Conteúdos / Direção TICAPP
+  Equipa de Usabilidade e Conteúdos
 
 # Build settings
 
