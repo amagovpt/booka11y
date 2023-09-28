@@ -18,8 +18,10 @@ title: Something?
 {% for principle in site.data.wcag21.principles %}
 <p>{{ principle.num }} - {{ principle.handle }}</p>
 <ul>
-    {% for sc in principle.guidelines.successcriteria %}
-    <li>{{ sc.num }} {{ sc.handle }}</li>
+    {% for guideline in principle.guidelines %}
+       {% for successcriterium in guideline.successcriteria %}
+          <li>{{ sc.num }} {{ sc.handle }}</li>
+        {% endfor %}
     {% endfor %}
 </ul>
 {% endfor %}
