@@ -19,7 +19,7 @@ title: Something?
 <p>{{ principle.num }} - {{ principle.handle }}</p>
 <ul>
     {% for guideline in principle.guidelines %}
-       {% for successcriterium in guideline.successcriteria %}
+       {% for sc in guideline.successcriteria %}
           <li>{{ sc.num }} {{ sc.handle }}</li>
         {% endfor %}
     {% endfor %}
