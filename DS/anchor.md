@@ -2,7 +2,7 @@
 title: anchor
 ---
 
-[índice](/DS/)
+[índice](index.md)
 
 ## Definição
 
