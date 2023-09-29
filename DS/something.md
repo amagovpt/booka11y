@@ -34,7 +34,7 @@ title: Something?
     {% for guideline in principle.guidelines %}
        {% for sc in guideline.successcriteria %}
           {% for tech in sc.techniques %}
-          <li>{{ tech.suficient.id }} {{ tech.suficient.title }}</li>
+          <li>{{ tech.sufficient.id }} {{ tech.sufficient.title }}</li>
           {% endfor %}
         {% endfor %}
     {% endfor %}
