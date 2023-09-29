@@ -25,18 +25,3 @@ title: Something?
     {% endfor %}
 </ul>
 {% endfor %}
-
-<h2>Técnicas suficientes</h2>
-
-{% for principle in site.data.wcag21.principles %}
-<p>{{ principle.num }} - {{ principle.handle }}</p>
-<ul>
-    {% for guideline in principle.guidelines %}
-       {% for sc in guideline.successcriteria %}
-          {% for tech in sc.techniques %}
-          <li>{{ tech.sufficient.id }} {{ tech.sufficient.title }}</li>
-          {% endfor %}
-        {% endfor %}
-    {% endfor %}
-</ul>
-{% endfor %}
