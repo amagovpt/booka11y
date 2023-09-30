@@ -19,7 +19,7 @@ Normalmente os dispositivos móveis são ocntrolados por gestos, tais como desli
 - Multipoint or path-based gestures have single-pointer or non-path-based options
 - Para gestos multiponto ou baseados num caminho, existem opções baseadas num só ponto e não baseadas num caminho
 
-## Disponibilize instruções e contexto para gestos e ações
+## Disponibilizar instruções e contexto para gestos e ações
 
 Os gestos nem sempre são intuitivos, especialmente quando são diferentes de aplicação para aplicação, assim como nem sempre é óbvio para todos os utilizadores quais são as ações que estão disponíveis num determinado momento.
 
