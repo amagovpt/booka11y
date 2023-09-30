@@ -29,7 +29,7 @@ Critérios de Sucesso, Técnicas e Falhas descritas especificamente para o eleme
 - x Técnicas
 - x Falhas
 
-### Crtiérios de Sucesso
+### Crtiérios de Sucesso aplicáveis
 
 - [CS 1.1.1 - Non-text content (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content#techniques)
 - [CS 1.3.1 - Info and Relationships (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships#techniques)
