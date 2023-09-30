@@ -14,8 +14,6 @@ title: button
 
 (...)
 
-
-
 ## Aspetos de acessibilidade a considerar resultantes das WCAG 2.1 (AA) Quick References
 
 Esta secção contém os **Critérios de Sucesso WCAG 2.1 (AA)** (normativo) aplicáveis a elementos `<button>`. A secção contém também as Técnicas, conhecidas, consideradas Suficientes para satisfazer estes Critérios de Sucesso, bem como as Falhas, conhecidas, que violam estes Critérios de Sucesso.
@@ -28,6 +26,14 @@ Critérios de Sucesso, Técnicas e Falhas descritas especificamente para o eleme
 - 16 Critérios de Sucesso
 - x Técnicas
 - x Falhas
+
+### Boas Práticas
+
+(...)
+
+### Práticas a evitar
+
+(...)
 
 ### Crtiérios de Sucesso aplicáveis
 
