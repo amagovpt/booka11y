@@ -14,8 +14,6 @@ title: xxxx
 
 (...)
 
-
-
 ## Aspetos de acessibilidade a considerar resultantes das WCAG 2.1 (AA) Quick References
 
 Esta secção contém os **Critérios de Sucesso WCAG 2.1 (AA)** (normativo) aplicáveis a elementos `xxx`. A secção contém também as Técnicas, conhecidas, consideradas Suficientes para satisfazer estes Critérios de Sucesso, bem como as Falhas, conhecidas, que violam estes Critérios de Sucesso.
@@ -29,23 +27,15 @@ Critérios de Sucesso, Técnicas e Falhas descritas especificamente para o eleme
 - x Técnicas
 - x Falhas
 
-### 1. xxx 
+### Boas Práticas
 
-#### Sufficient Techniques
-##### xxx Situation xxxx
+(...)
 
-1. [xxx](#)
-2. [xxx](#)
+### Práticas a evitar
 
-##### Situation xxxx
+(...)
 
-1. [xxx](#)
-2. [xxx](#)
+### Crtiérios de Sucesso aplicáveis
 
-#### Failures
-
-1. [xxx](#)
-2. [xxx](#)
-
-## Referências
-
+- (...)
+- (...)
