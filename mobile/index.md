@@ -30,10 +30,11 @@ Para que os utilizadores não façam involuntariamente coisas como abrir um menu
 - Elementos ativáveis estão agrupados intuitivamente
 - Existem instruções claras, em texto, para interações complexas
 
-## Allow multiple methods for input and data entry
+## Variedade de métodos de operação e inserção de dados
 
-One of the most distinctive features of smartphones and mobile devices is touchscreen capability; however, not everyone can make equal use of navigating and providing input by precise touch gestures. Content must also not be built in a way that prevents other operational or input methods, beyond touch. Supporting alternative input devices, like external keyboards, pointers, and other accessible options makes your mobile content more usable to people who have difficulty using touchscreens.
+Uma das caraterísticas mais distintivas dos dispositivos móveis é a existência de um ecrã sensível ao toque. No entanto, nem todos podem navegar ou inserir dados através de gestos ou toques precisos no ecrã. O conteúdo não deve impedir o uso de outros métodos de operar a interface ou de inserir dados que existem para além do toque no ecrã. É importante que os métodos de operação e inserção disponíveis suportem dispositivos de entrada alternativos, como sejam os teclados externos, dispositivos apontadores, manipulos e outras opções acessíveis. A diversidade dos métodos de operação e inserção torna o conteúdo móvel mais acessível e utilizável a pessoas que têm dificuldade em usar ecrãs sensíveis ao toque.
 
-- Virtual keyboard is set to the required type of data entry
-- Methods for data entry are simple and predictable
-- Keyboards and other input devices are supported for touchscreen content
+- Teclado virtual definido para o tipo de entrada de dados
+- Métodos de entrada de dados simples e previsíveis
+- Suporte a teclados e outros dispositivos de entrada, alternativos ao ecrã sensível ao toque
+
