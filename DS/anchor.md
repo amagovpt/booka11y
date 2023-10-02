@@ -42,5 +42,5 @@ Critérios de Sucesso, Técnicas e Falhas descritas especificamente para o eleme
 - [CS 1.4.1 - Use of Color (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color#techniques)
 - [CS 2.1.1 Keyboard (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/keyboard#techniques)
 - [CS 2.4.3 Focus Order (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/focus-order#techniques)
-- [_CS SC 2.4.4 Link Purpose (In Context) (Level A)_](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context#techniques)
-- [SC 2.5.3 Label in Name (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/label-in-name#techniques)
+- [_CS 2.4.4 Link Purpose (In Context) (Level A)_](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context#techniques)
+- [CS 2.5.3 Label in Name (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/label-in-name#techniques)
