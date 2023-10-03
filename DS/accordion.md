@@ -2,13 +2,13 @@
 title: accordion
 ---
 
-# Análise
+## Análise
 
 Accordion General
 
 <img width="1257" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/e32c17ca-8e93-4c9a-a849-d038370d7bf6">
 
-# Bugs encontrados
+## Bugs encontrados
 
 4 aspetos em análise:
 
@@ -17,7 +17,7 @@ Accordion General
 - Marcação: hx > button
 - Relação "Cabeçalho botão" com "painel de info": programática e implicita.
 
-## Ágora (4 falhas)
+### Ágora (4 falhas)
 
 <img width="616" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/02817e77-fbc2-4590-86f4-1acf6d52eeb6">
 
@@ -27,7 +27,7 @@ Accordion General
 - X Marcação cabeçalho: <button><h3></button> (bloco dentro de inline, não é natural)
 - X Relação Cabeçalho e Descrição adicional: não há relação programática; há relação implícita - a descrição está a seguir ao cabeçalho.
 
-## Lightning
+### Lightning
 
 <img width="642" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/873bc625-b10d-44d5-be0d-2c4ccea0b228">
 
