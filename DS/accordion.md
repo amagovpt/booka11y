@@ -2,6 +2,8 @@
 title: accordion
 ---
 
+[índice](index.md)
+
 ## Análise
 
 Accordion General
@@ -23,9 +25,9 @@ Accordion General
 
 
 - X Estado: não informa o estado aberto/fechado? Apesar da variável estar contemplada no componente, ela não é usada no output final do componente.
-- X Semântica: Informa botão mas não informa cabeçalho nem nível
-- X Marcação cabeçalho: <button><h3></button> (bloco dentro de inline, não é natural)
-- X Relação Cabeçalho e Descrição adicional: não há relação programática; há relação implícita - a descrição está a seguir ao cabeçalho.
+- X Semântica: VO informa botão mas não informa cabeçalho nem nível
+- X Marcação cabeçalho: `<button><h3></button>` (bloco dentro de inline, não é natural); esta é a razão pelo qual o leitor de ecrã (VO) não fornece ao utilizador que está perante um "Cabeçalho"
+- X Relação Cabeçalho e Descrição adicional: não há relação programática (ver abaixo Lightning); há relação implícita - a descrição está a seguir ao cabeçalho.
 
 ### Lightning
 
@@ -34,12 +36,12 @@ Accordion General
 
 - OK estado: Informa estado “expandido/comprimido” via aria-expanded true/false (i.e. info é passada às tecnologias de apoio de forma programática)
 - OK Semântico: informa cabeçalho, nível de cabeçalho e botão.
-- OK Marcação cabeçalho: <h2><button></h2> (inline dentro de bloco, é natural)
-- OK Relação Cabeçalho e Descrição adicional: estabelece relação programática via <button aria-controls=“id_descricao”>; há relação implícita em que descrição está a seguir a cabeçalho.
+- OK Marcação cabeçalho: `<h2><button></h2>` (inline dentro de bloco, é natural)
+- OK Relação Cabeçalho e Descrição adicional: estabelece relação programática via `<button aria-controls=“id_descricao”>`; há relação implícita em que descrição está a seguir a cabeçalho.
 
 ## Comportamento esperado do componente
 
- ### Ágora
+### Ágora
 
 > An accordion is an expandable panel with an toggle header that expands or collapses the inner section of content.
 
