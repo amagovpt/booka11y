@@ -9,5 +9,6 @@ O presente exercício contém a aplicação prática ao [_Design System Ágora_]
 índice
 
 - Átomos
+  - [accordion](accordion.md)
   - [anchor](anchor.md)
   - [button](button.md)
