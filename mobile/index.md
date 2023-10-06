@@ -38,3 +38,12 @@ Uma das caraterísticas mais distintivas dos dispositivos móveis é a existênc
 - Métodos de entrada de dados simples e previsíveis
 - Suporte a teclados e outros dispositivos de entrada, alternativos ao ecrã sensível ao toque
 
+## Ampliação e alteração de tamanho do texto
+
+The smaller screen size of mobile devices and some people’s preference to increase the size of content make it vital for developers and designers to ensure content works as expected, even when magnified or resized. Responsive design practices enable content to adjust its size and positioning based on device or software specifications and user settings. On-page options for settings like text resizing can be helpful for increasing user-friendliness.
+
+- Text can be resized at least 200% without using assistive technology
+- Content is presented without loss of information or function when magnified
+- Content does not require scrolling in two directions when magnified
+- Browser’s pinch-to-zoom is not blocked
+
