@@ -40,10 +40,16 @@ Uma das caraterísticas mais distintivas dos dispositivos móveis é a existênc
 
 ## Ampliação e alteração de tamanho do texto
 
-The smaller screen size of mobile devices and some people’s preference to increase the size of content make it vital for developers and designers to ensure content works as expected, even when magnified or resized. Responsive design practices enable content to adjust its size and positioning based on device or software specifications and user settings. On-page options for settings like text resizing can be helpful for increasing user-friendliness.
+O tamanho reduzido do ecrã dos dispositivos móveis e a preferência de algumas pessoas em aumentar o tamanho do conteúdo tornam vital que os programadores e designers garantam que o conteúdo funcione como esperado, mesmo quando ampliado ou redimensionado. Práticas de design responsivo permitem que o conteúdo ajuste o seu tamanho e posicionamento com base nas especificações do dispositivo ou software e nas configurações do utilizador. A existência de opções na página para efetuar configurações como o redimensionamento de texto podem ser úteis para aumentar a facilidade de uso.
 
-- Text can be resized at least 200% without using assistive technology
-- Content is presented without loss of information or function when magnified
-- Content does not require scrolling in two directions when magnified
-- Browser’s pinch-to-zoom is not blocked
+- No mínimo é possível aumentar o tamanho do texto em 200% sem a utilização de tecnologias de apoio 
+- Quando ampliado o conteúdo apresenta-se sem perder informações ou funções
+- Quando ampliado o conteúdo não obriga a efetuar varrimentos horizontais para ser lido
+- A funcionalidade _pinch-to-zoom_ do Navegador Web não está bloqueado
 
+## Make sure orientation and layout don’t limit use
+
+Some mobile experiences are initially designed in either portrait or landscape views, yet some people need or prefer the option to switch screen orientation or always use a fixed orientation. Additionally, all users find mobile websites or apps easier to use when pages work as expected and there is consistency between related pages or functions.
+
+- Screen orientation can change between portrait and landscape
+- Page layout is consistent and predictable
