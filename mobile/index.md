@@ -47,9 +47,9 @@ O tamanho reduzido do ecrã dos dispositivos móveis e a preferência de algumas
 - Quando ampliado o conteúdo não obriga a efetuar varrimentos horizontais para ser lido
 - A funcionalidade _pinch-to-zoom_ do Navegador Web não está bloqueado
 
-## Make sure orientation and layout don’t limit use
+## Orientação e layout da página não limitam a sua utilização
 
-Some mobile experiences are initially designed in either portrait or landscape views, yet some people need or prefer the option to switch screen orientation or always use a fixed orientation. Additionally, all users find mobile websites or apps easier to use when pages work as expected and there is consistency between related pages or functions.
+Algumas experiências móveis são inicialmente concebidas para visualizações em modo retrato ou paisagem, no entanto algumas pessoas precisam ou preferem ter a opção de troca entre o modo de visualização retrato/paisagem sempre ativo ou fazem uso sempre de um dos modos. Para além disso, todos os utilizadores dizem que os sítios Web ou as aplicações móveis são mais fáceis de utilizar quando as suas páginas se apresentam com padrões esperados e apresentam consistência entre páginas e funções.
 
-- Screen orientation can change between portrait and landscape
-- Page layout is consistent and predictable
+- A orientação do ecrã pode ser alterado entre modo retrato e modo paisagem
+- O layout da página é consistente e previsível
