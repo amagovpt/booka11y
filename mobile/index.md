@@ -54,11 +54,20 @@ Algumas experiências móveis são concebidas de origem para visualizações esp
 - A orientação do ecrã pode ser alterado entre modo retrato e modo paisagem
 - O layout da página é consistente e previsível
 
-## Make structure and navigation available to all users
+## Estrutura e navegação disponível para todos os utilizadores
 
-Even though less content may be shown at one time, proper organization and labelling of mobile content is equally important as it is in the desktop experience. All content and pages need to be intuitively navigable visually and with any assistive technology that might be used, like a screen reader. Make pages easy to find, make controls easy to understand, and make sure the experience is optimized for everyone, no matter how they consume the material.
+Mesmo que a regra seja a de mostrar quantidades mais pequenas de conteúdo de uma só vez, a organização e a etiquetagem adequadas dos conteúdos em dispositivos móveis revelam-se tão importantes quanto na experiência em computador. Todas as páginas e conteúdos precisam de ser intuitivamente navegáveis através da visão ou através de qualquer tecnologia de apoio utilizada, como seja um leitor de ecrã. Construir páginas fáceis de pesquisar, com funcionalidades fáceis de compreender e assegurar que a experiência se encontra otimizada para qualquer pessoa independentemente da forma como o vão usar.
 
-- Pages have descriptive titles
-- Headings are properly-nested, in an appropriate reading order, and available to assistive technology
-- Menus, controls, and links work with touch and keyboard
-- Menus, controls, and links are clearly labelled, with and without assistive technology
+- As páginas têm títulos descritivos
+- Os títulos encontram-se hierarquicamente aninhados, numa ordem de leitura apropriada e ao alcance das tecnologias de apoio
+- Os menus, controlos e hiperligações funcionam quer através do toque no ecrã quer através do teclado
+- Usando tecnologias de apoio ou não, os menus, controlos e hiperligações apresentam-se sempre claramente etiquetados
+
+## Provide text alternatives for graphics and media
+
+Just like on a desktop website, or any digital platform, alt text is critical. This allows assistive technology users, those with a slower internet connection, or others to access the information or meaning conveyed in an image, graphic, or other non-text content. The only exceptions are when images are purely decorative, meaning they convey no new information, or when the content is already repeated as text in an easy-to-find place.
+
+- Graphical content has an accessible text alternative
+- Videos provide synchronized and accurate captions
+- Videos provide text transcripts and, as needed, audio descriptions
+- Digital text, not images of text, is used when possible
