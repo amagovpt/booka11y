@@ -63,11 +63,20 @@ Mesmo que a regra seja a de mostrar quantidades mais pequenas de conteúdo de um
 - Os menus, controlos e hiperligações funcionam quer através do toque no ecrã quer através do teclado
 - Usando tecnologias de apoio ou não, os menus, controlos e hiperligações apresentam-se sempre claramente etiquetados
 
-## Provide text alternatives for graphics and media
+## Alternativas em texto para gráficos e multimédia
 
-Just like on a desktop website, or any digital platform, alt text is critical. This allows assistive technology users, those with a slower internet connection, or others to access the information or meaning conveyed in an image, graphic, or other non-text content. The only exceptions are when images are purely decorative, meaning they convey no new information, or when the content is already repeated as text in an easy-to-find place.
+Tal como num sítio Web, ou em qualquer outra plataforma digital, a disponibilização de alternativas em texto é crítico. Esta técnica permite que os utilizadores de tecnologias de apoio, ou todos aqueles que tenham conexões lentas à Internet, ou outros aceder à informação ou ao significado transmitido por uma imagem, um gráfico, ou outro conteúdo não texto. A única exeção vai para a imagens consideradas puramente decorativas, que não transmitem quaisquer informações, ou quando o conteúdo já se encontra em texto num local fácil de encontrar.
 
-- Graphical content has an accessible text alternative
-- Videos provide synchronized and accurate captions
-- Videos provide text transcripts and, as needed, audio descriptions
-- Digital text, not images of text, is used when possible
+- Conteúdo gráfico tem um alternativo em texto acessível
+- Vídeos contêm legendas sincronizadas e sem erros
+- Vídeos contêm transcrições em texto e, se necessário, áudiodescrições
+- Texto e não imagens de texto é usado sempre que possível
+
+## Use color effectively
+
+Colors are important to brand and interface elements. By all means, color should be used creatively and effectively, but doing so requires it be used thoughtfully. The main considerations for color are sufficient color contrast and avoiding color as the only visual cue for important information. While proper color use is equally important on desktop and laptop devices, mobile devices come with smaller screen sizes and are more likely to be used outdoors or in other settings where it can be more difficult to read what’s on screen. Therefore, color contrast and avoiding the use of color alone aren’t critical only for individuals with color blindness or low vision, but for almost everyone.
+
+- Most text has a contrast ratio of at least 4.5:1
+- Large text has a contrast ratio of at least 3:1
+- Interface and graphical components have a contrast ratio of at least 3:1
+- Information or meaning (like an error) is not conveyed by color alone
