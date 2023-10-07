@@ -47,9 +47,18 @@ O tamanho reduzido do ecrã dos dispositivos móveis e a preferência de algumas
 - Quando ampliado o conteúdo não obriga a efetuar varrimentos horizontais para ser lido
 - A funcionalidade _pinch-to-zoom_ do Navegador Web não está bloqueado
 
-## Orientação e layout da página não limitam a sua utilização
+## Orientação e layout não limitam utilização
 
-Algumas experiências móveis são inicialmente concebidas para visualizações em modo retrato ou paisagem, no entanto algumas pessoas precisam ou preferem ter a opção de troca entre o modo de visualização retrato/paisagem sempre ativo ou fazem uso sempre de um dos modos. Para além disso, todos os utilizadores dizem que os sítios Web ou as aplicações móveis são mais fáceis de utilizar quando as suas páginas se apresentam com padrões esperados e apresentam consistência entre páginas e funções.
+Algumas experiências móveis são concebidas de origem para visualizações espcíficas em modo retrato ou paisagem, no entanto há pessoas que precisam ou preferem ter a opção de troca entre modos de visualização retrato/paisagem sempre ativo ou que usam sempre um dos modos. Para além disso, todos os utilizadores dizem que os sítios Web ou as aplicações móveis são mais fáceis de utilizar quando as suas páginas se apresentam com padrões esperados e se apresentam de forma consistente entre páginas e funções.
 
 - A orientação do ecrã pode ser alterado entre modo retrato e modo paisagem
 - O layout da página é consistente e previsível
+
+## Make structure and navigation available to all users
+
+Even though less content may be shown at one time, proper organization and labelling of mobile content is equally important as it is in the desktop experience. All content and pages need to be intuitively navigable visually and with any assistive technology that might be used, like a screen reader. Make pages easy to find, make controls easy to understand, and make sure the experience is optimized for everyone, no matter how they consume the material.
+
+- Pages have descriptive titles
+- Headings are properly-nested, in an appropriate reading order, and available to assistive technology
+- Menus, controls, and links work with touch and keyboard
+- Menus, controls, and links are clearly labelled, with and without assistive technology
