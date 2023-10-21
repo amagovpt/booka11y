@@ -76,14 +76,14 @@ Tal como num sítio Web, ou em qualquer outra plataforma digital, a disponibiliz
 - Vídeos contêm transcrições em texto e, se necessário, áudiodescrições
 - Texto e não imagens de texto é usado sempre que possível
 
-## Utilize eficazmente a cor
+## Utilize a cor de modo efetivo
 
-As cores são importantes elementos de personalização de marcas e interfaces. É importante esforçarmo-nos sempre por usar a cor de forma criativa e eficaz, mas para conseguir isso mesmo é preciso fazê-lo de forma cuidadosa. Na verdade existem apenas duas importantes considerações de acessibilidade a ter em conta: usar um contraste suficiente e evitar a cor como única pista visual para transmitir informações importantes. Embora o uso adequado de cores seja igualmente importante em dispositivos desktop e laptop, os dispositivos móveis têm tamanhos de ecrã menores e são mais propensos a serem usados ao ar livre ou em outras configurações onde pode ser mais difícil ler o que está no ecrã. Assim, bons contrastes e a não utilização da cor por si só como forma de transmitir informação, não são críticos apenas para as pessoas com daltonismo ou com baixa visão, mas para quase todos.
+As cores são importantes elementos de personalização de marcas e interfaces. É importante esforçarmo-nos sempre por usar a cor de forma criativa, mas efetiva e que funcione para vários utilizadores. Na verdade, existem apenas duas importantes considerações de acessibilidade a ter em conta: usar um contraste suficiente e evitar a cor como única pista visual para transmitir informações importantes. Embora o uso adequado de cores seja igualmente importante em dispositivos desktop e laptop, nos dispositivos móveis o uso da cor torna-se ainda mais crítico, pela sua utilização nos mais variados ambientes, com diferentes condições de luminosidade, onde se torna mais difícil ler o ecrã. Assim, bons contrastes e a não utilização da cor por si só como forma de transmitir informação, não são críticos apenas para as pessoas com daltonismo ou com baixa visão, mas para quase todos.
 
 - O texto normal apresenta-se com um rácio de contraste de, no mínimo, 4.5 para 1
 - O texto grande apresenta-se com um rácio de contraste de, no mínimo, 3 para 1
 - As componentes de interface e as componentes gráficas apresentam-se com um rácio de contraste de, no mínimo, 3 para 1
-- Informação ou significado (por exemplo um erro) não é transmitido apenas pela cor
+- Informação ou significado (por exemplo um erro) não é veiculado apenas pela cor
 
 ## Referências
 
