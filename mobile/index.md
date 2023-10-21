@@ -26,7 +26,7 @@ Normalmente os dispositivos móveis são controlados por gestos, tais como passa
 
 Os gestos nem sempre são intuitivos, especialmente quando são diferentes de aplicação para aplicação, assim como nem sempre é óbvio para todos os utilizadores quais são as ações que estão disponíveis num determinado momento.
 
-Para que os utilizadores não façam involuntariamente coisas como abrir um menu que não queriam ou perder o seu lugar num processo, é sempre importante disponibilizar contexto e instruções de como prosseguir num sítio Web ou aplicação móvel.
+Para que os utilizadores não façam involuntariamente coisas como abrir um menu que não queriam ou perder a sua posição num processo, é sempre importante disponibilizar contexto e instruções de como prosseguir num sítio Web ou aplicação móvel.
 
 - Indicadores no ecra e texto acessível mostram quais são os gestos disponíveis e como se usam
 - Indicadores no ecrã e texto acessível mostram que esses elementos são ativavéis       
