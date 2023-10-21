@@ -1,5 +1,7 @@
 ---
 title: Checklist de Acessibilidade para aplicações móveis
+layout: home
+categories: checklist apps
 ---
 
 ## Design para ecrãs pequenos
