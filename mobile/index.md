@@ -1,5 +1,5 @@
 ---
-Checklist de Acessibilidade para aplicações móveis
+title: Checklist de Acessibilidade para aplicações móveis
 ---
 
 ## Design para ecrãs pequenos
@@ -85,4 +85,4 @@ As cores são importantes elementos de personalização de marcas e interfaces. 
 
 ## Referências
 
-Bureau of Internet Accessibility. (2021). The definitive mobile accessibility checklist: Open your mobile website and apps to a wider audience. Estados Unidos da América: [BOIA](https://www.boia.org).
+Bureau of Internet Accessibility. (2021). [The definitive mobile accessibility checklist: Open your mobile website and apps to a wider audience](https://www.boia.org/definitive-mobile-accessibility-checklist). Estados Unidos da América: [BOIA](https://www.boia.org).
