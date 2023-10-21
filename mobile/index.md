@@ -4,9 +4,9 @@ layout: post
 categories: checklist apps
 ---
 
-## Crie <em lang="en">designs</em> para ecrãs de reduzida dimensão
+## Crie <em lang="en">designs</em> para ecrãs de dimensão reduzida
 
-A experiência móvel introduz ecrãs muito mais pequenos do que os dos computadores de secretária ou os dos computadores portáteis. Porque os utilizadores dos dispositivos móveis lêem e interagem com conteúdo num ecrã de espaço limitado, a informação precisa de ser apresentada cuidadosamente e toda a interatividade deve ter particular atenção às reduzidas dimensões dos alvos de toque.
+Na experiência com dispositivos móveis os ecrãs são, em regra, muito mais pequenos do que nos computadores de secretária ou mesmo nos portáteis. A leitura e a interação num ecrã de dimensão reduzida obriga a que a informação seja apresentada de forma mais concisa e, para o caso da interação, esta deve ser construída tendo particular atenção às dimensões reduzidas  dos alvos de toque.
 
 - Quantidade de conteúdo exibida de cada vez razoável
 - Botões e controlos suficientemente grandes para serem vistos e selecionados pelo toque
