@@ -1,6 +1,6 @@
 ---
 title: Checklist de Acessibilidade para aplicações móveis
-layout: home
+layout: post
 categories: checklist apps
 ---
 
