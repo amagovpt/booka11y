@@ -24,18 +24,18 @@ Normalmente os dispositivos móveis são controlados por gestos, tais como passa
 
 ## Forneça indicações para gestos e ações
 
-Os gestos nem sempre são intuitivos, especialmente quando são diferentes de aplicação para aplicação, assim como nem sempre é óbvio para todos os utilizadores quais são as ações que estão disponíveis num determinado momento.
+Os gestos nem sempre são intuitivos, especialmente quando fogem do padrão regular ou correspondem a padrões pouco utilizados. Algo semelhante acontece com as ações disponíveis num determinado momento - nem sempre é óbvio para todos os utilizadores que ações estão disponíveis e que decisão tomar.
 
-Para que os utilizadores não façam involuntariamente coisas como abrir um menu que não queriam ou perder a sua posição num processo, é sempre importante disponibilizar contexto e instruções de como prosseguir num sítio Web ou aplicação móvel.
+Para que os utilizadores não façam involuntariamente coisas como abrir um menu que não queriam ou sair de um processo que desejavam continuar, é importante fornecer contexto e instruções de como prosseguir num dado ponto de um sítio Web ou de uma aplicação móvel.
 
-- Indicadores no ecra e texto acessível mostram quais são os gestos disponíveis e como se usam
-- Indicadores no ecrã e texto acessível mostram que esses elementos são ativavéis       
+- Indicações no ecra e texto acessível mostram quais são os gestos disponíveis e como se usam
+- Indicações no ecrã e texto acessível mostram que esses elementos são ativavéis       
 - Elementos ativáveis estão agrupados intuitivamente
-- Existem instruções claras, em texto, para interações complexas
+- Estão disponíveis instruções claras, em texto, para interações complexas
 
 ## Permita o uso de múltiplos métodos de entrada e inserção de dados
 
-Uma das caraterísticas mais distintivas dos dispositivos móveis é a existência de um ecrã sensível ao toque. No entanto, nem todos podem navegar ou inserir dados através de gestos ou toques precisos no ecrã. O conteúdo não deve impedir o uso de outros métodos de operar a interface ou de inserir dados que existem para além do toque no ecrã. É importante que os métodos de operação e inserção disponíveis suportem dispositivos de entrada alternativos, como sejam os teclados externos, dispositivos apontadores, manipulos e outras opções acessíveis. A diversidade dos métodos de operação e inserção torna o conteúdo móvel mais acessível e utilizável a pessoas que têm dificuldade em usar ecrãs sensíveis ao toque.
+Uma das caraterísticas mais distintivas dos dispositivos móveis é a existência de um ecrã sensível ao toque. No entanto, nem todos podem navegar ou inserir dados através de gestos ou toques precisos no ecrã. O conteúdo não deve impedir o uso de outros métodos de operar a interface ou de inserir dados que existem para além do toque no ecrã. É importante que os métodos de operação e inserção de dados disponíveis suportem dispositivos de entrada alternativos, como sejam os teclados externos, dispositivos apontadores, manipulos e outras opções acessíveis. A diversidade dos métodos de operação e inserção torna o conteúdo móvel mais acessível e utilizável a pessoas que têm dificuldade em usar ecrãs sensíveis ao toque.
 
 - Teclado virtual definido para o tipo de entrada de dados
 - Métodos de entrada de dados simples e previsíveis
