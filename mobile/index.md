@@ -15,13 +15,12 @@ Na experiência com dispositivos móveis os ecrãs são, em regra, muito mais pe
 
 ## Crie gestos simples e disponibilize opções acessíveis
 
-Normalmente os dispositivos móveis são ocntrolados por gestos, tais como deslizes direcionais ou toques singulares efetuados com os dedos. No entanto, os gestos disponíveis por defeito não funcionam para todas as pessoas. Gestos complexos, como sejam os gestos para desenhar formas, que obrigam a usar vários dedos ou a efetuar múltiplos toques, são difíceis, ou mesmo impossíveis, de compreender ou executar por algumas pessoas. Por isso, é importante que os gestos móveis sejam acompanhados por opções mais tradicionais e não interfiram com a tecnologia de apoio ou com os métodos alternativos de controlo.
+Normalmente os dispositivos móveis são controlados por gestos, tais como passar um ou mais dedos em várias direções ou dar um ou mais toques com um ou mais dedos. No entanto, os gestos disponíveis por defeito nos dispositivos não funcionam para todas as pessoas. Gestos complexos, como sejam os gestos para desenhar formas, que obrigam a usar vários dedos ou a efetuar múltiplos toques, são difíceis, ou mesmo impossíveis, de compreender ou executar por alguns utilizadores. Por isso, é importante que os gestos sejam sempre acompanhados por opções alternativas que permitam o controlo via tecnologias de apoio ou que respondam aos diferentes métodos de controlo alternativos.
 
 - Controlos de toque são ativados após deixar de exercer pressão (_up event_) e não após o toque inicial (_down event_)
 - Funcionalidades ativadas através do movimento, inclinação, ou do sacudir físico do dispositivo podem ser desativadas
 - Funcionalidades ativadas através do movimento físico do dispositivo podem ser operadas através de componentes de interface
-- Multipoint or path-based gestures have single-pointer or non-path-based options
-- Para gestos multiponto ou baseados num caminho, existem opções baseadas num só ponto e não baseadas num caminho
+- Gestos Multiponto (uso simultâneo de vários dedos) ou gestos baseados no desenho de uma trajetória estão também disponíveis com gestos que fazem uso do toque de um só ponto ou que não obrigam a desenhar uma trajetória
 
 ## Forneça indicações para gestos e ações
 
