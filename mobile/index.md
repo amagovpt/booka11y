@@ -6,10 +6,10 @@ categories: checklist apps
 
 ## Crie <em lang="en">designs</em> para ecrãs de dimensão reduzida
 
-Na experiência com dispositivos móveis os ecrãs são, em regra, muito mais pequenos do que nos computadores de secretária ou mesmo nos portáteis. A leitura e a interação num ecrã de dimensão reduzida obriga a que a informação seja apresentada de forma mais concisa e, para o caso da interação, esta deve ser construída tendo particular atenção às dimensões reduzidas  dos alvos de toque.
+Na experiência com dispositivos móveis os ecrãs são, em regra, muito mais pequenos do que nos computadores de secretária ou mesmo nos portáteis. A leitura e a interação num ecrã de dimensão reduzida obriga a que a informação seja apresentada de forma mais concisa e, para o caso da interação, esta deva ser construída dando particular atenção às dimensões reduzidas  dos alvos de toque.
 
 - Quantidade de conteúdo exibida de cada vez razoável
-- Botões e controlos suficientemente grandes para serem vistos e selecionados pelo toque
+- Botões e controlos suficientemente grandes para serem percecionados pela visão e selecionáveis pelo toque
 - Botões e controlos com espaço envolvente inativo suficiente para evitar a seleção por engano dos controlos vizinhos
 - Campos de formulário posicionados abaixo dos seus rótulos
 
