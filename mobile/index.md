@@ -41,11 +41,11 @@ Uma das caraterísticas mais distintivas dos dispositivos móveis é a existênc
 - 4.2 Métodos de entrada de dados simples e previsíveis
 - 4.3 Suporte a teclados e outros dispositivos de entrada, alternativos ao ecrã sensível ao toque
 
-## 5. Permita a ativação da ampliação e do redimensionamento do texto
+## 5. Permita a ativação da ampliação e o redimensionamento do texto
 
-O tamanho reduzido do ecrã dos dispositivos móveis e a preferência de alguns utilizadores que os levam a ajustar o tamanho do conteúdo tornam vital que os programadores e os <em lang="en">designers</em> garantam que o conteúdo funcione como esperado, mesmo quando ampliado ou redimensionado. Práticas de conceção responsivas permitem que o conteúdo se adapte a variações do tamanho do texto e novos posicionamentos, de acordo com as especificações do dispositivo, do software e ou das preferências do utilizador. A existência de opções na página para efetuar configurações como o redimensionamento de texto podem ser úteis para aumentar a facilidade de uso.
+O tamanho reduzido dos ecrãs dos dispositivos móveis levam os utilizadores a redimensionar frequentemente o tamanho do texto. Dada a sua importância, hoje em dia, esta é uma função que se encontra disponível em quase todos os dispositivos móveis. É importante que programadores e <em lang="en">designers</em> não a desativem e que garantam que o conteúdo funciona como esperado, mesmo quando ampliado ou redimensionado. Práticas de conceção responsivas permitem que o conteúdo se adapte a variações do tamanho do texto e diferentes posicionamentos, de acordo com as especificações do dispositivo, do software e das preferências do utilizador. A existência de opções nas páginas para redimensionar texto pode ser útil e contribbuir para aumentar a facilidade de uso da aplicação.
 
-- 5.1 - [No mínimo é possível redimensionar o tamanho do texto em 200% sem a utilização de tecnologias de apoio](51.md)
+- 5.1 - [No mínimo é possível redimensionar o texto em 200% sem a utilização de tecnologias de apoio](51.md)
 - 5.2 Quando ampliado o conteúdo apresenta-se sem perder informações ou funções
 - 5.3 Quando ampliado o conteúdo não obriga a efetuar varrimentos horizontais para ser lido
 - 5.4 A funcionalidade _pinch-to-zoom_ (tocar no ecrã com 2 dedos e sem os levantar, afastá-los) do Navegador Web não está bloqueada
