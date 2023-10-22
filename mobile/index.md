@@ -41,14 +41,14 @@ Uma das caraterísticas mais distintivas dos dispositivos móveis é a existênc
 - Métodos de entrada de dados simples e previsíveis
 - Suporte a teclados e outros dispositivos de entrada, alternativos ao ecrã sensível ao toque
 
-## Ative a ampliação e o redimensionamento do tamanho do texto
+## Permita a ativação da ampliação e do redimensionamento do tamanho do texto
 
-O tamanho reduzido do ecrã dos dispositivos móveis e a preferência de algumas pessoas em aumentar o tamanho do conteúdo tornam vital que os programadores e designers garantam que o conteúdo funcione como esperado, mesmo quando ampliado ou redimensionado. Práticas de design responsivo permitem que o conteúdo ajuste o seu tamanho e posicionamento com base nas especificações do dispositivo ou software e nas configurações do utilizador. A existência de opções na página para efetuar configurações como o redimensionamento de texto podem ser úteis para aumentar a facilidade de uso.
+O tamanho reduzido do ecrã dos dispositivos móveis e a preferência de alguns utilizadores que os levam a ajustar o tamanho do conteúdo tornam vital que os programadores e os <em lang="en">designers</em> garantam que o conteúdo funcione como esperado, mesmo quando ampliado ou redimensionado. Práticas de conceção responsivas permitem que o conteúdo se adapte a variações do tamanho do texto e novos posicionamentos, de acordo com as especificações do dispositivo, do software e ou das preferências do utilizador. A existência de opções na página para efetuar configurações como o redimensionamento de texto podem ser úteis para aumentar a facilidade de uso.
 
 - No mínimo é possível aumentar o tamanho do texto em 200% sem a utilização de tecnologias de apoio 
 - Quando ampliado o conteúdo apresenta-se sem perder informações ou funções
 - Quando ampliado o conteúdo não obriga a efetuar varrimentos horizontais para ser lido
-- A funcionalidade _pinch-to-zoom_ do Navegador Web não está bloqueado
+- A funcionalidade _pinch-to-zoom_ (tocar no ecrã com 2 dedos e sem os levantar, afastá-los) do Navegador Web não está bloqueado
 
 ## Certifique-se que a orientação e o layout não limitam o uso
 
