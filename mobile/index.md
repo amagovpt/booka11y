@@ -50,34 +50,34 @@ O tamanho reduzido do ecrã dos dispositivos móveis e a preferência de alguns 
 - Quando ampliado o conteúdo não obriga a efetuar varrimentos horizontais para ser lido
 - A funcionalidade _pinch-to-zoom_ (tocar no ecrã com 2 dedos e sem os levantar, afastá-los) do Navegador Web não está bloqueado
 
-## Certifique-se que a orientação e o layout não limitam o uso
+## Certifique-se que a orientação do dispositivo e o layout da página não limitam o uso
 
-Algumas experiências móveis são concebidas de origem para visualizações espcíficas em modo retrato ou paisagem, no entanto há pessoas que precisam ou preferem ter a opção de troca entre modos de visualização retrato/paisagem sempre ativo ou que usam sempre um dos modos. Para além disso, todos os utilizadores dizem que os sítios Web ou as aplicações móveis são mais fáceis de utilizar quando as suas páginas se apresentam com padrões esperados e se apresentam de forma consistente entre páginas e funções.
+Algumas experiências móveis são concebidas de origem para visualizações espcíficas em modo retrato ou paisagem, no entanto há pessoas que precisam ou preferem ter a opção de troca entre modos de visualização retrato/paisagem sempre ativo ou que usam sempre um dos modos. Para além disso, todos os utilizadores dizem que os sítios Web ou as aplicações móveis são mais fáceis de usar quando as suas páginas se apresentam com padrões esperados e se apresentam de forma consistente entre páginas e entre funções.
 
 - A orientação do ecrã pode ser alterado entre modo retrato e modo paisagem
 - O layout da página é consistente e previsível
 
-## Faça com que a estrutura e a navegação estejam disponíveis para todos os utilizadores
+## Faça com que a estrutura e a navegação se apresentem a todos os utilizadores
 
-Mesmo que a regra seja a de mostrar quantidades mais pequenas de conteúdo de uma só vez, a organização e a etiquetagem adequadas dos conteúdos em dispositivos móveis revelam-se tão importantes quanto na experiência em computador. Todas as páginas e conteúdos precisam de ser intuitivamente navegáveis através da visão ou através de qualquer tecnologia de apoio utilizada, como seja um leitor de ecrã. Construir páginas fáceis de pesquisar, com funcionalidades fáceis de compreender e assegurar que a experiência se encontra otimizada para qualquer pessoa independentemente da forma como o vão usar.
+Mesmo que a regra seja a de mostrar quantidades mais pequenas de conteúdo de uma só vez, a organização e a etiquetagem adequada dos conteúdos em dispositivos móveis são tão relevantes   quanto na experiência em computador. Todas as páginas e conteúdos precisam de ser intuitivamente navegáveis através da visão ou de qualquer tecnologia de apoio utilizada - um leitor de ecrã, por exemplo. Construir páginas fáceis de pesquisar, com funcionalidades fáceis de compreender e assegurar que a experiência se encontra otimizada para qualquer utilizador independentemente da forma de uso.
 
 - As páginas têm títulos descritivos
 - Os títulos encontram-se hierarquicamente aninhados, numa ordem de leitura apropriada e ao alcance das tecnologias de apoio
-- Os menus, controlos e hiperligações funcionam quer através do toque no ecrã quer através do teclado
-- Usando tecnologias de apoio ou não, os menus, controlos e hiperligações apresentam-se sempre claramente etiquetados
+- Menus, controlos e hiperligações funcionam quer através do toque no ecrã quer através do teclado
+- Menus, controlos e hiperligações apresentam-se sempre claramente etiquetados independentemente de se usarem ou não tecnologias de apoio
 
-## Forneça alternativas em texto para os gráficos e a multimédia
+## Forneça alternativas em texto para gráficos e multimédia
 
-Tal como num sítio Web, ou em qualquer outra plataforma digital, a disponibilização de alternativas em texto é crítico. Esta técnica permite que os utilizadores de tecnologias de apoio, ou todos aqueles que tenham conexões lentas à Internet, ou outros aceder à informação ou ao significado transmitido por uma imagem, um gráfico, ou outro conteúdo não texto. A única exeção vai para a imagens consideradas puramente decorativas, que não transmitem quaisquer informações, ou quando o conteúdo já se encontra em texto num local fácil de encontrar.
+Tal como num sítio Web, ou em qualquer outra plataforma digital, a disponibilização de alternativas em texto é crítica. Esta técnica permite que os utilizadores de tecnologias de apoio, mas também todos aqueles que tenham conexões lentas à Internet ou que, por qualquer razão técnica ou ambiental, se vejam impedidos de aceder a uma imagem, um gráfico, um vídeo ou um registo áudio, disponham de uma forma alternativa em texto que lhes permita aceder à mensagem veiculada por aqueles.
 
 - Conteúdo gráfico tem um alternativo em texto acessível
 - Vídeos contêm legendas sincronizadas e sem erros
-- Vídeos contêm transcrições em texto e, se necessário, áudiodescrições
-- Texto e não imagens de texto é usado sempre que possível
+- Vídeos contêm transcrições em texto e, se necessário, também dispõem de áudiodescrição
+- Textos e não imagens de texto são usados sempre que possível
 
 ## Utilize a cor de modo efetivo
 
-As cores são importantes elementos de personalização de marcas e interfaces. É importante esforçarmo-nos sempre por usar a cor de forma criativa, mas efetiva e que funcione para vários utilizadores. Na verdade, existem apenas duas importantes considerações de acessibilidade a ter em conta: usar um contraste suficiente e evitar a cor como única pista visual para transmitir informações importantes. Embora o uso adequado de cores seja igualmente importante em dispositivos desktop e laptop, nos dispositivos móveis o uso da cor torna-se ainda mais crítico, pela sua utilização nos mais variados ambientes, com diferentes condições de luminosidade, onde se torna mais difícil ler o ecrã. Assim, bons contrastes e a não utilização da cor por si só como forma de transmitir informação, não são críticos apenas para as pessoas com daltonismo ou com baixa visão, mas para quase todos.
+As cores são elementos importantes para personalizar marcas e interfaces. A regra é usar a cor de forma criativa, mas efetiva, que funcione para vários utilizadores. Na verdade, existem apenas duas importantes considerações de acessibilidade a ter em conta: (1) usar um contraste suficiente e (2) evitar a cor como única pista visual para veicular informações importantes. Embora o uso adequado de cores seja igualmente importante em computadores, nos dispositivos móveis o uso da cor torna-se ainda mais crítico. A utilização dos dispositivos móveis nos mais diversos ambientes, com diferentes condições de luminosidade, torna a tarefa de ver o ecrã um desafio mais sensível às cores em uso. Desafio que afeta em maior ou menor grau todos os utilizadores e não apenas pessoas com dificuldades de perceção da cor ou com baixa visão.
 
 - O texto normal apresenta-se com um rácio de contraste de, no mínimo, 4.5 para 1
 - O texto grande apresenta-se com um rácio de contraste de, no mínimo, 3 para 1
