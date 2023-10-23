@@ -87,3 +87,7 @@ As cores são elementos importantes para personalizar marcas e interfaces. A reg
 ## Referências
 
 Bureau of Internet Accessibility. (2021). [The definitive mobile accessibility checklist: Open your mobile website and apps to a wider audience](https://www.boia.org/definitive-mobile-accessibility-checklist). Estados Unidos da América: [BOIA](https://www.boia.org).
+
+W3C/WAI. (2015). [Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](https://www.w3.org/TR/mobile-accessibility-mapping/). W3C First Public Working Draft 26 February 2015.
+
+W3C/WAI. (2023). [Techniques for WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/). Developed by Accessibility Guidelines Working Group (AG WG) Participants. Updated 20 June 2023.
