@@ -5,7 +5,8 @@ O presente repositório pertence à Equipa de Usabilidade e Conteúdos. No BookA
 Conteúdos:
 
 - Auditoria de elementos HTML de uma página Web com leitores de ecrã
-  - [NVDA](nvda.md)
+  - [NVDA+Windows](nvda.md)
+  - [TalkBack+Android](android.md)
 - Listas de testes de validadores de acessibilidade Web
   - [Lista de testes automáticos HTML implementados no AXE](https://dequeuniversity.com/rules/axe/4.4/)
   
