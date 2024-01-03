@@ -10,5 +10,7 @@ O presente exercício contém a aplicação prática ao [_Design System Ágora_]
 
 - Átomos
   - [accordion](accordion.md)
+/**
   - [anchor](anchor.md)
   - [button](button.md)
+**/
