@@ -81,7 +81,7 @@ As cores são elementos importantes para personalizar marcas e interfaces. A reg
 
 - 9.1 O texto normal apresenta-se com um rácio de contraste de, no mínimo, 4.5 para 1
 - 9.2 O texto grande apresenta-se com um rácio de contraste de, no mínimo, 3 para 1
-- 9.3 As componentes de interface e as componentes gráficas apresentam-se com um rácio de contraste de, no mínimo, 3 para 1
+- [9.3 As componentes de interface e as componentes gráficas apresentam-se com um rácio de contraste de, no mínimo, 3 para 1](93.md)
 - 9.4 Informação ou significado (por exemplo um erro) não é veiculado apenas pela cor
 
 ## Referências
