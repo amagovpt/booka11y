@@ -15,6 +15,12 @@ Nota 1: Meios alternativos de identificação do utilizador ou meios alternativo
 
 Nota 2: Métodos biométricos baseados em características biológicas diferentes aumentam a probabilidade de que indivíduos com deficiência possuam pelo menos uma das características biológicas especificadas. Exemplos de características biológicas diferentes são impressões digitais, padrões de retina ocular, voz e rosto.
 
+5.4 Preservação de informações de acessibilidade durante a conversão
+
+Sempre que o **Conteúdo Web** converta informações ou comunicações, toda a informação documentada de suporte à acessibilidade, não proprietária, deve ser preservada, na medida em que tais informações possam ser parte ou sejam suportadas pelo formato de destino.
+
+
+
 
 
 
