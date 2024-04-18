@@ -10,7 +10,7 @@ Na experiência com dispositivos móveis os ecrãs são, em regra, muito mais pe
 
 - [1.1 Quantidade razoável de conteúdo exibida de cada vez](11.md)
 - [1.2 Botões e controlos suficientemente grandes para serem percecionados pela visão e selecionáveis pelo toque](12.md)
-- 1.3 Botões e controlos com espaço envolvente inativo suficiente para evitar a seleção por engano dos controlos vizinhos
+- [1.3 Botões e controlos com espaço envolvente inativo suficiente para evitar a seleção por engano dos controlos vizinhos](13.md)
 - 1.4 Campos de formulário posicionados abaixo dos seus rótulos
 
 ## 2. Crie gestos simples e disponibilize opções acessíveis
