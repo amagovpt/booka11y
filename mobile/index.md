@@ -17,7 +17,7 @@ Na experiência com dispositivos móveis os ecrãs são, em regra, muito mais pe
 
 Normalmente os dispositivos móveis são controlados por gestos, tais como passar um ou mais dedos em várias direções ou dar um ou mais toques com um ou mais dedos. No entanto, os gestos disponíveis por defeito nos dispositivos não funcionam para todas as pessoas. Gestos complexos, como sejam os gestos para desenhar formas, que obrigam a usar vários dedos ou a efetuar múltiplos toques, são difíceis, ou mesmo impossíveis, de compreender ou executar por alguns utilizadores. Por isso, é importante que os gestos sejam sempre acompanhados por opções alternativas que permitam o controlo via tecnologias de apoio ou que respondam aos diferentes métodos de controlo alternativos.
 
-- 2.1 Controlos de toque são ativados após deixar de exercer pressão (_up event_) e não após o toque inicial (_down event_)
+- [2.1 Controlos de toque são ativados após deixar de exercer pressão (_up event_) e não após o toque inicial (_down event_)](21.md)
 - 2.2 Funcionalidades ativadas através do movimento, inclinação, ou do sacudir físico do dispositivo podem ser desativadas
 - 2.3 Funcionalidades ativadas através do movimento físico do dispositivo podem ser operadas através de componentes de interface
 - 2.4 Gestos Multiponto (uso simultâneo de vários dedos) ou gestos baseados no desenho de uma trajetória estão também disponíveis com gestos que fazem uso do toque de um só ponto ou que não obrigam a desenhar uma trajetória
