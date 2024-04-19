@@ -19,8 +19,8 @@ Normalmente os dispositivos móveis são controlados por gestos, tais como passa
 
 - [2.1 Controlos de toque são ativados após deixar de exercer pressão (_up event_) e não após o toque inicial (_down event_)](21.md)
 - [2.2 Funcionalidades ativadas através do movimento, inclinação, ou do sacudir físico do dispositivo podem ser desativadas)](22.md)
-- 2.3 Funcionalidades ativadas através do movimento físico do dispositivo podem ser operadas através de componentes de interface
-- 2.4 Gestos Multiponto (uso simultâneo de vários dedos) ou gestos baseados no desenho de uma trajetória estão também disponíveis com gestos que fazem uso do toque de um só ponto ou que não obrigam a desenhar uma trajetória
+- [2.3 Funcionalidades ativadas através do movimento físico do dispositivo podem ser operadas através de componentes de interface)](23.md)
+- [2.4 Gestos Multiponto (uso simultâneo de vários dedos) ou gestos baseados no desenho de uma trajetória estão também disponíveis com gestos que fazem uso do toque de um só ponto ou que não obrigam a desenhar uma trajetória)](23.md)
 
 ## 3. Forneça indicações para gestos e ações
 
