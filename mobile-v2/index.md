@@ -84,6 +84,14 @@ As cores são elementos importantes para personalizar marcas e interfaces. A reg
 - [9.3 As componentes de interface e as componentes gráficas apresentam-se com um rácio de contraste de, no mínimo, 3 para 1](93.md)
 - 9.4 Informação ou significado (por exemplo um erro) não é veiculado apenas pela cor
 
+## 10. Idioma da aplicação
+
+10.1 Idioma escrito e codificado na aplicação (3.4.1 MCAG)
+
+Notas para Procedimento de teste
+
+- O idioma codificado na aplicação corresponde ao idioma escrito. (MCAG); uma das formas de testar este requisito pode ser feita usando o leitor de ecrã existente no sistema operaitvo. Em iOS use o VoiceOver; em Android use o TalkBack. Configure os leitores de ecrã para que usem o sintetizador codificado por defeito. Isto permite que o leitor de ecrã procure na aplicação suporte para saber o idioma do sintetizador a usar. Se o leitor de ecrã for buscar um sintetizador em inglês para ler info em português, então algo poderá estar errado. Verifique se o idioma principal codificado na aplicação corresponde ao idioma em que os textos da aplicação se encontram escritos. Tome nota que quando o idioma não está codificado explicitamente na aplicação, as tecnologias têm tendência a escolher, por defeito, o inglês - se está a fazer aplicações em português, lembre-se disso e codifique sempre de forma explicita o idioma português na sua aplicação.
+
 ## Referências
 
 Bureau of Internet Accessibility. (2021). [The definitive mobile accessibility checklist: Open your mobile website and apps to a wider audience](https://www.boia.org/definitive-mobile-accessibility-checklist). Estados Unidos da América: [BOIA](https://www.boia.org).
