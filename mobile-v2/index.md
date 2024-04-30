@@ -86,7 +86,7 @@ As cores são elementos importantes para personalizar marcas e interfaces. A reg
 
 ## 10. Idioma da aplicação
 
-### [10.1 O idioma principal codificado na página da aplicação corresponde ao idioma escrito](10.md)
+- [10.1 O idioma principal codificado na página da aplicação corresponde ao idioma escrito](10.md)
 
 ## Referências
 
