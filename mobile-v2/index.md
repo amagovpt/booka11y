@@ -86,11 +86,7 @@ As cores são elementos importantes para personalizar marcas e interfaces. A reg
 
 ## 10. Idioma da aplicação
 
-10.1 Idioma escrito e codificado na aplicação (3.4.1 MCAG)
-
-Notas para Procedimento de teste
-
-- O idioma codificado na aplicação corresponde ao idioma escrito. (MCAG); uma das formas de testar este requisito pode ser feita usando o leitor de ecrã existente no sistema operaitvo. Em iOS use o VoiceOver; em Android use o TalkBack. Configure os leitores de ecrã para que usem o sintetizador codificado por defeito. Isto permite que o leitor de ecrã procure na aplicação suporte para saber o idioma do sintetizador a usar. Se o leitor de ecrã for buscar um sintetizador em inglês para ler info em português, então algo poderá estar errado. Verifique se o idioma principal codificado na aplicação corresponde ao idioma em que os textos da aplicação se encontram escritos. Tome nota que quando o idioma não está codificado explicitamente na aplicação, as tecnologias têm tendência a escolher, por defeito, o inglês - se está a fazer aplicações em português, lembre-se disso e codifique sempre de forma explicita o idioma português na sua aplicação.
+### [10.1 O idioma principal codificado na página da aplicação corresponde ao idioma escrito](10.md)
 
 ## Referências
 
