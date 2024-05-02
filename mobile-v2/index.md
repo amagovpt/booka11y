@@ -8,10 +8,9 @@ categories: checklist apps
 
 Na experiência com dispositivos móveis os ecrãs são, em regra, muito mais pequenos do que nos computadores de secretária ou mesmo nos portáteis. A leitura e a interação num ecrã de dimensão reduzida obriga a que a informação seja apresentada de forma mais concisa e, para o caso da interação, esta deva ser construída dando particular atenção às dimensões reduzidas  dos alvos de toque. 
 
-- [1.1 Quantidade razoável de conteúdo exibida de cada vez](11.md)
-- [1.2 Botões e controlos suficientemente grandes para serem percecionados pela visão e selecionáveis pelo toque](12.md)
-- <font color="gray">1.3 Botões e controlos com espaço envolvente inativo suficiente para evitar a seleção por engano dos controlos vizinhos</font>
-- [1.4 Campos de formulário posicionados abaixo dos seus rótulos](14.md)
+- [1.1 Quantidade razoável de conteúdo exibida de cada vez](1.md/#11-quantidade-razoável-de-conteúdo-exibida-de-cada-vez)
+- [1.2 Botões e controlos suficientemente grandes para serem percecionados pela visão e selecionáveis pelo toque](1.md/#12-botões-e-controlos-suficientemente-grandes-para-serem-percecionados-pela-visão-e-selecionáveis-pelo-toque)
+- 1.3 Campos de formulário posicionados abaixo dos seus rótulos
 
 ## 2. Crie gestos simples e disponibilize opções acessíveis
 
