@@ -10,7 +10,7 @@ Na experiência com dispositivos móveis os ecrãs são, em regra, muito mais pe
 
 - [1.1 Quantidade razoável de conteúdo exibida de cada vez](1.md/#11-quantidade-razoável-de-conteúdo-exibida-de-cada-vez)
 - [1.2 Botões e controlos suficientemente grandes para serem percecionados pela visão e selecionáveis pelo toque](1.md/#12-botões-e-controlos-suficientemente-grandes-para-serem-percecionados-pela-visão-e-selecionáveis-pelo-toque)
-- 1.3 Campos de formulário posicionados abaixo dos seus rótulos
+- [1.3 Campos de formulário posicionados abaixo dos seus rótulos](1.md/#13-campos-de-formulário-posicionados-abaixo-dos-seus-rótulos)
 
 ## 2. Crie gestos simples e disponibilize opções acessíveis
 
