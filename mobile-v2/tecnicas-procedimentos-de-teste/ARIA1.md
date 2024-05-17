@@ -12,4 +12,4 @@ As verificações nº 1 e nº 2 são verdadeiras.
 
 ### Referências
 
-W3C/WAI (2024). [Technique ARIA1: Using the aria-describedby property to provide a descriptive label for user interface controls](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA1). Developed by Accessibility Guidelines Working Group (AG WG) Participants. Updated 04 April 2024.
+W3C/WAI (2024). [Technique ARIA1: Using the aria-describedby property to provide a descriptive label for user interface controls](https://www.w3.org/WAI/WCAG21/Techniques/aria/ARIA1). Developed by Accessibility Guidelines Working Group (AG WG) Participants. Updated 04 April 2024.

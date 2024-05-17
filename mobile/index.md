@@ -46,22 +46,23 @@ Uma das caraterísticas mais distintivas dos dispositivos móveis é a existênc
 O tamanho reduzido dos ecrãs dos dispositivos móveis levam os utilizadores a redimensionar frequentemente o tamanho do texto. Dada a sua importância, hoje em dia, esta é uma função que se encontra disponível em quase todos os dispositivos móveis. É importante que programadores e <em lang="en">designers</em> não a desativem e que garantam que o conteúdo funciona como esperado, mesmo quando ampliado ou redimensionado. Práticas de conceção responsivas permitem que o conteúdo se adapte a variações do tamanho do texto e diferentes posicionamentos, de acordo com as especificações do dispositivo, do software e das preferências do utilizador. A existência de opções nas páginas para redimensionar texto pode ser útil e contribbuir para aumentar a facilidade de uso da aplicação.
 
 - [5.1 No mínimo é possível redimensionar o texto em 200% sem a utilização de tecnologias de apoio](51.md) - editado
-- [5.2 Quando ampliado o conteúdo apresenta-se sem perder informações ou funções](52.md)
-- 5.3 Quando ampliado o conteúdo não obriga a efetuar varrimentos horizontais para ser lido
-- 5.4 A funcionalidade _pinch-to-zoom_ (tocar no ecrã com 2 dedos e sem os levantar, afastá-los) do Navegador Web não está bloqueada
+- 5.2 Quando ampliado o conteúdo apresenta-se sem perder informações ou funções 
+- [5.2 No mínimo é possível redimensionar o texto em 200% com uso de tecnologias de apoio](52.md)
+- [5.3 Quando ampliado o conteúdo apresenta-se sem perder informações ou funções](53.md)
+- [5.4 A funcionalidade _pinch-to-zoom_ (tocar no ecrã com 2 dedos e sem os levantar, afastá-los) do Navegador Web não está bloqueada](54.md) <font color="D53434"> Dúvida AMA: esse requisito é váido em cenários específicos, como mapas, fotos (insta), emais. Nas aplicações não permitem o zomm em pinça... </font>
 
 ## 6. Certifique-se que a orientação do dispositivo e o layout da página não limitam o uso
 
-Algumas experiências móveis são concebidas de origem para visualizações espcíficas em modo retrato ou paisagem, no entanto há pessoas que precisam ou preferem ter a opção de troca entre modos de visualização retrato/paisagem sempre ativo ou que usam sempre um dos modos. Para além disso, todos os utilizadores dizem que os sítios Web ou as aplicações móveis são mais fáceis de usar quando as suas páginas se apresentam com padrões esperados e se apresentam de forma consistente entre páginas e entre funções.
+Algumas experiências móveis são concebidas de origem para visualizações específicas em modo retrato ou paisagem, no entanto há pessoas que precisam ou preferem ter a opção de troca entre modos de visualização retrato/paisagem sempre ativo ou que usam sempre um dos modos. Para além disso, todos os utilizadores dizem que os sítios Web ou as aplicações móveis são mais fáceis de usar quando as suas páginas se apresentam com padrões esperados e se apresentam de forma consistente entre páginas e entre funções.
 
-- 6.1 A orientação do ecrã pode ser alterado entre modo retrato e modo paisagem
-- 6.2 O layout da página é consistente e previsível
+- [6.1 A orientação do ecrã pode ser alterado entre modo retrato e modo paisagem](61.md)
+- [6.2 O layout da página é consistente e previsível](62.md)
 
 ## 7. Faça com que a estrutura e a navegação se apresentem a todos os utilizadores
 
 Mesmo que a regra seja a de mostrar quantidades mais pequenas de conteúdo de uma só vez, a organização e a etiquetagem adequada dos conteúdos em dispositivos móveis são tão relevantes   quanto na experiência em computador. Todas as páginas e conteúdos precisam de ser intuitivamente navegáveis através da visão ou de qualquer tecnologia de apoio utilizada - um leitor de ecrã, por exemplo. Construir páginas fáceis de pesquisar, com funcionalidades fáceis de compreender e assegurar que a experiência se encontra otimizada para qualquer utilizador independentemente da forma de uso.
 
-- 7.1 As páginas têm títulos descritivos
+- [7.1 As páginas têm títulos descritivos](71.md)
 - 7.2 Os títulos encontram-se hierarquicamente aninhados, numa ordem de leitura apropriada e ao alcance das tecnologias de apoio
 - 7.3 Menus, controlos e hiperligações funcionam quer através do toque no ecrã quer através do teclado
 - 7.4 Menus, controlos e hiperligações apresentam-se sempre claramente etiquetados independentemente de se usarem ou não tecnologias de apoio

@@ -14,4 +14,4 @@ Para grupos de controles relacionados em que os rótulos individuais de cada con
 
 ### Referências
 
-W3C/WAI (2024). [Technique ARIA17: Using grouping roles to identify related form controls](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA17). Developed by Accessibility Guidelines Working Group (AG WG) Participants. Updated 04 April 2024.
+W3C/WAI (2024). [Technique ARIA17: Using grouping roles to identify related form controls](https://www.w3.org/WAI/WCAG21/Techniques/aria/ARIA17). Developed by Accessibility Guidelines Working Group (AG WG) Participants. Updated 04 April 2024.
