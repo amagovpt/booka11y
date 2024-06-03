@@ -43,19 +43,19 @@ Para atingir uma solução “não visual” uma das formas poderá passar por c
 
 ## Detalhe da Análise 
 
-1º Estado do botão - por defeito
+### 1º Estado do botão - por defeito
 
 <img width="883" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/8b13e69c-6247-41f1-b59c-3aea205eb95c">
 
 Qual é o Estado? “Coluna ordenada pela ordem original”; Qual é a Ação? “pressione para alterar a ordem da coluna”
 
-2º Estado do botão
+### 2º Estado do botão
 
 <img width="1033" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/f070498e-ae3a-443e-9341-ef83c9fa80fe">
 
 Qual é o Estado? “Coluna ordenada pela ordem decrescente”: Qual é a Acção? “pressione para alterar a ordem”
 
-3º Estado do botão
+### 3º Estado do botão
 
 <img width="946" alt="imagem" src="https://github.com/amagovpt/booka11y/assets/27677125/ae55bcaa-9bf4-4df3-bf25-113a75a23628">
 
