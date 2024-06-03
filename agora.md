@@ -2,4 +2,5 @@
 layout: category
 category: agora
 ---
-<h1>Design System Ágora</h1>
+
+# Design System Ágora
