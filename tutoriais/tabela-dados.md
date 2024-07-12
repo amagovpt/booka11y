@@ -4,7 +4,7 @@ title: Como criar tabelas de dados simples acessíveis
 
 ## Introdução
 
-O elemento ´<table>`foi criado originalmente para marcar conteúdos que se apresentam de forma tabular. 
+O elemento `<table>` foi criado originalmente para marcar conteúdos que se apresentam de forma tabular. 
 
 Existem basicamente duas formas de usar o elemento `<table>`: como **tabela-layout** e como **tabela de dados**.
 
