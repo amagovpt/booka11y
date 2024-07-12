@@ -1,5 +1,5 @@
 ---
-title: O Elemento <table> em HTML: Guia e Cuidados com Acessibilidade
+title: O Elemento `<table>` em HTML: Guia e Cuidados com Acessibilidade
 ---
 
 O elemento `<table>` em HTML é utilizado para apresentar dados tabulares de forma estruturada, facilitando a organização e a compreensão das informações. Embora seja uma ferramenta poderosa para exibir dados, é essencial garantir que as tabelas sejam acessíveis a todos os utilizadores, incluindo os que utilizam tecnologias de apoio. Este artigo aborda a história do elemento `<table>`, o seu uso e as práticas recomendadas para assegurar a conformidade com as Diretrizes de Acessibilidade para Conteúdo Web (WCAG).
