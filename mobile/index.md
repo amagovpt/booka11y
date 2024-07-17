@@ -63,9 +63,9 @@ Algumas experiências móveis são concebidas de origem para visualizações esp
 Mesmo que a regra seja a de mostrar quantidades mais pequenas de conteúdo de uma só vez, a organização e a etiquetagem adequada dos conteúdos em dispositivos móveis são tão relevantes   quanto na experiência em computador. Todas as páginas e conteúdos precisam de ser intuitivamente navegáveis através da visão ou de qualquer tecnologia de apoio utilizada - um leitor de ecrã, por exemplo. Construir páginas fáceis de pesquisar, com funcionalidades fáceis de compreender e assegurar que a experiência se encontra otimizada para qualquer utilizador independentemente da forma de uso.
 
 - [7.1 As páginas têm títulos descritivos](71.md)
-- 7.2 Os títulos encontram-se hierarquicamente aninhados, numa ordem de leitura apropriada e ao alcance das tecnologias de apoio
-- 7.3 Menus, controlos e hiperligações funcionam quer através do toque no ecrã quer através do teclado
-- 7.4 Menus, controlos e hiperligações apresentam-se sempre claramente etiquetados independentemente de se usarem ou não tecnologias de apoio
+- [7.2 Os títulos encontram-se hierarquicamente aninhados, numa ordem de leitura apropriada e ao alcance das tecnologias de apoio](72.md)
+- [7.3 Menus, controlos e hiperligações funcionam quer através do toque no ecrã quer através do teclado](73.md)
+- [7.4 Menus, controlos e hiperligações apresentam-se sempre claramente etiquetados independentemente de se usarem ou não tecnologias de apoio](74.md)
 
 ## 8. Forneça alternativas em texto para gráficos e multimédia
 
