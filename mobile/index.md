@@ -80,18 +80,15 @@ Tal como num sítio Web, ou em qualquer outra plataforma digital, a disponibiliz
 
 As cores são elementos importantes para personalizar marcas e interfaces. A regra é usar a cor de forma criativa, mas efetiva, que funcione para vários utilizadores. Na verdade, existem apenas duas importantes considerações de acessibilidade a ter em conta: (1) usar um contraste suficiente e (2) evitar a cor como única pista visual para veicular informações importantes. Embora o uso adequado de cores seja igualmente importante em computadores, nos dispositivos móveis o uso da cor torna-se ainda mais crítico. A utilização dos dispositivos móveis nos mais diversos ambientes, com diferentes condições de luminosidade, torna a tarefa de ver o ecrã um desafio mais sensível às cores em uso. Desafio que afeta em maior ou menor grau todos os utilizadores e não apenas pessoas com dificuldades de perceção da cor ou com baixa visão.
 
-- 9.1 O texto normal apresenta-se com um rácio de contraste de, no mínimo, 4.5 para 1
-- 9.2 O texto grande apresenta-se com um rácio de contraste de, no mínimo, 3 para 1
+- [9.1 O texto normal apresenta-se com um rácio de contraste de, no mínimo, 4.5 para 1](91.md)
+- [9.2 O texto grande apresenta-se com um rácio de contraste de, no mínimo, 3 para 1](92.md)
 - [9.3 As componentes de interface e as componentes gráficas apresentam-se com um rácio de contraste de, no mínimo, 3 para 1](93.md)
-- 9.4 Informação ou significado (por exemplo um erro) não é veiculado apenas pela cor
+- [9.4 Informação ou significado (por exemplo um erro) não é veiculado apenas pela cor](94.md)
 
 ## 10. Idioma da aplicação
 
-10.1 Idioma escrito e codificado na aplicação (3.4.1 MCAG)
+- [10.1 Idioma escrito e codificado na aplicação (3.4.1 MCAG)](101.md)
 
-Notas para Procedimento de teste
-
-- O idioma codificado na aplicação corresponde ao idioma escrito. (MCAG); uma das formas de testar este requisito pode ser feita usando o leitor de ecrã existente no sistema operaitvo. Em iOS use o VoiceOver; em Android use o TalkBack. Configure os leitores de ecrã para que usem o sintetizador codificado por defeito. Isto permite que o leitor de ecrã procure na aplicação suporte para saber o idioma do sintetizador a usar. Se o leitor de ecrã for buscar um sintetizador em inglês para ler info em português, então algo poderá estar errado. Verifique se o idioma principal codificado na aplicação corresponde ao idioma em que os textos da aplicação se encontram escritos. Tome nota que quando o idioma não está codificado explicitamente na aplicação, as tecnologias têm tendência a escolher, por defeito, o inglês - se está a fazer aplicações em português, lembre-se disso e codifique sempre de forma explicita o idioma português na sua aplicação.
 
 ## Referências
 
