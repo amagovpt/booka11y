@@ -69,10 +69,10 @@ Mesmo que a regra seja a de mostrar quantidades mais pequenas de conteúdo de um
 
 Tal como num sítio Web, ou em qualquer outra plataforma digital, a disponibilização de alternativas em texto é crítica. Esta técnica permite que os utilizadores de tecnologias de apoio, mas também todos aqueles que tenham conexões lentas à Internet ou que, por qualquer razão técnica ou ambiental, se vejam impedidos de aceder a uma imagem, um gráfico, um vídeo ou um registo áudio, disponham de uma forma alternativa em texto que lhes permita aceder à mensagem veiculada por aqueles.
 
-- 8.1 Conteúdo gráfico tem um alternativo em texto acessível
-- 8.2 Vídeos contêm legendas sincronizadas e sem erros
-- 8.3 Vídeos contêm transcrições em texto e, se necessário, também dispõem de áudiodescrição
-- 8.4 Textos e não imagens de texto são usados sempre que possível
+- [8.1 Conteúdo gráfico tem um alternativo em texto acessível](https://github.com/amagovpt/booka11y/blob/main/mobile-v2/8.md#82-v%C3%ADdeos-cont%C3%AAm-legendas-sincronizadas-e-sem-erros)
+- [8.2 Vídeos contêm legendas sincronizadas e sem erros](https://github.com/amagovpt/booka11y/blob/main/mobile-v2/8.md#82-v%C3%ADdeos-cont%C3%AAm-legendas-sincronizadas-e-sem-erros)
+- [8.3 Vídeos contêm, se necessário, áudiodescrição](https://github.com/amagovpt/booka11y/blob/main/mobile-v2/8.md#83-v%C3%ADdeos-cont%C3%AAm-se-necess%C3%A1rio-%C3%A1udiodescri%C3%A7%C3%A3o)
+- [8.4 Textos e não imagens de texto são usados sempre que possível](https://github.com/amagovpt/booka11y/blob/main/mobile-v2/8.md#84-textos-e-n%C3%A3o-imagens-de-texto-s%C3%A3o-usados-sempre-que-poss%C3%ADvel)
 
 ## 9. Utilize a cor de modo efetivo
 
