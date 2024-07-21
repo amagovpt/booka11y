@@ -53,8 +53,8 @@ O tamanho reduzido dos ecrãs dos dispositivos móveis levam os utilizadores a r
 
 Algumas experiências móveis são concebidas de origem para visualizações espcíficas em modo retrato ou paisagem, no entanto há pessoas que precisam ou preferem ter a opção de troca entre modos de visualização retrato/paisagem sempre ativo ou que usam sempre um dos modos. Para além disso, todos os utilizadores dizem que os sítios Web ou as aplicações móveis são mais fáceis de usar quando as suas páginas se apresentam com padrões esperados e se apresentam de forma consistente entre páginas e entre funções.
 
-- 6.1 A orientação do ecrã pode ser alterado entre modo retrato e modo paisagem
-- 6.2 O layout da página é consistente e previsível
+- [6.1 A orientação do ecrã pode ser alterado entre modo retrato e modo paisagem](6.md#61-a-orienta%C3%A7%C3%A3o-do-ecr%C3%A3-pode-ser-alterado-entre-modo-retrato-e-modo-paisagem)
+- [6.2 O layout da página é consistente e previsível](6.md#62-o-layout-da-p%C3%A1gina-%C3%A9-consistente-e-previs%C3%ADvel)
 
 ## 7. Faça com que a estrutura e a navegação se apresentem a todos os utilizadores
 
