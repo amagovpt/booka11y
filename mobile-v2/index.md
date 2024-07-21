@@ -36,9 +36,10 @@ Para que os utilizadores não façam involuntariamente coisas como abrir um menu
 
 Uma das caraterísticas mais distintivas dos dispositivos móveis é a existência de um ecrã sensível ao toque. No entanto, nem todos podem navegar ou inserir dados através de gestos ou toques precisos no ecrã. O conteúdo não deve impedir o uso de outros métodos de operar a interface ou de inserir dados que existem para além do toque no ecrã. É importante que os métodos de operação e inserção de dados disponíveis suportem dispositivos de entrada alternativos, como sejam os teclados externos, dispositivos apontadores, manipulos e outras opções acessíveis. A diversidade dos métodos de operação e inserção torna o conteúdo móvel mais acessível e utilizável a pessoas que têm dificuldade em usar ecrãs sensíveis ao toque.
 
-- 4.1 Teclado virtual definido para o tipo de entrada de dados
-- 4.2 Métodos de entrada de dados simples e previsíveis
-- 4.3 Suporte a teclados e outros dispositivos de entrada, alternativos ao ecrã sensível ao toque
+- [4.1 Teclado virtual definido para o tipo de entrada de dados](4.md#41-teclado-virtual-definido-para-o-tipo-de-entrada-de-dados)
+- [4.2 Métodos de entrada de dados simples e previsíveis](4.md#42-m%C3%A9todos-de-entrada-de-dados-simples-e-previs%C3%ADveis)
+- [4.3 Suporte a teclados e outros dispositivos de entrada, alternativos ao ecrã sensível ao toque](4.md#43-suporte-a-teclados-e-outros-dispositivos-de-entrada-alternativos-ao-ecr%C3%A3-sens%C3%ADvel-ao-toque)
+
 
 ## 5. Permita a ativação da ampliação e o redimensionamento do texto
 
