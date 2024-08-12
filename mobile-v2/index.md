@@ -27,9 +27,9 @@ Os gestos nem sempre são intuitivos, especialmente quando fogem do padrão regu
 
 Para que os utilizadores não façam involuntariamente coisas como abrir um menu que não queriam ou sair de um processo que desejavam continuar, é importante fornecer contexto e instruções de como prosseguir num dado ponto de um sítio Web ou de uma aplicação móvel.
 
-- 3.1 Indicações no ecra e texto acessível mostram quais são os gestos disponíveis e como se usam
-- 3.2 Indicações no ecrã e texto acessível mostram que esses elementos são ativavéis       
-- 3.3 Elementos ativáveis estão agrupados intuitivamente
+- 3.1 Sempre que se faz uso de gestos não padronizados, são fornecidas indicações no ecra e texto acessível que dão conta da sua existência e de como se usam
+- 3.2 Sempre que se faz uso de elementos ativáveis pouco óbvios, são fornecidas indicações no ecrã e texto acessível que explicitam o caráter ativável dos respetivos elementos       
+- 3.3 Elementos ativáveis estão agrupados de forma intuitiva
 - 3.4 Estão disponíveis instruções claras, em texto, para interações complexas
 
 ## 4. Permita o uso de múltiplos métodos de entrada e inserção de dados
