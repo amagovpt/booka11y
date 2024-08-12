@@ -27,10 +27,10 @@ Os gestos nem sempre são intuitivos, especialmente quando fogem do padrão regu
 
 Para que os utilizadores não façam involuntariamente coisas como abrir um menu que não queriam ou sair de um processo que desejavam continuar, é importante fornecer contexto e instruções de como prosseguir num dado ponto de um sítio Web ou de uma aplicação móvel.
 
-- 3.1 Sempre que se faz uso de gestos não padronizados, são fornecidas indicações no ecra e texto acessível que dão conta da sua existência e de como se usam
-- 3.2 Sempre que se faz uso de elementos ativáveis pouco óbvios, são fornecidas indicações no ecrã e texto acessível que explicitam o caráter ativável dos respetivos elementos       
-- 3.3 Elementos ativáveis estão agrupados de forma intuitiva
-- 3.4 Estão disponíveis instruções claras, em texto, para interações complexas
+- [3.1 Sempre que se faz uso de gestos não padronizados, são fornecidas indicações no ecra e texto acessível que dão conta da sua existência e de como se usam](3.md#31-sempre-que-se-faz-uso-de-gestos-n%C3%A3o-padronizados-s%C3%A3o-fornecidas-indica%C3%A7%C3%B5es-no-ecra-e-texto-acess%C3%ADvel-que-d%C3%A3o-conta-da-sua-exist%C3%AAncia-e-de-como-se-usam)
+- [3.2 Sempre que se faz uso de elementos ativáveis pouco óbvios, são fornecidas indicações no ecrã e texto acessível que explicitam o caráter ativável dos respetivos elementos](3.md#32-sempre-que-se-faz-uso-de-elementos-ativ%C3%A1veis-pouco-%C3%B3bvios-s%C3%A3o-fornecidas-indica%C3%A7%C3%B5es-no-ecr%C3%A3-e-texto-acess%C3%ADvel-que-explicitam-o-car%C3%A1ter-ativ%C3%A1vel-dos-respetivos-elementos)
+- [3.3 Elementos ativáveis estão agrupados intuitivamente](3.md#33-elementos-ativ%C3%A1veis-est%C3%A3o-agrupados-intuitivamente)
+- [3.4 Estão disponíveis instruções claras, em texto, para interações complexas](3.md#34-est%C3%A3o-dispon%C3%ADveis-instru%C3%A7%C3%B5es-claras-em-texto-para-intera%C3%A7%C3%B5es-complexas)
 
 ## 4. Permita o uso de múltiplos métodos de entrada e inserção de dados
 
