@@ -1,7 +1,5 @@
 ---
-title: Checklist de Acessibilidade para aplicações móveis
-layout: post
-categories: checklist apps
+title: Lista de requisitos de Acessibilidade para aplicações móveis
 ---
 
 ## 1. Crie <em lang="en">designs</em> para ecrãs de dimensão reduzida
