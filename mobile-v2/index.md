@@ -95,3 +95,5 @@ W3C/WAI. (2015). [Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guideline
 W3C/WAI. (2023). [Techniques for WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/). Developed by Accessibility Guidelines Working Group (AG WG) Participants. Updated 20 June 2023.
 
 Paul J. Adam. (??). [Mobile Accessibility QA Testing Checklist](https://pauljadam.com/demos/mobilechecklist.html).
+
+Evinced. (2024). [MCAG - Mobile Content Accessibility Guidellines](https://getevinced.github.io/mcag/)
