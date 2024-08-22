@@ -96,4 +96,6 @@ W3C/WAI. (2023). [Techniques for WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniq
 
 Paul J. Adam. (??). [Mobile Accessibility QA Testing Checklist](https://pauljadam.com/demos/mobilechecklist.html).
 
-Evinced. (2024). [MCAG - Mobile Content Accessibility Guidellines](https://getevinced.github.io/mcag/)
+Evinced. (2024). [MCAG - Mobile Content Accessibility Guidellines](https://getevinced.github.io/mcag/).
+
+Apple. (2024). [Human Interface Guidelines - Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility).
