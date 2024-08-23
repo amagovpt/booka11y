@@ -86,6 +86,15 @@ As cores são elementos importantes para personalizar marcas e interfaces. A reg
 
 - [10.1 O idioma principal codificado na página da aplicação corresponde ao idioma escrito](10.md)
 
+## Créditos
+
+A presente lista de requisitos foi compilada pelo Núcleo de Acessibilidade e Experiência Digital da AMA, I.P.
+
+Principais autores:
+
+- Jorge Fernandes
+- Victória Santos
+
 ## Referências
 
 Bureau of Internet Accessibility. (2021). [The definitive mobile accessibility checklist: Open your mobile website and apps to a wider audience](https://www.boia.org/definitive-mobile-accessibility-checklist). Estados Unidos da América: [BOIA](https://www.boia.org).
