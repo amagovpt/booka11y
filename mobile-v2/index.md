@@ -2,6 +2,8 @@
 title: Lista de requisitos de Acessibilidade para aplicações móveis
 ---
 
+nota: o presente documento pode ser comentado no seu [repositório no GitHub](https://github.com/amagovpt/booka11y/tree/main/mobile-v2). Se tem algo que nos queira dizer abra um [issue](https://github.com/amagovpt/booka11y/issues).
+
 ## 1. Crie <em lang="en">designs</em> para ecrãs de dimensão reduzida
 
 Na experiência com dispositivos móveis os ecrãs são, em regra, muito mais pequenos do que nos computadores de secretária ou mesmo nos portáteis. A leitura e a interação num ecrã de dimensão reduzida obriga a que a informação seja apresentada de forma mais concisa e, para o caso da interação, esta deva ser construída dando particular atenção às dimensões reduzidas  dos alvos de toque. 
