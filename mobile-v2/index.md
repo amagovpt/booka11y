@@ -111,4 +111,4 @@ Evinced. (2024). [MCAG - Mobile Content Accessibility Guidellines](https://getev
 
 Apple. (2024). [Human Interface Guidelines - Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility).
 
-Android. (2024). [Principles for improving app accessibility](https://developer.android.com/guide/topics/ui/accessibility/principles).
+Google. (2024). [Principles for improving app accessibility](https://developer.android.com/guide/topics/ui/accessibility/principles).
