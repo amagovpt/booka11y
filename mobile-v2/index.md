@@ -48,7 +48,7 @@ O tamanho reduzido dos ecrãs dos dispositivos móveis levam os utilizadores a r
 - [5.1 - Usando a funcionalidade de ampliação de texto do sistema operativo, no mínimo, é possível redimensionar o texto em 200% sem a utilização de tecnologias de apoio](5.md#51---usando-a-funcionalidade-de-ampliação-de-texto-do-sistema-operativo-no-mínimo-é-possível-redimensionar-o-texto-em-200-sem-a-utilização-de-tecnologias-de-apoio)
 - [5.2 - Usando a funcionalidade de ampliação de texto do navegador web, no mínimo, é possível redimensionar o texto em 200% sem a utilização de tecnologias de apoio](5.md#52---usando-a-funcionalidade-de-ampliação-de-texto-do-navegador-web-no-mínimo-é-possível-redimensionar-o-texto-em-200-sem-a-utilização-de-tecnologias-de-apoio)
 - [5.3 - Usando mecanismos de ampliação existentes na interface da página Web/app, no mínimo, é possível redimensionar o texto em 200% sem a utilização de tecnologias de apoio](5.md#53---usando-mecanismos-de-ampliação-existentes-na-interface-da-página-webapp-no-mínimo-é-possível-redimensionar-o-texto-em-200-sem-a-utilização-de-tecnologias-de-apoio)
-- [5.4 - Falha do Critério de Sucesso 1.4.4 quando o tamanho do texto dos controlos de formulário não se altera quando o tamanho do texto é alterado até aos 200%](5.md#54---falha-do-critério-de-sucesso-144-quando-o-tamanho-do-texto-dos-controlos-de-formulário-não-se-altera-quando-o-tamanho-do-texto-é-alterado-até-aos-200)
+- [5.4 - ](5.md#https://github.com/amagovpt/booka11y/blob/main/mobile-v2/5.md#54---%C3%A9-poss%C3%ADvel-redimensionar-o-tamanho-do-texto-dos-controles-de-formul%C3%A1rio-em-at%C3%A9-200-usando-as-funcionalidades-de-amplia%C3%A7%C3%A3o)
 
 ## 6. Certifique-se que a orientação do dispositivo e o layout da página não limitam o uso
 
