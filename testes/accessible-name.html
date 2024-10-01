@@ -65,12 +65,32 @@
 
 <h2>Conclusões</h2>
 <h3>Output do VoiceOver (macOS 14.6.1)</h3>
-	<p>Sample 1b:</p>
-	<img src="1a.png">
+	<ul>
+		<li>Sample 1a: VO says "hiperligação, Telefone 808 24 24 24" (accessible name = aria-label)</li>
+		<li>Sample 2a: VO says "hiperligação, Telefone 808 24 24 24" (accessible name = aria-label)</li>
+		<li>Sample 3a: VO says "hiperligação, Telefone 808 24 24 24" (accessible name = aria-label)</li>
+		<li>Sample 1b: VO says "hiperligação, Telefone 808 24 24 24"</li>
+		<li>Sample 2b: VO says "hiperligação, Telefone 808 24 24 24"</li>
+		<li>Sample 3b: VO says "hiperligação, Telefone 808 24 24 24"</li>
+	</ul>
+	<p>Ou seja, independentemente da forma como é gerado o innerText de a (div div, span span, span div), o VO usa sempre 1 espaço a separar os elementos.</p>
+	
 
 <h3>Output do ANDI</h3>
-	<p>Sample 1b:</p>
-
+	<p>Sample 1a: a aria-label div div</p>
+	<img src="andi-1a.png" alt="aria-label = innerText a">
+	<p>Sample 2a: a aria-label span span</p>
+	<img src="andi-2a.png" alt="aria-label = innerText a">
+	<p>Sample 3a: a aria-label span div</p>
+	<img src="andi-3a.png" alt="aria-label = innerText a">
+	<p>All the samples above have the same innerText computed (div div = span span = div div).</p>
+	<p>Sample 1b: a div div</p>
+	<img src="andi-1b.png" alt="innerText a = accessible name">
+	<p>Sample 2b: a span span</p>
+	<img src="andi-2b.png" alt="innerText a <> accessible name">
+	<p>Sample 3b: a span div</p>
+	<img src="andi-3b.png" alt="innerText a <> accessible name">
+	<p>Conclusão: o ANDI processa a construção do innerText de a sempre da mesma forma (i.e. inclui sempre 1 espaço entre os elementos), mas no processamento do nome acessível (ANDI Output) verifica-se que apenas os div div são separados com 1 espaço. As combinações span span e span div ficam coladas.</p>
 </main>
 	
 <footer>
