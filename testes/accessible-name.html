@@ -13,7 +13,9 @@
 	
 <main>
 	
-<h2>accessible name - aria-label VS 2 divs in innerText of a link</h2>
+<h2>With aria-label</h2>
+	
+<h3>1a. accessible name - aria-label VS 2 divs in innerText of a link</h3>
 
 <a href="#" aria-label="Telefone 808 24 24 24">
    <div>Telefone</div>
@@ -21,7 +23,7 @@
 </a>
 
 
-<h2>accessible name - aria-label VS 2 spans in innerText of a link</h2>
+<h3>2a. accessible name - aria-label VS 2 spans in innerText of a link</h3>
 
 <a href="#" aria-label="Telefone 808 24 24 24">
    <span>Telefone</span>
@@ -29,12 +31,42 @@
 </a>
 
 
-<h2>accessible name - aria-label VS 1 spans and 1 div in innerText of a link</h2>
+<h3>3a. accessible name - aria-label VS 1 spans and 1 div in innerText of a link</h3>
 
 <a href="#" aria-label="Telefone 808 24 24 24">
    <span>Telefone</span>
    <div>808 24 24 24</div>
 </a>
+
+<h2>Without aria-label</h2>
+
+<h3>1b. accessible name - aria-label VS 2 divs in innerText of a link</h3>
+
+<a href="#">
+   <div>Telefone</div>
+   <div>808 24 24 24</div>
+</a>
+
+
+<h3>2b. accessible name - 2 spans in innerText of a link</h3>
+
+<a href="#">
+   <span>Telefone</span>
+   <span>808 24 24 24</span>
+</a>
+
+
+<h3>3b. accessible name - 1 span and 1 div in innerText of a link</h3>
+
+<a href="#">
+   <span>Telefone</span>
+   <div>808 24 24 24</div>
+</a>
+
+<h2>Conclusões</h2>
+<h3>Output do VoiceOver (macOS 14.6.1)</h3>
+	<p>Sample 1b:</p>
+	
 </main>
 	
 <footer>
