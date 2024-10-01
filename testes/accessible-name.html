@@ -91,6 +91,10 @@
 	<p>Sample 3b: a span div</p>
 	<img src="andi-3b.png" alt="innerText a <> accessible name">
 	<p>Conclusão: o ANDI processa a construção do innerText de a sempre da mesma forma (i.e. inclui sempre 1 espaço entre os elementos), mas no processamento do nome acessível (ANDI Output) verifica-se que apenas os div div são separados com 1 espaço. As combinações span span e span div ficam coladas.</p>
+
+<h3>Output do AccessMonitor</h3>
+<img src="am-1.png" alt="3 erros accessible name não contém o texto que está visível">
+<p>Conclusão: os 3 erros coincidem com os links que têm aria-label="Telefone 808 24 24 24". Isto ocorre porque, independemente da forma como o innerText de a é formado - div div, span span, span div - o AccessMonitor processa o innerText sempre "Telefone808 24 24 24" (de notar que o ANDI faz o mesmo no "ANDI Output" nas amostras 2b e 3b.</p>
 </main>
 	
 <footer>
