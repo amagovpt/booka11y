@@ -1,15 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-PT">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Tabela c/ 2 th rows</title>
 </head>
 <body>
+	<header>
+	<h!>Teste</h1>
+	<a href="#main">saltar</a>
+	</header>
+	<main id="main">
 
 	<h2>1. id/headers em todas as th e td</h2>
 
 	<p>Antes do <a href="#">teste</a></p>
+	
 	<table>
 		<caption>Diretórios</caption>
 		<theader>
@@ -42,46 +48,8 @@
 			</tr>
 		</tbody>
 	</table>
-	<p>Depois do <a href="#">teste</a></p>
-
-	<h2>2. id/headers apenas na coluna dos sítios Web Conformes - é a única onde as td precisam de ler 2 ths para formar 1 título</h2>
-
-	<p>Antes do <a href="#">teste</a></p>
-	<table id="pintada">
-		<caption>Diretórios</caption>
-		<theader>
-			<tr>
-				<th rowspan="2">Descrição</th>
-				<th rowspan="2">Designação</th>
-				<th rowspan="2">Declaração</th>
-				<th rowspan="2">Selo</th>
-				<th rowspan="2">Pontuação</th>
-				<th rowspan="2">Sítios Web</th>
-				<th id="conformidade" colspan="3">Sítios Web em conformidade</th>
-			</tr>
-			<tr>
-				<th id="a">A</th>
-				<th id="aa"><abbr title="duplo A">AA</abbr></th>
-				<th id="aaa"><abbr title="triplo A">AAA</abbr></th>
-			</tr>
-		</theader>
-		<tbody>
-			<tr>
-				<td>ABC</td>
-				<td>ABC</td>
-				<td headers="declacao">ABC</td>
-				<td>ABC</td>
-				<td>0</td>
-				<td>0</td>
-				<td headers="conformidade a">0</td>
-				<td headers="conformidade aa">0</td>
-				<td headers="conformidade aaa">0</td>
-			</tr>
-		</tbody>
-	</table>
-	<p>Depois do <a href="#">teste</a></p>
-
-	<p><strong>Conclusão:</strong> Ambas as versões funcionam com o leitor de ecrã (testes feitos com VoiceOver 14.6.1 e 15.0). Por isso podemos optar pela versão mais compacta.</p>
+	</main>
+	<footer><p>Teste</p></footer>
 
 </body>
 </html>
