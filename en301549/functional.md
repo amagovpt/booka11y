@@ -1,4 +1,6 @@
-# Declarações de desempenho funcional EN 301 549
+---
+title: Declarações de desempenho funcional EN 301 549
+---
 
 [english version](#english-version) | [versão portuguesa](#versão-portuguesa)
 
