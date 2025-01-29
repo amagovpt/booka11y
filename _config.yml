@@ -1,13 +1,13 @@
 lang: pt-PT
 name: null
 title: null
-author: EUC / AMA, I.P.
+author: AMA, I.P.
 email: null
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Equipa de Usabilidade e Conteúdos
+  Núcleo de Experiência e Acessibilidade Digital
 
 # Build settings
 
