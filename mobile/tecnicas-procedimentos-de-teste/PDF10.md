@@ -14,4 +14,4 @@ title: PDF10 Fornecendo rótulos para controles de formulário interativos em do
 
 ## Referências
 
-W3C/WAI (2024). [Technique PDF10: Providing labels for interactive form controls in PDF documents](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF10). Developed by Accessibility Guidelines Working Group (AG WG) Participants. Updated 04 April 2024.
+W3C/WAI (2024). [Technique PDF10: Providing labels for interactive form controls in PDF documents](https://www.w3.org/WAI/WCAG21/Techniques/pdf/PDF10). Developed by Accessibility Guidelines Working Group (AG WG) Participants. Updated 04 April 2024.

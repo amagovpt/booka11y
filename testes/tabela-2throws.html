@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Tabela c/ 2 th rows</title>
+</head>
+<body>
+	<header>
+	<h!>Teste</h1>
+	<a href="#main">saltar</a>
+	</header>
+	<main id="main">
+
+	<h2>1. id/headers em todas as th e td</h2>
+
+	<p>Antes do <a href="#">teste</a></p>
+	
+	<table summary="Tabela ABC de Teste">
+		<caption>Diretórios</caption>
+		<thead>
+			<tr>
+				<th scope="col" rowspan="2" id="descricao">Descrição</th>
+				<th scope="col" rowspan="2" id="designacao">Designação</th>
+				<th scope="col" rowspan="2" id="declaracao">Declaração</th>
+				<th scope="col" rowspan="2" id="selo">Selo</th>
+				<th scope="col" rowspan="2" id="pontuacao">Pontuação</th>
+				<th scope="col" rowspan="2" id="sitios">Sítios Web</th>
+				<th scope="colgroup" id="conformidade" colspan="3">Sítios Web em conformidade</th>
+			</tr>
+			<tr>
+				<th scope="col" id="a">A</th>
+				<th scope="col" id="aa"><abbr title="duplo A">AA</abbr></th>
+				<th scope="col" id="aaa"><abbr title="triplo A">AAA</abbr></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td headers="descricao">ABC</td>
+				<td headers="designacao">ABC</td>
+				<td headers="declaracao">ABC</td>
+				<td headers="selo">ABC</td>
+				<td headers="pontuacao">0</td>
+				<td headers="sitios">0</td>
+				<td headers="conformidade a">0</td>
+				<td headers="conformidade aa">0</td>
+				<td headers="conformidade aaa">0</td>
+			</tr>
+		</tbody>
+	</table>
+	<p>Depois do <a href="#">teste</a></p>
+	</main>
+	<footer>
+		<p>Teste</p>
+	</footer>
+
+</body>
+</html>

@@ -14,4 +14,4 @@ Para cada campo de formulário obrigatório, verifique se as informações e ins
 
 ## Referências
 
-W3C/WAI (2024). [Technique PDF5: Indicating required form controls in PDF forms](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF5). Developed by Accessibility Guidelines Working Group (AG WG) Participants. Updated 04 April 2024.
+W3C/WAI (2024). [Technique PDF5: Indicating required form controls in PDF forms](https://www.w3.org/WAI/WCAG21/Techniques/pdf/PDF5). Developed by Accessibility Guidelines Working Group (AG WG) Participants. Updated 04 April 2024.

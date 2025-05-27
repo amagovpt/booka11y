@@ -1,4 +1,4 @@
-# Acessibilidade Android útil para Auditoria
+# Funcionalidades de acessibilidade Android úteis para efeitos de auditoria
 
 ## Talkback
 

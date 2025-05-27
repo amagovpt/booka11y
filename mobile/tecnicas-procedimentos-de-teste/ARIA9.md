@@ -14,4 +14,4 @@ Para entradas que usam aria-labelledby:
 
 ### Referências
 
-W3C/WAI (2024). [Technique ARIA9: Using aria-labelledby to concatenate a label from several text nodes](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA9). Developed by Accessibility Guidelines Working Group (AG WG) Participants. Updated 04 April 2024.
+W3C/WAI (2024). [Technique ARIA9: Using aria-labelledby to concatenate a label from several text nodes](https://www.w3.org/WAI/WCAG21/Techniques/aria/ARIA9). Developed by Accessibility Guidelines Working Group (AG WG) Participants. Updated 04 April 2024.

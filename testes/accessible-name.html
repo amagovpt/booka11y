@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Accessible name contains visible text of the action element</title>
+</head>
+<body>
+
+<header>
+	<h1>Accessible name contains visible text of the action element</h1> 
+</header>
+	
+<main>
+	
+<h2>With aria-label</h2>
+	
+<h3>1a. accessible name - aria-label VS 2 divs in innerText of a link</h3>
+
+<a href="#" aria-label="Telefone 808 24 24 24">
+   <div>Telefone</div>
+   <div>808 24 24 24</div>
+</a>
+
+
+<h3>2a. accessible name - aria-label VS 2 spans in innerText of a link</h3>
+
+<a href="#" aria-label="Telefone 808 24 24 24">
+   <span>Telefone</span>
+   <span>808 24 24 24</span>
+</a>
+
+
+<h3>3a. accessible name - aria-label VS 1 spans and 1 div in innerText of a link</h3>
+
+<a href="#" aria-label="Telefone 808 24 24 24">
+   <span>Telefone</span>
+   <div>808 24 24 24</div>
+</a>
+
+<h2>Without aria-label</h2>
+
+<h3>1b. accessible name - 2 divs in innerText of a link</h3>
+
+<a href="#">
+   <div>Telefone</div>
+   <div>808 24 24 24</div>
+</a>
+
+
+<h3>2b. accessible name - 2 spans in innerText of a link</h3>
+
+<a href="#">
+   <span>Telefone</span>
+   <span>808 24 24 24</span>
+</a>
+
+
+<h3>3b. accessible name - 1 span and 1 div in innerText of a link</h3>
+
+<a href="#">
+   <span>Telefone</span>
+   <div>808 24 24 24</div>
+</a>
+
+<h2>Conclusões</h2>
+<h3>Output do VoiceOver (macOS 14.6.1)</h3>
+	<ul>
+		<li>Sample 1a: VO says "hiperligação, Telefone 808 24 24 24" (accessible name = aria-label)</li>
+		<li>Sample 2a: VO says "hiperligação, Telefone 808 24 24 24" (accessible name = aria-label)</li>
+		<li>Sample 3a: VO says "hiperligação, Telefone 808 24 24 24" (accessible name = aria-label)</li>
+		<li>Sample 1b: VO says "hiperligação, Telefone 808 24 24 24"</li>
+		<li>Sample 2b: VO says "hiperligação, Telefone 808 24 24 24"</li>
+		<li>Sample 3b: VO says "hiperligação, Telefone 808 24 24 24"</li>
+	</ul>
+	<p>Ou seja, independentemente da forma como é gerado o innerText de a (div div, span span, span div), o VO usa sempre 1 espaço a separar os elementos.</p>
+	
+
+<h3>Output do ANDI</h3>
+	<p>Sample 1a: a aria-label div div</p>
+	<img src="andi-1a.png" alt="aria-label = innerText a">
+	<p>Sample 2a: a aria-label span span</p>
+	<img src="andi-2a.png" alt="aria-label = innerText a">
+	<p>Sample 3a: a aria-label span div</p>
+	<img src="andi-3a.png" alt="aria-label = innerText a">
+	<p>All the samples above have the same innerText computed (div div = span span = div div).</p>
+	<p>Sample 1b: a div div</p>
+	<img src="andi-1b.png" alt="innerText a = accessible name">
+	<p>Sample 2b: a span span</p>
+	<img src="andi-2b.png" alt="innerText a <> accessible name">
+	<p>Sample 3b: a span div</p>
+	<img src="andi-3b.png" alt="innerText a <> accessible name">
+	<p>Conclusão: o ANDI processa a construção do innerText de a sempre da mesma forma (i.e. inclui sempre 1 espaço entre os elementos), mas no processamento do nome acessível (ANDI Output) verifica-se que apenas os div div são separados com 1 espaço. As combinações span span e span div ficam coladas.</p>
+
+<h3>Output do AccessMonitor</h3>
+<img src="am-1.png" alt="3 erros accessible name não contém o texto que está visível">
+<p>Conclusão: os 3 erros coincidem com os links que têm aria-label="Telefone 808 24 24 24". Isto ocorre porque, independemente da forma como o innerText de a é formado - div div, span span, span div - o AccessMonitor processa o innerText sempre "Telefone808 24 24 24" (de notar que o ANDI faz o mesmo no "ANDI Output" nas amostras 2b e 3b.</p>
+</main>
+	
+<footer>
+	<p>Last update: 2024 October 1st</p>
+</footer>
+
+
+</body>
+</html>

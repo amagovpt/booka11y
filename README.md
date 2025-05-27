@@ -11,6 +11,10 @@ Conteúdos:
   - [Lista de testes automáticos HTML implementados no AXE](https://dequeuniversity.com/rules/axe/4.4/)
   
 
+## Outras páginas:
+
+- [Notas sobre componentes Ágora](agora.html)
+
 to-dos:
 
 - Desktop:

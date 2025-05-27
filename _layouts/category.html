@@ -1,0 +1,13 @@
+---
+layout: base
+---
+
+{%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+<ul>
+  {% for post in site.categories[page.category] %}
+    <li><a href="/booka11y/{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+<p><small>Categoria listada: {{ page.category }}</small></p>
