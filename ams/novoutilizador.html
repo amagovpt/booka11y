@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>novoutilizador</title>
+</head>
+<body>
+<h1>Criar Utilizador</h1>
+
+<p>Para usar o AdminMonitorSuite (AMS) e o MyMonitor é necessário ter um utilizador.</p>
+
+<p>No caso do AMS a autenticação do utilizador é feita por via de User/pass. No caso do MyMonitor a autenticação do utilizador é feita pelo processo oficial usado na Administração Pública Portuguesa e descrita no <a class="autolink" href="https://www.autenticacao.gov.pt">https://www.autenticacao.gov.pt</a> .</p>
+
+<p>Utilizador: <input type="text"></p>
+
+<p><label for="ecosystem">Para que aplicação é o utilizador?</label>
+ <select name="cars" id="ecosystem">
+ <option value="ams">AMS</option>
+ <option value="mymonitor">MyMonitor</option>
+ </select></p>
+
+<p><em>Nota: as duas opções abaixo devem surgir consoante aquilo que seescolher no campo anterior.</em></p>
+
+<h2>MyMonitor</h2>
+
+<p>Se o utilizador é para usar no MyMonitor não é preciso pedir mais nada.</p>
+
+<h2>AMS</h2>
+
+<p>Palavra-chave: <input aria-describedby="requisito" type="text">
+ <p id="requisito"><small>A palavra-chave deverá ter no mínimo 8 caracteres, 1 caracter maísculo, 1 caracter mínusculo, 1 número e 1 caracter especial</small></p></p>
+
+<p>Confirmar palavra-chave: <input type="text"></p>
+
+<p>Funções: <button>Guardar e sair</button> <button>sair</button></p>
+
+<p><em>Nota: a presente página foi feita com as funcionalidades atuais. É provável que os novos desenvolvimentos aglutinem a criação de utilizadores e utilizadores gov numa só página, simplificando o processo atual.</em></p>
+</body>
+</html>
