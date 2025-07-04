@@ -15,6 +15,29 @@
 
   <!-- Bootstrap JS via CDN -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script>
+document.addEventListener("DOMContentLoaded", function () {
+  const content = document.querySelector("main") || document.body;
+  const tocContainer = document.getElementById("toc");
+  if (!tocContainer) return;
+
+  const headers = content.querySelectorAll("h2, h3, h4, h5, h6");
+
+  let tocHTML = '<ul class="list-unstyled">';
+  headers.forEach(header => {
+    if (!header.id) {
+      header.id = header.textContent.trim().toLowerCase().replace(/\s+/g, '-');
+    }
+    tocHTML += `<li class="ms-${(parseInt(header.tagName[1]) - 2) * 3}">
+      <a href="#${header.id}">${header.textContent}</a>
+    </li>`;
+  });
+  tocHTML += '</ul>';
+
+  tocContainer.innerHTML = tocHTML;
+});
+</script>
+
 
 </body>
 </html>
