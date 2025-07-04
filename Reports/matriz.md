@@ -28,7 +28,9 @@ Esta informação resulta da computação global da:
     - Checklist Conteúdo: 29,4% (5/17) <span class="badge text-bg-danger">status: NOK</span>
     - Checklist Transação: 75% (6/8) <span class="badge text-bg-success">status: OK</span> 
 
-## Declaração de Acessibilidade <span class="badge text-bg-danger">status: NOK</span>
+## Declaração de Acessibilidade 
+
+<span class="badge text-bg-danger">status: NOK</span>
 
 (...) escreve-se o(s) issue(s) classificados pela label "Declaração" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
@@ -38,11 +40,11 @@ Esta informação resulta da computação global da:
 
 ## Avaliação manual
 
-### Checklist 10 aspetos
+### Checklist 10 aspetos <span class="badge text-bg-danger">status: NOK</span>
 
 Nível de conformidade:
 
-- Checklist 10 aspetos: 40,9% (9/22) <span class="badge text-bg-danger">status: NOK</span>
+- Checklist 10 aspetos: 40,9% (9/22)
   - Requisitos OK: 9 (existe 1 Melhoria a implementar)
   - Requisitos NOK: 13
   - Requisitos NA: 2
@@ -57,11 +59,11 @@ Nível de conformidade:
 
 (...) os restantes requisitos da chk10.
 
-### Checklist Conteúdo
+### Checklist Conteúdo <span class="badge text-bg-danger">status: NOK</span>
 
 Nível de conformidade:
 
-- Checklist Conteúdo: 29,4% (5/12) <span class="badge text-bg-danger">status: NOK</span>
+- Checklist Conteúdo: 29,4% (5/12)
   - Requisitos OK: 5 (existe 1 Melhoria a implementar)
   - Requisitos NOK: 12
   - Requisitos NA: 0
@@ -76,11 +78,11 @@ Nível de conformidade:
 
 (...) os restantes requisitos da conteúdo.
 
-### Checklist Transção
+### Checklist Transção <span class="badge text-bg-success">status: OK</span>
 
 Nível de conformidade:
 
-- Checklist Transação: 75,0% (6/8) <span class="badge text-bg-success">status: OK</span>
+- Checklist Transação: 75,0% (6/8)
   - Requisitos OK: 6 (existe 1 Melhoria a implementar)
   - Requisitos NOK: 2
   - Requisitos NA: 5
