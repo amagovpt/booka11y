@@ -20,7 +20,7 @@ selo: candidatura a selo prata
 
 ## Introdução
 
-O {{ page.uri }} <span class="badge text-bg-danger">status: não passa</span> (variável 'passa/não passa' - ver nota *) os requisitos mínimos do Selo de Usabilidade e Acessibilidade.
+O {{ page.uri }} <span class="badge text-bg-danger"><span class="sr-only">status: </span>não passa</span> (variável 'passa/não passa' - ver nota *) os requisitos mínimos do Selo de Usabilidade e Acessibilidade.
 
 Esta informação resulta da computação global da:
 
