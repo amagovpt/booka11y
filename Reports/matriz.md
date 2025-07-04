@@ -1,4 +1,5 @@
 ---
+layout: bootstrap
 title: Relatório Avaliação da Candidatura da Pessoas 2030
 data: Dezembro 2024
 owner: Proprietário do Pessoas2030
