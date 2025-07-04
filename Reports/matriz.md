@@ -34,13 +34,19 @@ Esta informação resulta da computação global da:
 
 (...) escreve-se o(s) issue(s) classificados pela label "Declaração" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
-## Avaliação automatica <span class="badge text-bg-danger">status: NOK</span>
+## Avaliação automatica 
+
+<span class="badge text-bg-danger">status: NOK</span>
 
 (...) escreve-se o(s) issue(s) classificados pela label "Auto" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
 ## Avaliação manual
 
-### Checklist 10 aspetos <span class="badge text-bg-danger">status: NOK</span>
+<span class="badge text-bg-danger">status: NOK</span>
+
+### Checklist 10 aspetos 
+
+<span class="badge text-bg-danger">status: NOK</span>
 
 Nível de conformidade:
 
@@ -49,17 +55,23 @@ Nível de conformidade:
   - Requisitos NOK: 13
   - Requisitos NA: 2
  
-#### Requisito 1.1 - O menu de navegação deve estar estruturado como uma lista de opções. "status: Melhoria"
+#### Requisito 1.1 - O menu de navegação deve estar estruturado como uma lista de opções. 
+
+<span class="badge text-bg-warning">status: Melhoria</span>
 
 (...) escreve-se o(s) issue(s) classificados pelas labels "chk10" "R 1.1" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
-#### Requisito 1.2 - É possível selecionar as opções e as subopções do menu quer com rato quer com teclado. "status: NOK"
+#### Requisito 1.2 - É possível selecionar as opções e as subopções do menu quer com rato quer com teclado. 
+
+<span class="badge text-bg-danger">status: NOK</span>
 
 (...) escreve-se o(s) issue(s) classificados pelas labels "chk10" "R 1.1" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
 (...) os restantes requisitos da chk10.
 
-### Checklist Conteúdo <span class="badge text-bg-danger">status: NOK</span>
+### Checklist Conteúdo
+
+<span class="badge text-bg-danger">status: NOK</span>
 
 Nível de conformidade:
 
@@ -68,17 +80,23 @@ Nível de conformidade:
   - Requisitos NOK: 12
   - Requisitos NA: 0
 
-#### Requisito 1.1 - O sítio Web apresenta um resumo breve do seu propósito, visível sem fazer scroll. "status: NOK"
+#### Requisito 1.1 - O sítio Web apresenta um resumo breve do seu propósito, visível sem fazer scroll. 
+
+<span class="badge text-bg-danger">status: NOK</span>
 
 (...) escreve-se o(s) issue(s) classificados pelas labels "conteudo" "R 1.1" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
-#### Requisito 1.2 - Os termos mais complexos têm uma definição agregada. "status: Melhoria"
+#### Requisito 1.2 - Os termos mais complexos têm uma definição agregada. 
+
+<span class="badge text-bg-warning">status: Melhoria</span>
 
 (...) escreve-se o(s) issue(s) classificados pelas labels "conteudo" "R 1.2" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
 (...) os restantes requisitos da conteúdo.
 
-### Checklist Transção <span class="badge text-bg-success">status: OK</span>
+### Checklist Transação 
+
+<span class="badge text-bg-success">status: OK</span>
 
 Nível de conformidade:
 
@@ -87,11 +105,15 @@ Nível de conformidade:
   - Requisitos NOK: 2
   - Requisitos NA: 5
 
-#### Requisito 2.4 - Campos obrigatórios devem ser claramente indicados como tal. "status: NOK"
+#### Requisito 2.4 - Campos obrigatórios devem ser claramente indicados como tal. 
+
+<span class="badge text-bg-danger">status: NOK</span>
 
 (...) escreve-se o(s) issue(s) classificados pela label "transação" "R 2.4" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
-#### Requisito 3.1 - Em ações longas, o sistema deve indicar o que está a acontecer. "status: NA"
+#### Requisito 3.1 - Em ações longas, o sistema deve indicar o que está a acontecer. 
+
+<span class="badge text-bg-secondary">status: N/A</span>
 
 (...) escreve-se o(s) issue(s) classificados pela label "transação" "R 3.1" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
@@ -117,13 +139,15 @@ Nível de conformidade:
      
 (**) Labels:
 
-- OK - status OK
-- Melhoria - status OK, mas pode melhorar
-- NOK - status Not OK
-- N/A - status Não Aplicável
-- chk10 - checklist 10 Aspetos críticos de acessibilidade funcional
-- conteúdo - checklist Conteúdo
-- transação - checklist Transação
-- declaração acessibilidade - permite construir o capítulo "Declaração de acessibilidade e usabilidade"
-- outras violações - permite construir o "capítulo "Outras violações"
+<ul>
+ <li><span class="badge text-bg-success">status: OK</span> - status OK</li>
+ <li><span class="badge text-bg-warning">status: Melhoria</span> - status OK, mas pode melhorar</li>
+ <li><span class="badge text-bg-danger">status: NOK</span> - status Not OK</li>
+ <li><span class="badge text-bg-warning">status: N/A</span> - status Não Aplicável</li>
+ <li><span class="badge text-bg-primary">status: chk10</span> - checklist 10 Aspetos críticos de acessibilidade funcional</li>
+ <li><span class="badge text-bg-primary">status: Conteúdo</span> - checklist Conteúdo</li>
+ <li><span class="badge text-bg-primary">status: Transação</span> - checklist Transação</li>
+ <li><span class="badge text-bg-primary">status: Declaração de Acessibilidade</span> - permite construir o capítulo "Declaração de acessibilidade e usabilidade"</li>
+ <li><span class="badge text-bg-primary">status: Outras violações</span> - permite construir o "capítulo "Outras violações"</li>
+</ul>
 
