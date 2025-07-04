@@ -6,14 +6,14 @@ url: https://pessoas2030.gov.pt/
 selo: candidatura a selo prata
 ---
 
-- {%data} / AMA. I.P. - Núcleo de Experiência e Usabilidade.
-- {%owner}
-- {%url}
-- {%selo}
+- {{ page.data }} / AMA. I.P. - Núcleo de Experiência e Usabilidade.
+- {{ page.owner }}
+- {{ page.url }}
+- {{ page.selo }}
 
 índice:
 
-{TOC}
+{{ TOC }}
 
 ## Introdução
 
