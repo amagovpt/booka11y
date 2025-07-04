@@ -101,7 +101,7 @@ Nível de conformidade:
 
 <span class="badge text-bg-warning"><span class="visually-hidden">etiqueta: </span> melhoria</span>
 
-Lista de issues:
+Lista de evidências recolhida:
 
 **Existem várias landmarks nav sem diferenciação**
 
