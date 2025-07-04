@@ -20,16 +20,55 @@ selo: candidatura a selo prata
 
 ## Introdução
 
-O {{ page.uri }} <span class="badge text-bg-danger"><span class="visually-hidden">status: </span>não passa</span> (variável 'passa/não passa' - ver nota *) os requisitos mínimos do Selo de Usabilidade e Acessibilidade.
+O {{ page.uri }} <span class="badge text-bg-danger"><span class="visually-hidden">status: </span>não passa</span> (*) os requisitos mínimos do Selo de Usabilidade e Acessibilidade.
 
-Esta informação resulta da computação global da:
+<table class="table-Light">
+  <caption>Estado por tipo de avaliação efetuada</caption>
+  <tr>
+    <th>Tipo de avaliação</th>
+    <th>Estado</th>
+  </tr>
+  <tr>
+    <td>Avaliação Automática</td>
+    <td><span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span></td>
+  </tr>
+  <tr>
+    <td>Avaliação Manual</td>
+    <td><span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span></td>
+  </tr>
+</table>
 
-- Avaliação Automática <span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span>
-- Avaliação Manual <span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span>
-  - Conformidade:
-    - Checklist 10 aspetos: 40,9% (9/22) <span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span>
-    - Checklist Conteúdo: 29,4% (5/17) <span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span>
-    - Checklist Transação: 75% (6/8) <span class="badge text-bg-success"><span class="visually-hidden">status: </span> OK</span> 
+Das avaliações periciais manuais efetuadas obtiveram-se os resultados que se sintetizam na tabela seguinte.
+
+<table class="table-Light">
+  <caption>Níveis de conformidade das avaliações periciais efetuadas</caption>
+  <tr>
+    <th>Checklist</th>
+    <th>Conformidade alcançada</th>
+    <th>Resultado</th>
+  </tr>
+  <tr>
+    <td>10 aspetos</td>
+    <td>40,9% (9/22)</td>
+    <td><span class="badge text-bg-danger"><span class="visually-hidden">status: </span>não passa</span></td>
+  </tr>
+  <tr>
+    <td>Conteúdo</td>
+    <td>29,4% (5/17)</td>
+    <td><span class="badge text-bg-danger"><span class="visually-hidden">status: </span>não passa</span></td>
+  </tr>
+  <tr>
+    <td>Transação</td>
+    <td>75,0% (6/8)</td>
+    <td><span class="badge text-bg-success"><span class="visually-hidden">status: </span>passa</span> </td>
+  </tr>
+</table>
+
+Nota: para cada checklist, para passar os requisitos do selo é necessário alcançar um nível de conformidade superior ou igual a 75%. 
+
+NOTA para codificar o relatório: o parágrafo seguinte só deve surgir quando a Declaração de Acessibilidade apresentar o estado <span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span>.
+
+Tome nota que a Declaração de Acessibilidade não se encontra corretamente afixada. Consulte o capíutlo "Declaração de acessibilidade" para saber o que tem de corrigir.
 
 ## Declaração de Acessibilidade 
 
@@ -146,7 +185,7 @@ Nível de conformidade:
  <li><span class="badge text-bg-success"><span class="visually-hidden">status: </span> OK</span> - status OK</li>
  <li><span class="badge text-bg-warning"><span class="visually-hidden">status: </span> Melhoria</span> - status OK, mas pode melhorar</li>
  <li><span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span> - status Not OK</li>
- <li><span class="badge text-bg-warning"><span class="visually-hidden">status: </span> N/A</span> - status Não Aplicável</li>
+ <li><span class="badge text-bg-secondary"><span class="visually-hidden">status: </span> N/A</span> - status Não Aplicável</li>
  <li><span class="badge text-bg-primary"><span class="visually-hidden">status: </span> chk10</span> - checklist 10 Aspetos críticos de acessibilidade funcional</li>
  <li><span class="badge text-bg-primary"><span class="visually-hidden">status: </span> Conteúdo</span> - checklist Conteúdo</li>
  <li><span class="badge text-bg-primary"><span class="visually-hidden">status: </span> Transação</span> - checklist Transação</li>
