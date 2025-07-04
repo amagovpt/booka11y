@@ -22,7 +22,7 @@ selo: candidatura a selo prata
 
 O {{ page.uri }} <span class="badge text-bg-danger"><span class="visually-hidden">status: </span>não passa</span> (*) os requisitos mínimos do Selo de Usabilidade e Acessibilidade.
 
-<table class="table-Light">
+<table class="table-Light mx-auto">
   <caption>Estado por tipo de avaliação efetuada</caption>
   <tr>
     <th>Tipo de avaliação</th>
@@ -40,7 +40,7 @@ O {{ page.uri }} <span class="badge text-bg-danger"><span class="visually-hidden
 
 Das avaliações periciais manuais efetuadas obtiveram-se os resultados que se sintetizam na tabela seguinte.
 
-<table class="table-Light">
+<table class="table-Light mx-auto">
   <caption>Níveis de conformidade das avaliações periciais efetuadas</caption>
   <tr>
     <th>Checklist</th>
