@@ -15,28 +15,57 @@
 
   <!-- Bootstrap JS via CDN -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- constrói o índice -->
+  
   <script>
 document.addEventListener("DOMContentLoaded", function () {
   const content = document.querySelector("main") || document.body;
   const tocContainer = document.getElementById("toc");
   if (!tocContainer) return;
 
-  const headers = content.querySelectorAll("h2, h3, h4, h5, h6");
+  const headers = Array.from(content.querySelectorAll("h2, h3, h4, h5, h6"));
+  if (headers.length === 0) return;
 
-  let tocHTML = '<ul class="list-unstyled">';
+  // Garante IDs únicos
   headers.forEach(header => {
     if (!header.id) {
-      header.id = header.textContent.trim().toLowerCase().replace(/\s+/g, '-');
+      header.id = header.textContent.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^\w\-]/g, '');
     }
-    tocHTML += `<li class="ms-${(parseInt(header.tagName[1]) - 2) * 3}">
-      <a href="#${header.id}">${header.textContent}</a>
-    </li>`;
   });
-  tocHTML += '</ul>';
 
-  tocContainer.innerHTML = tocHTML;
+  let toc = document.createElement("ul");
+  let currentLevel = 2;
+  let parents = [toc];
+
+  headers.forEach(header => {
+    const level = parseInt(header.tagName.substring(1));
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    a.href = `#${header.id}`;
+    a.textContent = header.textContent;
+    li.appendChild(a);
+
+    if (level > currentLevel) {
+      // Subnível – cria nova <ul> e desce
+      const newUl = document.createElement("ul");
+      parents[parents.length - 1].lastElementChild.appendChild(newUl);
+      parents.push(newUl);
+    } else if (level < currentLevel) {
+      // Sobe o número necessário de níveis
+      while (level < currentLevel && parents.length > 1) {
+        parents.pop();
+        currentLevel--;
+      }
+    }
+    currentLevel = level;
+    parents[parents.length - 1].appendChild(li);
+  });
+
+  tocContainer.appendChild(toc);
 });
 </script>
+
 
 
 </body>
