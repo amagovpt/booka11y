@@ -20,7 +20,7 @@ selo: candidatura a selo prata
 
 ## Introdução
 
-O {{ page.uri }} <span class="badge text-bg-danger"><span class="visually-hidden">status: </span>não passa</span> (*) os requisitos mínimos do Selo de Usabilidade e Acessibilidade.
+O {{ page.uri }} <span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span>não passa</span> (*) os requisitos mínimos do Selo de Usabilidade e Acessibilidade.
 
 <table class="table-primary caption-top mx-auto">
   <caption>Estado por tipo de avaliação efetuada</caption>
@@ -30,11 +30,11 @@ O {{ page.uri }} <span class="badge text-bg-danger"><span class="visually-hidden
   </tr>
   <tr>
     <td>Avaliação Automática</td>
-    <td><span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span></td>
+    <td><span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span></td>
   </tr>
   <tr>
     <td>Avaliação Manual</td>
-    <td><span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span></td>
+    <td><span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span></td>
   </tr>
 </table>
 
@@ -50,45 +50,45 @@ Das avaliações periciais manuais efetuadas obtiveram-se os resultados que se s
   <tr>
     <td>10 aspetos</td>
     <td>40,9% (9/22)</td>
-    <td><span class="badge text-bg-danger"><span class="visually-hidden">status: </span>não passa</span></td>
+    <td><span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span>não passa</span></td>
   </tr>
   <tr>
     <td>Conteúdo</td>
     <td>29,4% (5/17)</td>
-    <td><span class="badge text-bg-danger"><span class="visually-hidden">status: </span>não passa</span></td>
+    <td><span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span>não passa</span></td>
   </tr>
   <tr>
     <td>Transação</td>
     <td>75,0% (6/8)</td>
-    <td><span class="badge text-bg-success"><span class="visually-hidden">status: </span>passa</span> </td>
+    <td><span class="badge text-bg-success"><span class="visually-hidden">etiqueta: </span>passa</span> </td>
   </tr>
 </table>
 
 Nota: para cada checklist, para passar os requisitos do selo é necessário alcançar um nível de conformidade superior ou igual a 75%. 
 
-NOTA para codificar o relatório: o parágrafo seguinte só deve surgir quando a Declaração de Acessibilidade apresentar o estado <span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span>.
+NOTA para codificar o relatório: o parágrafo seguinte só deve surgir quando a Declaração de Acessibilidade apresentar o estado <span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>.
 
 Tome nota que a Declaração de Acessibilidade não se encontra corretamente afixada. Consulte o capíutlo "Declaração de acessibilidade" para saber o que tem de corrigir.
 
 ## Declaração de Acessibilidade 
 
-<span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span>
+<span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>
 
 (...) escreve-se o(s) issue(s) classificados pela label "Declaração" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
 ## Avaliação automatica 
 
-<span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span>
+<span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>
 
 (...) escreve-se o(s) issue(s) classificados pela label "Auto" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
 ## Avaliação manual
 
-<span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span>
+<span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>
 
 ### Checklist 10 aspetos 
 
-<span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span>
+<span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>
 
 Nível de conformidade:
 
@@ -99,13 +99,13 @@ Nível de conformidade:
  
 #### Requisito 1.1 - O menu de navegação deve estar estruturado como uma lista de opções. 
 
-<span class="badge text-bg-warning"><span class="visually-hidden">status: </span> Melhoria</span>
+<span class="badge text-bg-warning"><span class="visually-hidden">etiqueta: </span> Melhoria</span>
 
 (...) escreve-se o(s) issue(s) classificados pelas labels "chk10" "R 1.1" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
 #### Requisito 1.2 - É possível selecionar as opções e as subopções do menu quer com rato quer com teclado. 
 
-<span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span>
+<span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>
 
 (...) escreve-se o(s) issue(s) classificados pelas labels "chk10" "R 1.1" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
@@ -113,7 +113,7 @@ Nível de conformidade:
 
 ### Checklist Conteúdo
 
-<span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span>
+<span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>
 
 Nível de conformidade:
 
@@ -124,13 +124,13 @@ Nível de conformidade:
 
 #### Requisito 1.1 - O sítio Web apresenta um resumo breve do seu propósito, visível sem fazer scroll. 
 
-<span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span>
+<span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>
 
 (...) escreve-se o(s) issue(s) classificados pelas labels "conteudo" "R 1.1" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
 #### Requisito 1.2 - Os termos mais complexos têm uma definição agregada. 
 
-<span class="badge text-bg-warning"><span class="visually-hidden">status: </span> Melhoria</span>
+<span class="badge text-bg-warning"><span class="visually-hidden">etiqueta: </span> Melhoria</span>
 
 (...) escreve-se o(s) issue(s) classificados pelas labels "conteudo" "R 1.2" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
@@ -138,7 +138,7 @@ Nível de conformidade:
 
 ### Checklist Transação 
 
-<span class="badge text-bg-success"><span class="visually-hidden">status: </span> OK</span>
+<span class="badge text-bg-success"><span class="visually-hidden">etiqueta: </span> OK</span>
 
 Nível de conformidade:
 
@@ -149,13 +149,13 @@ Nível de conformidade:
 
 #### Requisito 2.4 - Campos obrigatórios devem ser claramente indicados como tal. 
 
-<span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span>
+<span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>
 
 (...) escreve-se o(s) issue(s) classificados pela label "transação" "R 2.4" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
 #### Requisito 3.1 - Em ações longas, o sistema deve indicar o que está a acontecer. 
 
-<span class="badge text-bg-secondary"><span class="visually-hidden">status: </span> N/A</span>
+<span class="badge text-bg-secondary"><span class="visually-hidden">etiqueta: </span> N/A</span>
 
 (...) escreve-se o(s) issue(s) classificados pela label "transação" "R 3.1" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
@@ -182,14 +182,14 @@ Nível de conformidade:
 (**) Labels:
 
 <ul>
- <li><span class="badge text-bg-success"><span class="visually-hidden">status: </span> OK</span> - status OK</li>
- <li><span class="badge text-bg-warning"><span class="visually-hidden">status: </span> Melhoria</span> - status OK, mas pode melhorar</li>
- <li><span class="badge text-bg-danger"><span class="visually-hidden">status: </span> NOK</span> - status Not OK</li>
- <li><span class="badge text-bg-secondary"><span class="visually-hidden">status: </span> N/A</span> - status Não Aplicável</li>
- <li><span class="badge text-bg-primary"><span class="visually-hidden">status: </span> chk10</span> - checklist 10 Aspetos críticos de acessibilidade funcional</li>
- <li><span class="badge text-bg-primary"><span class="visually-hidden">status: </span> Conteúdo</span> - checklist Conteúdo</li>
- <li><span class="badge text-bg-primary"><span class="visually-hidden">status: </span> Transação</span> - checklist Transação</li>
- <li><span class="badge text-bg-primary"><span class="visually-hidden">status: </span> Declaração de Acessibilidade</span> - permite construir o capítulo "Declaração de acessibilidade e usabilidade"</li>
- <li><span class="badge text-bg-primary"><span class="visually-hidden">status: </span> Outras violações</span> - permite construir o "capítulo "Outras violações"</li>
+ <li><span class="badge text-bg-success"><span class="visually-hidden">etiqueta: </span> OK</span> - status OK</li>
+ <li><span class="badge text-bg-warning"><span class="visually-hidden">etiqueta: </span> Melhoria</span> - status OK, mas pode melhorar</li>
+ <li><span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span> - status Not OK</li>
+ <li><span class="badge text-bg-secondary"><span class="visually-hidden">etiqueta: </span> N/A</span> - status Não Aplicável</li>
+ <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> chk10</span> - checklist 10 Aspetos críticos de acessibilidade funcional</li>
+ <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> Conteúdo</span> - checklist Conteúdo</li>
+ <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> Transação</span> - checklist Transação</li>
+ <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> Declaração de Acessibilidade</span> - permite construir o capítulo "Declaração de acessibilidade e usabilidade"</li>
+ <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> Outras violações</span> - permite construir o "capítulo "Outras violações"</li>
 </ul>
 
