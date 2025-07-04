@@ -99,9 +99,15 @@ Nível de conformidade:
  
 #### Requisito 1.1 - O menu de navegação deve estar estruturado como uma lista de opções. 
 
-<span class="badge text-bg-warning"><span class="visually-hidden">etiqueta: </span> Melhoria</span>
+<span class="badge text-bg-warning"><span class="visually-hidden">etiqueta: </span> melhoria</span>
 
-(...) escreve-se o(s) issue(s) classificados pelas labels "chk10" "R 1.1" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
+Lista de issues:
+
+**Existem várias landmarks nav sem diferenciação**
+
+<span class="badge text-bg-warning"><span class="visually-hidden">etiqueta: </span> melhoria</span> <span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> R 1.1</span> <span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> chk10 web</span>
+
+<a href="#" class="btn btn-outline-dark btn-lg">Consultar detalhe <span class="visually-hidden">Existem várias landmarks nav sem diferenciação</span></a>
 
 #### Requisito 1.2 - É possível selecionar as opções e as subopções do menu quer com rato quer com teclado. 
 
