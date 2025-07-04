@@ -66,6 +66,16 @@ Das avaliações periciais manuais efetuadas obtiveram-se os resultados que se s
 
 Nota: para cada checklist, para passar os requisitos do selo é necessário alcançar um nível de conformidade superior ou igual a 75%. 
 
+Em síntese, a inspeção pericial à checklist dos 10 aspetos críticos de acessibiidade funcional revela os resultados apresentados na tabela seguinte.
+
+<table>
+  <captioin>Checklist 10 aspetos críticos de acessibilidade funcional - síntese de resultados encontrados</captioin>
+  <tr>
+    <th></th>
+  </tr>
+</table>
+
+
 NOTA para codificar o relatório: o parágrafo seguinte só deve surgir quando a Declaração de Acessibilidade apresentar o estado <span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>.
 
 Tome nota que a Declaração de Acessibilidade não se encontra corretamente afixada. Consulte o capíutlo "Declaração de acessibilidade" para saber o que tem de corrigir.
