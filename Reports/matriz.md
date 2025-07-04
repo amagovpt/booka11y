@@ -6,18 +6,22 @@ url: https://pessoas2030.gov.pt/
 selo: candidatura a selo prata
 ---
 
-- {{data}} / AMA. I.P. - Núcleo de Experiência e Usabilidade.
-- {{owner}}
-- {{URL}}
-- {{selo}}
+- {%data} / AMA. I.P. - Núcleo de Experiência e Usabilidade.
+- {%owner}
+- {%url}
+- {%selo}
 
 índice:
 
 {TOC}
 
-## Sumário
+## Introdução
 
-(...)
+O {{url}} passa(ver nota *) os requisitos mínimos do Selo de Usabilidade e Acessibilidade.
+
+### Avaliação Automática OK
+
+
 
 ## Avaliação automatica
 
@@ -43,3 +47,19 @@ selo: candidatura a selo prata
 ### Checklist Transção
 
 ## Outras violações
+
+## Notas (apenas para explicar algumas variáveis na construção do relatório) - isto não é para aparecer no relatório
+
+(*) passa, se:
+
+- Avaliação automática OK
+  - Avaliação automática OK, se todos os seus issues estão OK ou NA
+- Avaliação manual OK
+  - Avaliação manual OK, se 10 aspetos OK ou NA, Conteúdo OK ou NA, Transação OK ou NA
+    - 10 aspetos OK, se todos os 10 aspetos estão OK ou NA
+      - Cada aspeto está OK, se todos os requisitos estão OK ou NA
+        - Cada requisito está OK, se todos os issues estão OK ou NA
+    - Conteúdo (...)
+      - (...)
+    - Transação (...)
+      - (...)
