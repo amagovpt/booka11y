@@ -99,7 +99,7 @@ Nível de conformidade:
  
 #### Requisito 1.1 - O menu de navegação deve estar estruturado como uma lista de opções. 
 
-<span class="badge text-bg-warning"><span class="visually-hidden">etiqueta: </span> melhoria</span>
+<span class="badge text-bg-success"><span class="visually-hidden">etiqueta: </span> OK</span> (contém 1 melhoria para efetuar)
 
 Lista de evidências recolhida:
 
