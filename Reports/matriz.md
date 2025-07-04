@@ -19,7 +19,7 @@ selo: candidatura a selo prata
 
 O {{url}} passa(ver nota *) os requisitos mínimos do Selo de Usabilidade e Acessibilidade.
 
-### Avaliação Automática OK
+### Avaliação Automática <span class="badge text-bg-success">status: OK</span>
 
 
 
