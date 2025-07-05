@@ -80,11 +80,23 @@ Tome nota que a Declaração de Acessibilidade não se encontra corretamente afi
 
 <span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>
 
+A avaliação automática verifica:
+
+- a pontuação média da amostra no AccessMonitor, quando possível;
+- a contabilização das páginas existentes na amostra com nota inferior a 9, no AccessMonitor, quando possível;
+- a verificação da amostra num segundo validador, comummente usado no mercado (e.g. RocketValidator).
+
 (...) escreve-se o(s) issue(s) classificados pela label "Auto" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
 ## Avaliação manual
 
 <span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>
+
+A avaliação manual é feita por inspeção perícial dos diversos requisitos constantes da:
+
+- checklist **10 aspetos crítios de acessibilidade funcional**;
+- checklist **Conteúdo** (se candidato a Selo Bronze);
+- checklist **Transação** (se candidato a Selo Prata).
 
 ### Checklist 10 aspetos 
 
