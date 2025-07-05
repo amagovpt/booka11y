@@ -84,7 +84,7 @@ A avaliação automática verifica:
 
 - a pontuação média da amostra no AccessMonitor, quando possível;
 - a contabilização das páginas existentes na amostra com nota inferior a 9, no AccessMonitor, quando possível;
-- a verificação da amostra num segundo validador, comummente usado no mercado (e.g. RocketValidator).
+- a verificação da amostra num segundo validador, comummente usado no mercado (e.g. RocketValidator), quando possível.
 
 (...) escreve-se o(s) issue(s) classificados pela label "Auto" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
