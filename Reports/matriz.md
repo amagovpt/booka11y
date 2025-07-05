@@ -76,7 +76,7 @@ Tome nota que a Declaração de Acessibilidade não se encontra corretamente afi
 
 (...) escreve-se o(s) issue(s) classificados pela label "Declaração" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
-## Avaliação automatica 
+## Avaliação automática 
 
 <span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>
 
