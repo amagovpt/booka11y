@@ -103,8 +103,8 @@ Nível de conformidade:
 
 Lista de evidências recolhida:
 
-<ul>
-  <li>
+<ul class="list-group">
+  <li class="list-group-item">
     <p><span class="visually-hidden">evidênccia: </span><strong>Existem várias landmarks nav sem diferenciação</strong></p>
     <p><span class="badge text-bg-warning"><span class="visually-hidden">etiqueta: </span> melhoria</span> <span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> R 1.1</span> <span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> chk10 web</span></p>
     <p><a href="#" class="btn btn-outline-dark btn-lg">Consultar detalhe da evidência<span class="visually-hidden">, Existem várias landmarks nav sem diferenciação</span> (abre no GitHub)</a></p>
