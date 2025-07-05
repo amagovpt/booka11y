@@ -199,6 +199,6 @@ Nível de conformidade:
  <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> chk transação</span> - checklist Transação</li>
  <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> dec a11y</span> - permite construir o capítulo "Declaração de acessibilidade e usabilidade"</li>
  <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> automatic</span> - permite construir o capítulo "Avaliação automática"</li>
- <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> outras violações</span> - permite construir o "capítulo "Outras violações"</li>
+ <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> outras violações</span> - permite construir o capítulo "Outras violações"</li>
 </ul>
 
