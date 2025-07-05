@@ -107,7 +107,7 @@ Lista de evidências recolhida:
 
 <span class="badge text-bg-warning"><span class="visually-hidden">etiqueta: </span> melhoria</span> <span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> R 1.1</span> <span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> chk10 web</span>
 
-<a href="#" class="btn btn-outline-dark btn-lg">Consultar detalhe da evidênia<span class="visually-hidden">, Existem várias landmarks nav sem diferenciação</span></a>
+<a href="#" class="btn btn-outline-dark btn-lg">Consultar detalhe da evidência<span class="visually-hidden">, Existem várias landmarks nav sem diferenciação</span></a>
 
 #### Requisito 1.2 - É possível selecionar as opções e as subopções do menu quer com rato quer com teclado. 
 
