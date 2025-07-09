@@ -53,10 +53,17 @@
       border: none;
       background: none;
       padding: 0;
+      margin-right: 0.5rem;
     }
     .image-link img {
       width: 32px;
       height: 32px;
+    }
+    .image-menu {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: center;
     }
   </style>
 </head>
@@ -117,11 +124,20 @@
     <div class="example">
       <div>
         <h3>Mau exemplo</h3>
-        <button class="image-link" onclick="location.href='home.html'"><img src="/icons/home.png"></button>
+        <div class="image-menu">
+          <button class="image-link" onclick="location.href='home.html'"><img src="/icons/home.png"></button>
+          <button class="image-link" onclick="location.href='servicos.html'"><img src="/icons/services.png"></button>
+          <button class="image-link" onclick="location.href='contactos.html'"><img src="/icons/contact.png"></button>
+          <button class="image-link" onclick="location.href='faq.html'"><img src="/icons/faq.png"></button>
+        </div>
       </div>
       <div>
         <h3>Bom exemplo</h3>
-        <a href="home.html">
-          <img src="/icons/home.png" alt="Página inicial">
-        </a>
-      </div>
+        <nav>
+          <ul class="image-menu">
+            <li><a href="home.html"><img src="/icons/home.png" alt="Página inicial"></a></li>
+            <li><a href="servicos.html"><img src="/icons/services.png" alt="Serviços"></a></li>
+            <li><a href="contactos.html"><img src="/icons/contact.png" alt="Contactos"></a></li>
+            <li><a href="faq.html"><img src="/icons/faq.png" alt="Perguntas frequentes"></a></li>
+          </ul>
+        </nav
