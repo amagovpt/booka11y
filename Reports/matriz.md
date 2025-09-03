@@ -77,6 +77,8 @@ Verificámos também que a Declaração de Acessibilidade não se encontra corre
 
 <span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>
 
+De acordo com o [artigo 8º do DL n.º 83/2018](https://www.acessibilidade.gov.pt/blogue/categoria-acessibilidade/dl-n-o-83-2018-acessibilidade-dos-sitios-web-e-das-aplicacoes-moveis/#n8), todos os sítios web e todas as aplicações móveis têm de ostentar uma Declaração de Acessibilidade. A Declaração é o documento na qual a organização evidencia o trabalho levado a efeito para tornar os seus conteúdos e serviços digitais mais acessíveis, disponibilizando ainda contactos para ajuda adicional.
+
 (...) escreve-se o(s) issue(s) classificados pela label "Declaração" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
 ## Avaliação automática 
