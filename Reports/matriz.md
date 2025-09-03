@@ -182,13 +182,13 @@ Nível de conformidade:
 
 (...) escreve-se o(s) issue(s) classificados pela label "transação" "R 3.1" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
+### Outras violações
+
+(...) escreve-se o(s) issue(s) classificados pela label "outras violações" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
+
 ## Testes de usabilidade
 
 (...) escreve-se o(s) issue(s) classificados pela label "testes usabilidade" aqui. O status é-lhe dado pela label "OK", "NO" e "NA". A computação destes dá o status deste capítulo.
-
-## Outras violações
-
-(...) escreve-se o(s) issue(s) classificados pela label "outras violações" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
 ## Notas (apenas para explicar algumas variáveis na construção do relatório) - isto não é para aparecer no relatório
 
