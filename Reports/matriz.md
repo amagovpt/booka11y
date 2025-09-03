@@ -14,9 +14,12 @@ selo: candidatura a selo prata
 - {{ page.uri }}
 - {{ page.selo }}
 
-índice:
-
-<div id="toc" class="mb-4"></div>
+<details>
+  <summary>
+    índice
+  </summary>
+  <div id="toc" class="mb-4"></div>
+</details>
 
 ## Introdução
 
@@ -179,6 +182,10 @@ Nível de conformidade:
 
 (...) escreve-se o(s) issue(s) classificados pela label "transação" "R 3.1" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
+## Testes de usabilidade
+
+(...) escreve-se o(s) issue(s) classificados pela label "testes usabilidade" aqui. O status é-lhe dado pela label "OK", "NO" e "NA". A computação destes dá o status deste capítulo.
+
 ## Outras violações
 
 (...) escreve-se o(s) issue(s) classificados pela label "outras violações" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
@@ -210,7 +217,9 @@ Nível de conformidade:
  <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> chk conteúdo</span> - checklist Conteúdo</li>
  <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> chk transação</span> - checklist Transação</li>
  <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> dec a11y</span> - permite construir o capítulo "Declaração de acessibilidade e usabilidade"</li>
- <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> automatic</span> - permite construir o capítulo "Avaliação automática"</li>
+ <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> av auto</span> - permite construir o capítulo "Avaliação automática"</li>
+ <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> testes usabilidade</span> - permite construir o capítulo "Testes de usabilidade"</li>
+ 
  <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> outras violações</span> - permite construir o capítulo "Outras violações"</li>
 </ul>
 
