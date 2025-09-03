@@ -216,7 +216,7 @@ Nível de conformidade:
  <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> chk10 web</span> - checklist 10 Aspetos críticos de acessibilidade funcional</li>
  <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> chk conteúdo</span> - checklist Conteúdo</li>
  <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> chk transação</span> - checklist Transação</li>
- <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> outras violações</span> - permite construir o capítulo "Outras violações"</li>
+ <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> outras violações</span> - permite construir o subcapítulo "Outras violações", o qual integra o capítulo "Avaliações manuais"</li>
   <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> dec a11y</span> - permite construir o capítulo "Declaração de acessibilidade e usabilidade"</li>
   <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> av auto</span> - permite construir o capítulo "Avaliação automática"</li>
  <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> testes usabilidade</span> - permite construir o capítulo "Testes de usabilidade"</li>
