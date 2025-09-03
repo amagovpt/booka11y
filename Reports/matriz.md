@@ -83,11 +83,17 @@ Tome nota que a Declaração de Acessibilidade não se encontra corretamente afi
 
 <span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>
 
+<!-- 
+
 A avaliação automática verifica:
 
 - a pontuação média da amostra no AccessMonitor, quando possível;
 - a contabilização das páginas existentes na amostra com nota inferior a 9, no AccessMonitor, quando possível;
 - a verificação da amostra num segundo validador, comummente usado no mercado (e.g. RocketValidator), quando possível.
+
+-->
+
+Para a produção das evidências do presente capítulo, foram utilizadas ferramentas automatizadas de avaliação de requisitos de acessibilidade de acordo com a norma WCAG 2.1 'AA'. A amostra em análise pelas ferramentas é composta pela Homepage mais todas as páginas diretamente hiperligadas por ela, pertencentes ao domínio.
 
 (...) escreve-se o(s) issue(s) classificados pela label "Auto" aqui. O status é-lhe dado pela label "OK", "NOK" e "NA". A computação destes dá o status deste capítulo.
 
@@ -100,6 +106,8 @@ A avaliação manual é feita por inspeção perícial dos diversos requisitos c
 - checklist **10 aspetos crítios de acessibilidade funcional**;
 - checklist **Conteúdo** (se candidato a Selo Bronze);
 - checklist **Transação** (se candidato a Selo Prata).
+
+Sempre que os auditores localizam uma falha grave de um requisito de acessibilidade que, embora não faça parte do esquema de requisitos do Selo, se enquadre no âmbito das violações das WCAG 2.1 'AA' do W3C, tal referência é anotada em "Outras violações" do presente capítulo. Apesar destas violações não se apresentarem com carácter vinculativo no esquema de requisitos do Selo, recomenda-se que as mesmas sejam corrigidas.
 
 ### Checklist 10 aspetos 
 
