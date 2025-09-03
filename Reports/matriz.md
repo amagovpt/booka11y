@@ -200,23 +200,28 @@ Nível de conformidade:
 
 (...) escreve-se o(s) issue(s) classificados pela label "testes usabilidade" aqui. O status é-lhe dado pela label "OK", "NO" e "NA". A computação destes dá o status deste capítulo.
 
-## Notas (apenas para explicar algumas variáveis na construção do relatório) - isto não é para aparecer no relatório
+** Notas (apenas para explicar algumas variáveis na construção do relatório) - isto não é para aparecer no relatório **
 
 (*) passa, se:
 
 - Avaliação automática OK
   - Avaliação automática OK, se todos os seus issues estão OK ou NA
-- Avaliação manual OK
-  - Avaliação manual OK, se 10 aspetos OK, Melhoria ou NA, Conteúdo OK, Melhoria ou NA, Transação OK, Melhoria ou NA
-    - 10 aspetos OK, se todos os 10 aspetos estão OK, Melhoria ou NA
-      - Cada aspeto está OK, se todos os requisitos estão OK ou NA
-        - Cada requisito está OK, se todos os issues estão OK ou NA
+- Avaliação manual OK (no entanto contém x melhorias)
+  - Avaliação manual OK (no entanto contém x melhorias), se 10 aspetos OK, Melhoria ou NA; Conteúdo OK, Melhoria ou NA, Transação OK, Melhoria ou NA
+    - 10 aspetos OK (no entanto contém x melhorias), se todos os 10 aspetos estão OK, Melhoria ou NA
+      - Cada aspeto está OK (no entanto contém x melhorias), se todos os requisitos estão OK, Melhoria ou NA
+        - Cada requisito está OK (no entanto contém x melhorias), se todos os issues estão OK, Melhoria ou NA
     - Conteúdo (...)
       - (...)
     - Transação (...)
       - (...)
-     
-(**) Labels:
+
+(**) 2 Relatórios: Auditoria e Anexo à Declaração de Acessibilidade
+
+- Auditoria: contém apenas issues NOK e Melhorias
+- Declaração: contém issues OK, Melhoria, NOK e N/A
+   
+(***) Labels:
 
 <ul>
  <li><span class="badge text-bg-success"><span class="visually-hidden">etiqueta: </span> OK</span> - status OK</li>
