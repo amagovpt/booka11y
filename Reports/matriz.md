@@ -67,11 +67,11 @@ Das avaliações periciais manuais efetuadas obtiveram-se os resultados que se s
   </tr>
 </table>
 
-Nota: para cada checklist, para passar os requisitos do selo é necessário alcançar um nível de conformidade superior ou igual a 75%. 
+**Nota:** para passar os requisitos do selo é necessário alcançar um nível de conformidade superior ou igual a 75% em cada uma das 3 checklists. 
 
- NOTA para codificar o relatório: o parágrafo seguinte só deve surgir quando a Declaração de Acessibilidade apresentar o estado <span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>.
+ Nota para codificar o relatório: o parágrafo seguinte só deve surgir quando a Declaração de Acessibilidade apresentar o estado <span class="badge text-bg-danger"><span class="visually-hidden">etiqueta: </span> NOK</span>.
 
-Tome nota que a Declaração de Acessibilidade não se encontra corretamente afixada. Consulte o capíutlo "Declaração de acessibilidade" para saber o que tem de corrigir.
+Verificámos também que a Declaração de Acessibilidade não se encontra corretamente afixada. Consulte o capíutlo "Declaração de acessibilidade" para saber o que tem de corrigir.
 
 ## Declaração de Acessibilidade 
 
