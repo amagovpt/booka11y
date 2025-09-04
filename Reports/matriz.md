@@ -1,7 +1,8 @@
 ---
 layout: bootstrap
 title: Relatório Avaliação da Candidatura da Pessoas 2030
-data: Dezembro 2024
+create: 01/04/2025
+update: 04/09/2025
 owner: Proprietário do Pessoas2030
 uri: https://pessoas2030.gov.pt/
 selo: candidatura a selo prata
@@ -9,10 +10,11 @@ selo: candidatura a selo prata
 
 # {{ page.title }}
 
-- {{ page.data }} / AMA. I.P. - Núcleo de Experiência e Usabilidade.
-- {{ page.owner }}
-- {{ page.uri }}
-- {{ page.selo }}
+- Data de criação: {{ page.create }}
+- Última atualização: {{ page.update }}
+- URL: {{ page.uri }}
+- Propriedade: {{ page.owner }}
+- Candidatura: {{ page.selo }}
 
 <details>
   <summary>
