@@ -212,11 +212,11 @@ passa, se:
 
 - Avaliação automática OK
   - Avaliação automática OK, se todos os seus issues estão OK ou NA
-- Avaliação manual OK (no entanto contém x melhorias)
-  - Avaliação manual OK (no entanto contém x melhorias), se 10 aspetos OK, Melhoria ou NA; Conteúdo OK, Melhoria ou NA, Transação OK, Melhoria ou NA
-    - 10 aspetos OK (no entanto contém x melhorias), se todos os 10 aspetos estão OK, Melhoria ou NA
-      - Cada aspeto está OK (no entanto contém x melhorias), se todos os requisitos estão OK, Melhoria ou NA
-        - Cada requisito está OK (no entanto contém x melhorias), se todos os issues estão OK, Melhoria ou NA
+- Avaliação manual OK (no entanto contém x melhorias recomendadas)
+  - Avaliação manual OK (no entanto contém x melhorias recomendadas), se 10 aspetos OK, Melhoria ou NA; Conteúdo OK, Melhoria ou NA, Transação OK, Melhoria ou NA
+    - 10 aspetos OK (no entanto contém x melhorias recomendadas), se todos os 10 aspetos estão OK, Melhoria ou NA
+      - Cada aspeto está OK (no entanto contém x melhorias recomendadas), se todos os requisitos estão OK, Melhoria ou NA
+        - Cada requisito está OK (no entanto contém x melhorias recomendadas), se todos os issues estão OK, Melhoria ou NA
     - Conteúdo (...)
       - (...)
     - Transação (...)
