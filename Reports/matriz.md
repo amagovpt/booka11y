@@ -202,9 +202,13 @@ Nível de conformidade:
 
 (...) escreve-se o(s) issue(s) classificados pela label "testes usabilidade" aqui. O status é-lhe dado pela label "OK", "NO" e "NA". A computação destes dá o status deste capítulo.
 
-** Notas (apenas para explicar algumas variáveis na construção do relatório) - isto não é para aparecer no relatório **
+<hr>
 
-(*) passa, se:
+**Notas (apenas para explicar algumas variáveis na construção do relatório) - isto não é para aparecer no relatório**
+
+(*) 
+
+passa, se:
 
 - Avaliação automática OK
   - Avaliação automática OK, se todos os seus issues estão OK ou NA
@@ -218,7 +222,9 @@ Nível de conformidade:
     - Transação (...)
       - (...)
 
-(**) 2 Relatórios: Auditoria e Anexo à Declaração de Acessibilidade
+(**) 
+
+2 Relatórios: Auditoria e Anexo à Declaração de Acessibilidade
 
 - Auditoria: contém apenas issues NOK e Melhorias
 - Declaração: contém issues OK, Melhoria, NOK e N/A
@@ -239,3 +245,17 @@ Nível de conformidade:
  <li><span class="badge text-bg-primary"><span class="visually-hidden">etiqueta: </span> testes usabilidade</span> - permite construir o capítulo "Testes de usabilidade"</li>
 </ul>
 
+(****)
+
+**Filtro do Relatório para Auditoria**
+
+- Introdução <=> (a) conteúdo fixo => aparece
+- Declaração de Acessibilidade <=> (a) se issue 'dec a11y' .&. ( NOK .or. Melhoria ) => aparece; (b) se issue 'dec a11y' .&. ( OK .or. N/A ) => não aparece
+- Avaliação Automática <=> (a) se issue 'av auto' .&. ( NOK .or. Melhoria ) => aparece; (b) se issue 'av auto' .&. ( OK .or. N/A ) => não aparece
+- Avaliação Manual <=> (a) se chks NOK .or. Melhoria => aparece; (b) se chks OK .or. NA => não aparece.
+  - chk 10 aspetos <=> (a) se requisitos 'chk10 web' .&. ( NOK .or. Melhoria ) => aparece; (b) se requisitos 'chk10 web' .&. ( OK .or. NA ) => não aparece.
+    - Requisito <=> lista issues abertos ou fechados que: (a) se issues 'chk10 web" .&. ( NOK .or. Melhoria ) => aparece; (b) se issues 'chk10 web' .&. (OK .or. NA ) => não aparece.
+  - idem chk conteúdo (...)
+  - idem chk transação (...)
+  - Outras violações <=> (a) se issue 'outras violações' .&. (NOK .or. Melhoria .or. issue aberto ) => aparece; (b) se issue 'outras violações' .&. ( OK .or. issue N/A .or. issue fechado ) => não aparece
+- Testes de usabilidade <=> lista issues abertos ou fechados que: (a) se issue 'testes usabilidade' .&. (NOK .or. Melhoria ) => aparece; (b) se issue 'testes usabilidade' .&. ( OK .or. N/A ) => não aparece 
