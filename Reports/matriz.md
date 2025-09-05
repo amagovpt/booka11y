@@ -250,10 +250,10 @@ passa, se:
 **Filtro do Relatório para Auditoria**
 
 - Introdução <=> (a) conteúdo fixo => aparece
-- Declaração de Acessibilidade <=> (a) se issue 'dec a11y' .&. ( NOK .or. Melhoria ) => aparece; (b) se issue 'dec a11y' .&. ( OK .or. N/A ) => não aparece
-- Avaliação Automática <=> (a) se issue 'av auto' .&. ( NOK .or. Melhoria ) => aparece; (b) se issue 'av auto' .&. ( OK .or. N/A ) => não aparece
-- Avaliação Manual <=> (a) se chks NOK .or. Melhoria => aparece; (b) se chks OK .or. NA => não aparece.
-  - chk 10 aspetos <=> (a) se requisitos 'chk10 web' .&. ( NOK .or. Melhoria ) => aparece; (b) se requisitos 'chk10 web' .&. ( OK .or. NA ) => não aparece.
+- Declaração de Acessibilidade <=> lista issues abertos ou fechados que: (a) se issue 'dec a11y' .&. ( NOK .or. Melhoria ) => aparece; (b) se issue 'dec a11y' .&. ( OK .or. N/A ) => não aparece
+- Avaliação Automática <=> lista issues abertos ou fechados que: (a) se issue 'av auto' .&. ( NOK .or. Melhoria ) => aparece; (b) se issue 'av auto' .&. ( OK .or. N/A ) => não aparece
+- Avaliação Manual <=> lista issues abertos ou fechados que: (a) se chks NOK .or. Melhoria => aparece; (b) se chks OK .or. NA => não aparece.
+  - chk 10 aspetos <=> lista issues abertos ou fechados que: (a) se requisitos 'chk10 web' .&. ( NOK .or. Melhoria ) => aparece; (b) se requisitos 'chk10 web' .&. ( OK .or. NA ) => não aparece.
     - Requisito <=> lista issues abertos ou fechados que: (a) se issues 'chk10 web" .&. ( NOK .or. Melhoria ) => aparece; (b) se issues 'chk10 web' .&. (OK .or. NA ) => não aparece.
   - idem chk conteúdo (...)
   - idem chk transação (...)
