@@ -6,6 +6,7 @@ update: 04/09/2025
 owner: Proprietário do Pessoas2030
 uri: https://pessoas2030.gov.pt/
 selo: candidatura a selo prata
+Progresso (% de requisitos auditados): xx%
 ---
 
 # {{ page.title }}
