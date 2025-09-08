@@ -16,6 +16,7 @@ Progresso (% de requisitos auditados): xx%
 - URL: {{ page.uri }}
 - Propriedade: {{ page.owner }}
 - Candidatura: {{ page.selo }}
+- Progresso (% de requisitos auditados): xx%
 
 <details>
   <summary>
