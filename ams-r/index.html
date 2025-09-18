@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="pt-PT">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Layout com Menu Colapsável</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.min.css" rel="stylesheet">    
+    <link href="assets/css/ams.css" rel="stylesheet">
+    <script src="assets/js/ams.js" defer></script>
+
+
+  </head>
+  <body class="bg-light border-end border-start d-flex flex-column min-vh-100">
+
+    <!-- HEADER -->
+    <header class="bg-secondary text-white p-3">
+      <h1 class="h1 mb-0">AdminMonitorSuite</h1>
+      <p>você está a gerir o <mark><strong><abbr title="servidor de Desenvolvimento">DEV</abbr></strong></mark></p>
+    </header>
+
+    <!-- CONTEÚDO -->
+    <div class="container-fluid flex-grow-1">
+      <div class="row">
+
+        <!-- ASIDE -->
+        <aside id="asideCol" class="col-12 col-md-4 col-lg-3 bg-light border-end">
+          <nav aria-label="menu principal do AMS" class="p-3">
+            <button id="toggleMenu" aria-controls="menu-ams" aria-expanded="true" class="btn btn-outline-secondary btn-sm" aria-label="menu do AMS aberto. pressione se pretender fechar">
+              ◀ Menu
+            </button>
+
+            <ul id="menu-ams" aria-label="opções AMS" class="list-unstyled mt-4">
+
+<li><a href="inicio.html" aria-current="page">Início</a></li>
+<li><button type="button" aria-expanded="false" aria-controls="submenu-ver" id="menu-ver" aria-label="Ver/Gerir, contém submenu, atualmente fechado" data-label="Ver/Gerir">📊 Ver/Gerir <span class="indicator" aria-hidden="true">▼</span></button>
+<ul id="submenu-ver" aria-labelledby="menu-ver" hidden aria-hidden="true">
+<li><a href="ver_gerir_global.html">Global</a></li>
+<li><a href="ver_gerir_diretorio.html">Diretório</a></li>
+<li><a href="ver_gerir_categoria.html">Categoria/Tag</a></li>
+<li><a href="ver_gerir_entidade.html">Entidade</a></li>
+<li><a href="ver_gerir_sitio.html">Sítio Web</a></li>
+<li><a href="ver_gerir_pagina.html">Página</a></li>
+<li><a href="utilizadores.html">Utilizadores</a></li>
+<li><a href="utilizadoresgov.html">Utilizadores Gov</a></li>
+<li><a href="crawlers.html">Crawlers</a></li>
+</ul></li>
+      <li><button type="button" aria-expanded="false" aria-controls="submenu-criar" id="menu-criar" aria-label="Criar, contém submenu, atualmente fechado" data-label="Criar">🆕 Criar <span class="indicator" aria-hidden="true">▼</span></button>
+<ul id="submenu-criar" aria-labelledby="menu-criar" hidden aria-hidden="true">
+<li><a href="novodiretorio.html">Diretório</a></li>
+<li><a href="novacategoria.html">Categoria</a></li>
+<li><a href="novaentidade.html">Entidade</a></li>
+<li><a href="novositioweb.html">Sítio Web</a></li>
+<li><a href="novapagina.html">Página</a></li>
+<li><a href="novoutilizador.html">Utilizador</a></li>
+<li><a href="novoutilizadorgov.html">Utilizador Gov</a></li>
+</ul></li>
+<li><button type="button" aria-expanded="false" aria-controls="submenu-dev" id="menu-dev" aria-label="Ferramentas de programador, contém submenu, atualmente fechado" data-label="Ferramentas de programador">Ferramentas de programador <span class="indicator" aria-hidden="true">▼</span></button>
+  <ul id="submenu-dev" aria-labelledby="menu-dev" hidden aria-hidden="true">
+<li><a href="#">logs</a></li>
+</ul></li>
+
+            </ul>
+          </nav>
+        </aside>
+
+        <!-- MAIN -->
+        <main class="col bg-white p-4">
+
+          <h1 id="dados-operacionais-do-ecossistema-accessmonitor">Dados operacionais do Ecossistema AccessMonitor</h1>
+
+<p>você está aqui: início</p>
+
+<p>Encontra nesta página a síntese dos registos efetuados, em tempo real, pelas diversas aplicações do Ecossistema AccessMonitor.</p>
+
+<h2 id="sintese-da-informacao-registada-observatorio-vs-adminmonitorsuite">Síntese da informação registada<br/>
+Observatório vs AdminMonitorSuite</h2>
+
+<p>O quadro abaixo sintetiza a informação publicada no Observatório de sítios web (<a class="autolink" href="https://observatorio.acessibilidade.gov.pt">https://observatorio.acessibilidade.gov.pt</a>) e registada no AdminMonitorSuite de sítios web. Note que nem toda a informação registada no AMS é pública.</p>
+
+<table>
+<caption id="tabela-info-registada-no-ams-e-no-observatorio">Tabela: Info registada no AMS e no Observatório</caption>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:center;"/>
+<col style="text-align:center;"/>
+</colgroup>
+
+<thead>
+<tr>
+  <th style="text-align:left;">Agregador</th>
+  <th style="text-align:center;">AMS</th>
+  <th style="text-align:center;">Observatório</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+  <td style="text-align:left;">Diretórios</td>
+  <td style="text-align:center;">20</td>
+  <td style="text-align:center;">12</td>
+</tr>
+<tr>
+  <td style="text-align:left;">Categorias</td>
+  <td style="text-align:center;">40</td>
+  <td style="text-align:center;">--</td>
+</tr>
+<tr>
+  <td style="text-align:left;">Entidades</td>
+  <td style="text-align:center;">400</td>
+  <td style="text-align:center;">200</td>
+</tr>
+<tr>
+  <td style="text-align:left;">Sítios Web</td>
+  <td style="text-align:center;">2000</td>
+  <td style="text-align:center;">1200</td>
+</tr>
+<tr>
+  <td style="text-align:left;">Páginas</td>
+  <td style="text-align:center;">60000</td>
+  <td style="text-align:center;">40000</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="adminmonitorsuite-ams">AdminMonitorSuite (AMS)</h2>
+
+<p>A informação abaixo é gerada em tempo real sempre que um elemento da equipa AMA (utilizador AMS) solicita uma avaliação no AMS.</p>
+
+<ul>
+<li>Total de avaliações desde 28/09/2021: 4000000</li>
+<li>nº de páginas em avaliação no momento: 40</li>
+<li>nº de páginas em fila de espera para avaliar: 80</li>
+<li>nº de páginas sem avaliação devido a erro: <a href="#link_para_page_erros">4</a></li>
+</ul>
+
+<p>contador de páginas: <button>reiniciar</button> <button>apagar</button></p>
+
+<h2 id="accessmonitor">AccessMonitor</h2>
+
+<p>A informação abaixo é gerada em tempo real sempre que um qualquer utilizador solicita uma avaliação em <a class="autolink" href="https://accessmonitor.acessibilidade.gov.pt">https://accessmonitor.acessibilidade.gov.pt</a>, </p>
+
+<ul>
+<li>Total de avaliações desde 28/09/2021: 4000000</li>
+<li>nº de páginas em avaliação no momento: 40</li>
+<li>nº de páginas em fila de espera para avaliar: 80</li>
+<li>nº de páginas sem avaliação devido a erro: <a href="#link_para_page_erros">4</a></li>
+</ul>
+
+<p>contador de páginas: <button>reiniciar</button> <button>apagar</button></p>
+
+<h2 id="mymonitor">MyMonitor</h2>
+
+<p>A informação abaixo é gerada em tempo real sempre que um qualquer utlizador MyMonitor produz avaliações em <a class="autolink" href="https://mymonitor.acessibilidade.gov.pt">https://mymonitor.acessibilidade.gov.pt</a> .</p>
+
+<ul>
+<li>Total de avaliações desde 28/09/2021: 4000000</li>
+<li>nº de páginas em avaliação no momento: 40</li>
+<li>nº de páginas em fila de espera para avaliar: 80</li>
+<li>nº de páginas sem avaliação devido a erro: <a href="#link_para_page_erros">4</a></li>
+</ul>
+
+<p>contador de páginas: <button>reiniciar</button> <button>apagar</button></p>
+
+<h3 id="info-registada-no-mymonitor">Info registada no MyMonitor</h3>
+
+<table>
+<caption id="tabela-info-registada-no-mymonitor">Tabela: Info registada no MyMonitor</caption>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:center;"/>
+</colgroup>
+
+<thead>
+<tr>
+  <th style="text-align:left;">Agregador</th>
+  <th style="text-align:center;">Nº</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+  <td style="text-align:left;">Contas/Utilizadores</td>
+  <td style="text-align:center;">200</td>
+</tr>
+<tr>
+  <td style="text-align:left;">Sítios Web</td>
+  <td style="text-align:center;">2000</td>
+</tr>
+<tr>
+  <td style="text-align:left;">Páginas</td>
+  <td style="text-align:center;">600000</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="sincronizar-dados-do-ams-com-o-observatorio-de-sitios-web">Sincronizar dados do AMS com o Observatório de sítios web</h2>
+
+<p>A informação processada no AMS (back office) é sincronizada com o Observatório público todos os dias à meia-noite. Este processo atualiza toda a informação pública registada no AMS com o Observatório. Por vezes é útil sincronizar a informação durante o dia. Para o efeito pressione o botão &quot;sincronizar&quot; que se encontra abaixo. A duração da sincronização depende do número de páginas, o que poderá levar vários minutos a concluir.</p>
+
+<p><button>sincronizar dados com observatório botão</button></p>
+
+<h2 id="carregamento-de-dados-de-forma-massiva">Carregamento de dados de forma massiva</h2>
+
+<p><strong>NOTA: Por favor esta funcionalidade é experimental. Não a execute na Base de Dados de produção.</strong></p>
+
+<p>Carregamento de dados no AMS de forma massiva através do carregamento de um ficheiro .CSV. O ficheiro deverá ter as seguintes colunas: diretoria, categoria, nome do sítio, url da homepage do sítio web.</p>
+
+<p><button>Carregar CSV</button></p>
+
+        </main>
+
+      </div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="bg-dark text-white text-center p-3 mt-auto">
+      <p class="mb-0"><strong class="text-white">AdminMonitorSutie v.1.0.1</strong><br>© 2025 Agência para a Reforma Administrativa do Estado, I.P.</p>
+    </footer>
+    
+  </body>
+</html>
