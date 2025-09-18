@@ -1,0 +1,102 @@
+        
+      /* Ajustar os valores do body que vem, por defeito, do water.css */
+
+      /* comportamento por defeito: ocupar o ecrã todo */
+      body {
+        max-width: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
+      }
+
+    /* só em ecrãs grandes é que travamos a largura */
+      @media (min-width: 1200px) {
+        body {          
+          max-width: 110ch !important; /* ~65–75 caracteres por linha */
+          margin: 0 auto !important; /* centraliza */
+          padding: 0 2rem;  /* mais espaço lateral */
+        }
+      }
+
+
+      /* Transição suave do aside */
+      #asideCol {
+        transition: all 0.3s ease;
+        overflow: visible; /* importante! para deixar o botão "sair" */
+        position: relative;
+      }
+
+      #asideCol.collapsed {
+        width: 0 !important;
+        padding: 0 !important;
+        border: none !important;
+      }
+
+      /* Botão como aba lateral, versão desktop) */
+      #toggleMenu {
+        position: absolute;
+        top: 0.5rem;
+        right: -4.5rem; /* puxa para fora do aside */
+        z-index: 10;
+        white-space: nowrap;
+      }
+
+      /* Botão como aba em cima, versão Mobile) */
+      @media (max-width: 767.98px) {
+        #toggleMenu {
+          position: static;      
+          display: block;
+          margin-right: auto;    /* encosta à esquerda */
+          margin-bottom: 0.5rem; /* espaço em baixo */
+      }
+    }
+
+/* Estilos básicos para as opções do menu AMS id=menu-ams */
+
+nav ul#menu-ams, nav ul#menu-ams ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+nav ul#menu-ams button {
+  display: flex;
+  justify-content: space-between; /* separa texto e ícone */
+  align-items: center; /* alinha verticalmente */
+  width: 100%;
+  padding: 0.5em 1em;
+  background: none;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: left;
+  position: relative;
+}
+
+nav ul#menu-ams ul {
+  margin-left: 1em;
+  padding-left: 1em;
+  border-left: 2px solid #ccc;
+}
+
+nav ul#menu-ams li, nav ul#menu-ams ul li {
+  padding: 0.5em 0 0.5em 1em;
+}
+
+nav ul#menu-ams ul li a::before {
+  content: ">" / "opção";
+  padding: 0 0.5em 0 0;  
+}
+
+/* Indicator visual dinâmico aberto/fechado */
+
+span.indicator {
+  display: inline-block;
+  transition: transform 0.2s ease;
+  font-size: 0.8em;
+  line-height: 1;
+}
+
+button[aria-expanded="true"] span.indicator {
+  transform: rotate(180deg);
+}
+
+/* fim das opções do menu AMS id=menu-ams */
