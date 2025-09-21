@@ -1,7 +1,11 @@
         
-      /* Sobreposição de variáveis - custom properties - do water.css */
-      :root {
-        --text-bright: #6b747c; /* por defeito a variável tem um contraste de 4.45:1 :-). Afinei para 4.5:1. Requisito WCAG 2.1 'AA' */
+      /* CS1.4.3 das WCAG 2.1 'AA' - correção de contraste da letra do btn-outline-secondary de 4.45:1 para > 4.5:1 */
+      /* Nota: Esta variável encontra-se no CDN do BootStrap, criada e compilada via SAAS. Por isso, a sua correção na 
+      origem obrigaria a recompilar o Bootstrap. Uma forma mais rápida de corrigir é usar diretamente a 
+      class btn-outline-secondary como se faz abaixo */
+
+      .btn-outline-secondary {
+        color: #6b747c;
       }
 
 
