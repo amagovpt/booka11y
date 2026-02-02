@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>aria-describedby with hidden id</title>    
+  </head>
+  <body>
+    <h1>aria-describedby with hidden id</h1>
+    <label for="password">Password</label>
+    <input type="password" id="password" aria-describedby="pw-hint">
+    <span id="pw-hint" hidden>Must be at least 8 characters.</span>
+  </body>
+</html>
