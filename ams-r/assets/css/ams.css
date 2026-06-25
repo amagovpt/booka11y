@@ -1,0 +1,148 @@
+        
+      /* CS1.4.3 das WCAG 2.1 'AA' - correção de contraste da letra do btn-outline-secondary de 4.45:1 para > 4.5:1 */
+      /* Nota: Esta variável encontra-se no CDN do BootStrap, criada e compilada via SAAS. Por isso, a sua correção na 
+      origem obrigaria a recompilar o Bootstrap. Uma forma mais rápida de corrigir é usar diretamente a 
+      class btn-outline-secondary como se faz abaixo */
+
+      .btn-outline-secondary {
+        color: #6b747c;
+      }
+
+
+
+      /* Ajustar os valores do body que vem, por defeito, do water.css */
+
+      /* comportamento por defeito: ocupar o ecrã todo */
+      body {
+        max-width: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
+      }
+
+    /* só em ecrãs grandes é que travamos a largura */
+      @media (min-width: 1200px) {
+        body {          
+          max-width: 110ch !important; /* ~65–75 caracteres por linha */
+          margin: 0 auto !important; /* centraliza */
+          padding: 0 2rem;  /* mais espaço lateral */
+        }
+      }
+
+
+      /* Transição suave do aside */
+      #asideCol {
+        transition: all 0.3s ease;
+        overflow: visible; /* importante! para deixar o botão "sair" */
+        position: relative;
+      }
+
+      #asideCol.collapsed {
+        width: 0 !important;
+        padding: 0 !important;
+        border: none !important;
+      }
+
+      /* Botão como aba lateral, versão desktop) */
+      #toggleMenu {
+        position: absolute;
+        top: 0.5rem;
+        right: -6.5rem; /* puxa para fora do aside */
+        z-index: 10;
+        white-space: nowrap;
+      }
+
+      /* Botão como aba em cima, versão Mobile) */
+      @media (max-width: 767.98px) {
+        #toggleMenu {
+          position: static;      
+          display: block;
+          margin-right: auto;    /* encosta à esquerda */
+          margin-bottom: 0.5rem; /* espaço em baixo */
+      }
+    }
+
+/* Estilos básicos para as opções do menu AMS id=menu-ams */
+
+nav ul#menu-ams, nav ul#menu-ams ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+nav ul#menu-ams button {
+  display: flex;
+  justify-content: space-between; /* separa texto e ícone */
+  align-items: center; /* alinha verticalmente */
+  width: 100%;
+  padding: 0.5em 1em;
+  background: none;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: left;
+  position: relative;
+}
+
+nav ul#menu-ams ul {
+  margin-left: 1em;
+  padding-left: 1em;
+  border-left: 2px solid #ccc;
+}
+
+nav ul#menu-ams li, nav ul#menu-ams ul li {
+  padding: 0.5em 0 0.5em 1em;
+}
+
+nav ul#menu-ams ul li a::before {
+  content: ">" / "opção";
+  padding: 0 0.5em 0 0;  
+}
+
+/* Indicator visual dinâmico aberto/fechado */
+
+span.indicator {
+  display: inline-block;
+  transition: transform 0.2s ease;
+  font-size: 0.8em;
+  line-height: 1;
+}
+
+button[aria-expanded="true"] span.indicator {
+  transform: rotate(180deg);
+}
+
+/* aria-current page */
+
+li[aria-current="page"] {
+  text-align: right;
+}
+
+li[aria-current="page"]::after {
+  content: "";
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-left: 0.5em;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' fill='currentColor' viewBox='0 0 16 16'><path fill-rule='evenodd' d='M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8m-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5'/></svg>");
+  background-size: contain;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+}
+
+a#jumptoContent::before {
+  content: "";
+  display: inline-block;
+  width: 1em;                /* tamanho do ícone */
+  height: 1em;
+  margin-right: 0.25rem;     /* espaço entre ícone e texto */
+  background-color: currentColor;  /* herda a cor do link */
+  -webkit-mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><path d='M13.81 3H9.828a2 2 0 0 1-1.414-.586l-.828-.828A2 2 0 0 0 6.172 1H2.5a2 2 0 0 0-2 2l.04.87a2 2 0 0 0-.342 1.311l.637 7A2 2 0 0 0 2.826 14h10.348a2 2 0 0 0 1.991-1.819l.637-7A2 2 0 0 0 13.81 3M2.19 3q-.362.002-.683.12L1.5 2.98a1 1 0 0 1 1-.98h3.672a1 1 0 0 1 .707.293L7.586 3zm9.608 5.271-3.182 1.97c-.27.166-.616-.036-.616-.372V9.1s-2.571-.3-4 2.4c.571-4.8 3.143-4.8 4-4.8v-.769c0-.336.346-.538.616-.371l3.182 1.969c.27.166.27.576 0 .742'/></svg>") no-repeat center / contain;
+          mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><path d='M13.81 3H9.828a2 2 0 0 1-1.414-.586l-.828-.828A2 2 0 0 0 6.172 1H2.5a2 2 0 0 0-2 2l.04.87a2 2 0 0 0-.342 1.311l.637 7A2 2 0 0 0 2.826 14h10.348a2 2 0 0 0 1.991-1.819l.637-7A2 2 0 0 0 13.81 3M2.19 3q-.362.002-.683.12L1.5 2.98a1 1 0 0 1 1-.98h3.672a1 1 0 0 1 .707.293L7.586 3zm9.608 5.271-3.182 1.97c-.27.166-.616-.036-.616-.372V9.1s-2.571-.3-4 2.4c.571-4.8 3.143-4.8 4-4.8v-.769c0-.336.346-.538.616-.371l3.182 1.969c.27.166.27.576 0 .742'/></svg>") no-repeat center / contain;
+  vertical-align: middle;
+}
+
+
+
+
+
+
+/* fim das opções do menu AMS id=menu-ams */
