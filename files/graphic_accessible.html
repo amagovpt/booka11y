@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+  <meta charset="UTF-8">
+  <title>Gráfico acessível com D3 + Bootstrap</title>
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- D3 -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+
+  <style>
+    body { font-family: sans-serif; }
+
+    .bar { fill: steelblue; }
+    .bar:focus {
+      outline: 3px solid black;
+    }
+
+    #chart-container {
+      position: relative;
+      display: inline-block;
+    }
+
+    #tooltip {
+      position: absolute;
+      font-size: 0.9rem;
+      transition: opacity 0.2s;
+      pointer-events: none;
+      opacity: 0;
+      z-index: 1000;
+      white-space: nowrap;
+    }
+  </style>
+</head>
+<body class="p-4">
+
+<h1>Gráficos acessíveis com a framework d3.js</h1>
+
+<p>O presente gráfico apresenta:</p>
+<ul>
+  <li>Estrutura global em 2 separadores...</li>
+  <li>O gráfico apresenta uma descrição curta...</li>
+  <li>A descrição longa é fornecida por uma tabela...</li>
+  <li>O gráfico apresenta uma tooltip sempre que o utilizador passa com o rato...</li>
+  <li>O gráfico apresenta uma tooltip sempre que o utilizador navega...</li>
+  <li>Os dados apresentados na tooltip são enviados ao leitor de ecrã...</li>
+</ul>
+
+<h2 id="chart-title">Vendas por mês</h2>
+<p id="chart-desc">
+  Gráfico de barras com vendas mensais em euros entre janeiro e abril.
+</p>
+
+<!-- Tabs -->
+<ul class="nav nav-tabs" role="tablist">
+  <li class="nav-item">
+    <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#chart-panel" type="button">
+      Gráfico
+    </button>
+  </li>
+  <li class="nav-item">
+    <button class="nav-link" data-bs-toggle="tab" data-bs-target="#table-panel" type="button">
+      Tabela
+    </button>
+  </li>
+</ul>
+
+<div class="tab-content mt-3">
+
+  <!-- Painel gráfico -->
+  <div class="tab-pane fade show active" id="chart-panel" role="tabpanel" tabindex="0">
+
+    <div id="chart-container">
+
+      <!-- Tooltip AGORA NO CONTAINER -->
+      <div id="tooltip"
+           role="tooltip"
+           aria-live="polite"
+           aria-hidden="true"
+           class="bg-dark text-white p-2 rounded">
+      </div>
+
+      <svg id="chart"
+           width="500"
+           height="300"
+           role="img"
+           aria-labelledby="chart-title chart-desc">
+      </svg>
+
+    </div>
+
+  </div>
+
+  <!-- Painel tabela -->
+  <div class="tab-pane fade" id="table-panel" role="tabpanel" tabindex="0">
+
+    <table class="table table-bordered" id="data-table">
+      <caption>Dados de vendas mensais</caption>
+      <thead class="table-light">
+        <tr>
+          <th scope="col">Mês</th>
+          <th scope="col">Vendas (€)</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+    <button class="btn btn-primary" onclick="downloadCSV()">
+      Exportar CSV
+    </button>
+
+  </div>
+</div>
+
+<p>Este paragráfo, já está fora da estrutura de separadores e existe apenas para testar a navegação à saída do componente com <a href="#">leitor de ecrã</a>.</p>
+
+<script>
+const data = [
+  { mes: "Jan", valor: 30 },
+  { mes: "Fev", valor: 80 },
+  { mes: "Mar", valor: 45 },
+  { mes: "Abr", valor: 60 }
+];
+
+// === TOOLTIP ===
+const tooltip = d3.select("#tooltip");
+
+function showTooltip(element, d) {
+  const container = document.getElementById("chart-container");
+  const containerRect = container.getBoundingClientRect();
+  const rect = element.getBoundingClientRect();
+
+  const left = rect.left - containerRect.left;
+
+  // centro vertical da barra
+  const centerY = rect.top + rect.height / 2 - containerRect.top;
+
+  tooltip
+    .attr("aria-hidden", "false")
+    .style("opacity", 1)
+    .html(`<strong>${d.mes}</strong>: ${d.valor} €`)
+    .style("left", (left + 5) + "px")
+    .style("top", (centerY - 20) + "px");
+}
+
+function hideTooltip() {
+  tooltip
+    .style("opacity", 0)
+    .attr("aria-hidden", "true")
+    .html("");
+}
+
+// === GRÁFICO ===
+const svg = d3.select("#chart");
+const width = +svg.attr("width");
+const height = +svg.attr("height");
+
+const margin = { top: 20, right: 20, bottom: 30, left: 40 };
+
+const x = d3.scaleBand()
+  .domain(data.map(d => d.mes))
+  .range([margin.left, width - margin.right])
+  .padding(0.1);
+
+const y = d3.scaleLinear()
+  .domain([0, d3.max(data, d => d.valor)])
+  .nice()
+  .range([height - margin.bottom, margin.top]);
+
+svg.append("g")
+  .attr("transform", `translate(0,${height - margin.bottom})`)
+  .call(d3.axisBottom(x));
+
+svg.append("g")
+  .attr("transform", `translate(${margin.left},0)`)
+  .call(d3.axisLeft(y));
+
+svg.selectAll(".bar")
+  .data(data)
+  .enter()
+  .append("rect")
+  .attr("class", "bar")
+  .attr("x", d => x(d.mes))
+  .attr("y", d => y(d.valor))
+  .attr("width", x.bandwidth())
+  .attr("height", d => y(0) - y(d.valor))
+  .attr("tabindex", 0)
+  .attr("role", "img")
+  .attr("aria-label", d => `${d.mes}: ${d.valor} euros`)
+
+  .on("mouseover", function(event, d) {
+    showTooltip(this, d);
+  })
+  .on("mousemove", function(event, d) {
+    showTooltip(this, d);
+  })
+  .on("mouseout", hideTooltip)
+
+  .on("focus", function(event, d) {
+    showTooltip(this, d);
+  })
+  .on("blur", hideTooltip);
+
+// === TABELA ===
+const tbody = d3.select("#data-table tbody");
+
+tbody.selectAll("tr")
+  .data(data)
+  .enter()
+  .append("tr")
+  .html(d => `<td>${d.mes}</td><td>${d.valor}</td>`);
+
+// === CSV ===
+function downloadCSV() {
+  let csv = "Mes,Valor\n";
+  data.forEach(d => {
+    csv += `${d.mes},${d.valor}\n`;
+  });
+
+  const blob = new Blob([csv], { type: "text/csv;charset=utf-8;" });
+  const url = URL.createObjectURL(blob);
+
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = "dados.csv";
+  link.click();
+}
+
+// === FOCO NAS TABS ===
+document.querySelectorAll('button[data-bs-toggle="tab"]').forEach(tab => {
+  tab.addEventListener('shown.bs.tab', e => {
+    const target = document.querySelector(e.target.dataset.bsTarget);
+    target.focus();
+  });
+});
+</script>
+
+</body>
+</html>

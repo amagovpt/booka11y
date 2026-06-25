@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exemplos de Acessibilidade - Selo de Usabilidade</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      background-color: #f9f9f9;
+    }
+    section {
+      margin-bottom: 3rem;
+      padding: 1rem;
+      background: #fff;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    }
+    h2 {
+      margin-top: 0;
+    }
+    .example {
+      display: flex;
+      gap: 2rem;
+    }
+    .example > div {
+      flex: 1;
+    }
+    nav ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    nav li {
+      padding: 0.5rem;
+      background: #eaeaea;
+      margin-bottom: 0.5rem;
+    }
+    nav li a, .menu-button {
+      display: inline-block;
+      text-decoration: none;
+      color: #000;
+      padding: 0.5rem;
+    }
+    .fake-menu div {
+      padding: 0.5rem;
+      background: #e0e0e0;
+      margin-bottom: 0.5rem;
+      cursor: pointer;
+    }
+    .image-link {
+      border: none;
+      background: none;
+      padding: 0;
+      margin-right: 0.5rem;
+    }
+    .image-link img {
+      width: 32px;
+      height: 32px;
+    }
+    .image-menu {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Exemplos de Acessibilidade - Requisitos do Selo</h1>
+
+  <!-- Requisito 1.1 -->
+  <section>
+    <h2>1.1 Estrutura do menu como lista</h2>
+    <div class="example">
+      <div>
+        <h3>Mau exemplo</h3>
+        <div class="fake-menu">
+          <div onclick="location.href='inicio.html'">Início</div>
+          <div onclick="location.href='servicos.html'">Serviços</div>
+          <div onclick="location.href='contactos.html'">Contactos</div>
+        </div>
+      </div>
+      <div>
+        <h3>Bom exemplo</h3>
+        <nav aria-label="menu principal">
+          <ul>
+            <li><a href="inicio.html">Início</a></li>
+            <li><a href="servicos.html">Serviços</a></li>
+            <li><a href="contactos.html">Contactos</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </section>
+
+  <!-- Requisito 1.2 -->
+  <section>
+    <h2>1.2 Navegação com rato e teclado</h2>
+    <div class="example">
+      <div>
+        <h3>Mau exemplo</h3>
+        <div class="fake-menu">
+          <div onclick="location.href='home.html'">🏠</div>
+          <div onclick="location.href='sobre.html'">ℹ️</div>
+        </div>
+      </div>
+      <div>
+        <h3>Bom exemplo</h3>
+        <nav>
+          <ul>
+            <li><a class="menu-button" href="home.html">🏠 Início</a></li>
+            <li><a class="menu-button" href="sobre.html">ℹ️ Sobre</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </section>
+
+  <!-- Requisito 1.3 -->
+  <section>
+    <h2>1.3 Imagens-link com texto alternativo</h2>
+    <div class="example">
+      <div>
+        <h3>Mau exemplo</h3>
+        <div class="image-menu">
+          <button class="image-link" onclick="location.href='home.html'"><img src="icons/home.gif"></button>
+          <button class="image-link" onclick="location.href='servicos.html'"><img src="icons/services.png"></button>
+          <button class="image-link" onclick="location.href='contactos.html'"><img src="icons/contact.png"></button>
+          <button class="image-link" onclick="location.href='faq.html'"><img src="icons/faq.png"></button>
+        </div>
+      </div>
+      <div>
+        <h3>Bom exemplo</h3>
+        <nav aria-label="menu secundário">
+          <ul class="image-menu">
+            <li><a href="home.html"><img src="icons/home.gif" alt="Página inicial"></a></li>
+            <li><a href="servicos.html"><img src="icons/services.png" alt="Serviços"></a></li>
+            <li><a href="contactos.html"><img src="icons/contact.png" alt="Contactos"></a></li>
+            <li><a href="faq.html"><img src="icons/faq.png" alt="Perguntas frequentes"></a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </section>
+  <footer>
+    <p lang="en">icons copyright: <a target="_blank" href="https://icons8.com/icon/EDZuk72S1FJ7/home">Home</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></p>
+  </footer>
+</body>
+</html>

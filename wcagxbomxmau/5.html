@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exemplos WCAG 2.1 AA</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      background-color: #f5f5f5;
+    }
+    section {
+      margin-bottom: 3rem;
+      padding: 1rem;
+      background: white;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    }
+    h2 {
+      margin-top: 0;
+    }
+    .example {
+      display: flex;
+      gap: 2rem;
+    }
+    .example > div {
+      flex: 1;
+    }
+    .menu div {
+      padding: 0.5rem;
+      background: #eaeaea;
+      cursor: pointer;
+      margin-bottom: 0.5rem;
+    }
+    nav ul {
+      list-style: none;
+      padding: 0;
+    }
+    nav li {
+      padding: 0.5rem;
+      background: #eaeaea;
+      margin-bottom: 0.5rem;
+    }
+    button {
+      margin-right: 1rem;
+      padding: 0.5rem 1rem;
+    }
+    .contrast-low {
+      color: #ccc;
+    }
+    .contrast-good {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Exemplos de Acessibilidade - WCAG 2.1 AA</h1>
+
+  <!-- 1. Menu de navegação -->
+  <section>
+    <h2>1. Menu de navegação</h2>
+    <div class="example">
+      <div>
+        <h3>Mau exemplo</h3>
+        <div class="menu">
+          <div onclick="location.href='home.html'" tabindex="0">Início</div>
+          <div onclick="location.href='sobre.html'" tabindex="0">Sobre</div>
+        </div>
+      </div>
+      <div>
+        <h3>Bom exemplo</h3>
+        <nav>
+          <ul>
+            <li><a href="home.html">Início</a></li>
+            <li><a href="sobre.html">Sobre</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </section>
+
+  <!-- 2. Botão com label escondido -->
+  <section>
+    <h2>2. Botão com texto acessível</h2>
+    <div class="example">
+      <div>
+        <h3>Mau exemplo</h3>
+        <button>
+          <i class="fas fa-search">🔍</i>
+        </button>
+      </div>
+      <div>
+        <h3>Bom exemplo</h3>
+        <button aria-label="Pesquisar">
+          <i class="fas fa-search" aria-hidden="true">🔍</i>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3. Formulário -->
+  <section>
+    <h2>3. Campo de formulário</h2>
+    <div class="example">
+      <div>
+        <h3>Mau exemplo</h3>
+        <input type="email" placeholder="Seu email">
+      </div>
+      <div>
+        <h3>Bom exemplo</h3>
+        <label for="email">Email</label><br>
+        <input id="email" type="email" placeholder="Seu email">
+      </div>
+    </div>
+  </section>
+
+  <!-- 4. Ordem de tabulação -->
+  <section>
+    <h2>4. Ordem de tabulação</h2>
+    <div class="example">
+      <div>
+        <h3>Mau exemplo</h3>
+        <button tabindex="3">Salvar</button>
+        <button tabindex="1">Cancelar</button>
+        <button tabindex="2">Ajuda</button>
+      </div>
+      <div>
+        <h3>Bom exemplo</h3>
+        <button>Salvar</button>
+        <button>Cancelar</button>
+        <button>Ajuda</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5. Contraste de cor -->
+  <section>
+    <h2>5. Contraste de cor</h2>
+    <div class="example">
+      <div>
+        <h3>Mau exemplo</h3>
+        <p class="contrast-low">Leia mais sobre o tema</p>
+      </div>
+      <div>
+        <h3>Bom exemplo</h3>
+        <p class="contrast-good">Leia mais sobre o tema</p>
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>
+
