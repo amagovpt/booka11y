@@ -1,0 +1,38 @@
+<h1 id="main">Novo Utilizador</h1>
+
+<p>você está aqui: <a href="index.html">ams</a> &gt; <a href="utilizadores.html">utilizadores</a> &gt; novo utilizador</p>
+
+<p>Para usar o AdminMonitorSuite (AMS) e o MyMonitor é necessário ter um utilizador.</p>
+
+<p>No caso do AMS a autenticação do utilizador é feita por via de User/pass. No caso do MyMonitor a autenticação do utilizador é feita pelo processo oficial usado na Administração Pública Portuguesa e descrito em <a class="autolink" href="https://www.autenticacao.gov.pt">https://www.autenticacao.gov.pt</a> .</p>
+
+<p><label>Utilizador: <input type="text"></label></p>
+
+<p><label for="ecosystem">Para que aplicação é o utilizador?</label>
+ <select name="cars" id="ecosystem">
+ <option value="ams">AMS</option>
+ <option value="mymonitor">MyMonitor</option>
+ </select></p>
+
+<p><em>Nota: as duas opções abaixo devem surgir consoante aquilo que se escolher no campo anterior. Devem ser usadas técnicas de revelação progressiva</em></p>
+
+<h2>Se AMS</h2>
+
+<p><label>Palavra-chave: <input aria-describedby="requisito" type="text"></label>
+ <p id="requisito"><small>A palavra-chave deverá ter no mínimo 8 caracteres, 1 carácter maísculo, 1 carácter mínusculo, 1 número e 1 carácter especial</small></p></p>
+
+<p><label>Confirmar palavra-chave: <input type="text"></label></p>
+
+<p><label for="ecosystem">Perfil de acesso do utilizador:</label>
+ <select name="cars" id="ecosystem">
+ <option value="editar">editar</option>
+ <option value="visualizar">visualizar</option>
+ </select></p>
+
+<h2>Se MyMonitor</h2>
+
+<p>O processo de autenticação é feito via autenticação.Gov pelo que precisamos do número do Cartão de Cidaão. <em>Nota: futuramente teremos de evoluir para permitir a autenticação via passaporte</em>. </p>
+
+<p><label>Nº do Cartão de Cidadão: <input type="text"></label></p>
+
+<p>Funções: <button>Guardar e sair</button> <button>Sair sem guardar</button></p>
