@@ -1,0 +1,360 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ACT Test cases for Text has minimum contrast</title>
+</head>
+<body>
+
+<h1>ACT Test cases for Text has minimum contrast</h1>
+
+<h2>Passed (11)</h2>
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#passed-example-1">Passed Example 1</a></h2>
+<p><strong>Description:</strong> This dark gray text has a contrast ratio of 12.6:1 on the white background.</p>
+<div id="test-case-1">
+
+<p style="color: #333; background: #FFF;">
+	Some text in a human language
+</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#passed-example-2">Passed Example 2</a></h2>
+<p><strong>Description:</strong> This dark gray text has a contrast ratio between 12.6:1 and 5:1 on the white to blue gradient background.</p>
+<div id="test-case-2">
+
+<p style="color: #333; background: linear-gradient(to right, #FFF, #00F); width: 500px;">
+	Some text in a human language
+</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#passed-example-3">Passed Example 3</a></h2>
+<p><strong>Description:</strong> This light gray text has a contrast ratio between 13:1 and 5:1 on the background image.</p>
+<div id="test-case-3">
+<style>
+
+	#test-case-3 p {
+		color: #ccc;
+		height: 50px;
+		padding-top: 15px;
+		background: #000 no-repeat -20px -20px url('/test-assets/contrast/black-hole.jpeg');
+		text-shadow: 0px 0px 2px black;
+	}
+
+</style>
+<p>Black hole sun</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#passed-example-4">Passed Example 4</a></h2>
+<p><strong>Description:</strong> This black text has a contrast ratio between 6.1:1 and 9:1 on gray background with white text shadow on it.</p>
+<div id="test-case-4">
+
+<p style="color: #000; background: #737373; text-shadow: white 0 0 3px">
+	Some text in a human language
+</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#passed-example-5">Passed Example 5</a></h2>
+<p><strong>Description:</strong> This 18pt large black text has a contrast ratio of 3.6:1 on the gray background.</p>
+<div id="test-case-5">
+
+<p style="color: #000; font-size:18pt; background: #666;">
+	Some text in a human language
+</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#passed-example-6">Passed Example 6</a></h2>
+<p><strong>Description:</strong> This 14pt bold black text has a contrast ratio of 3.6:1 on the gray background.</p>
+<div id="test-case-6">
+
+<p style="color: #000; font-size:14pt; font-weight:700; background: #666;">
+	Some text in English
+</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#passed-example-7">Passed Example 7</a></h2>
+<p><strong>Description:</strong> This text does not convey anything in human language.</p>
+<div id="test-case-7">
+
+<p style="color: #000; background: #666;">
+	----=====++++++++___________***********%%%%%%%%%%%±±±±@@@@@@@@
+</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#passed-example-8">Passed Example 8</a></h2>
+<p><strong>Description:</strong> This text has the default browser text color on the default browser background color. By default this is black text on a white background, which has a contrast ratio of 21:1.</p>
+<div id="test-case-8">
+
+<p>Some text in a human language</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#passed-example-9">Passed Example 9</a></h2>
+<p><strong>Description:</strong> This dark gray text has a contrast ratio of 12.6:1 on the white background in a shadow DOM tree.</p>
+<div id="test-case-9">
+
+<p style="color: #CCC; background: #fff;" id="shadow-host-9"></p>
+<script>
+	const shadowRoot = document.getElementById('shadow-host-9').attachShadow({ mode: 'open' })
+	shadowRoot.innerHTML = '<span style="color: #333;">Some text in English</span>'
+</script>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#passed-example-10">Passed Example 10</a></h2>
+<p><strong>Description:</strong> This text has the default user agent link text and background color, of #0000EE and white. This results in a contrast ratio of 9.39:1.</p>
+<div id="test-case-10">
+
+<a href="https://w3c.org/">W3C</a>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#passed-example-11">Passed Example 11</a></h2>
+<p><strong>Description:</strong> This text is using the default user agent text color and background color. By default, this is black text on a white background with a contrast ratio of 21:1</p>
+<div id="test-case-11">
+
+<div role="button">My button!</div>
+</div>
+
+<h2>Failed (10)</h2>
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#failed-example-1">Failed Example 1</a></h2>
+<p><strong>Description:</strong> This light gray text has a contrast ratio of 2.3:1 on the white background.</p>
+<div id="test-case-12">
+
+<p style="color: #AAA; background: white;">
+	Some text in English
+</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#failed-example-2">Failed Example 2</a></h2>
+<p><strong>Description:</strong> This light gray text has a contrast ratio between 1.2:1 and 2.3:1 on the white to blue gradient background.</p>
+<div id="test-case-13">
+
+<p style="color: #AAA; background: linear-gradient(to right, #FFF, #00F); width: 300px">
+	Some text in English
+</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#failed-example-3">Failed Example 3</a></h2>
+<p><strong>Description:</strong> This light gray text has a contrast ratio between 2.7:1 and 3:1 on the background image.</p>
+<div id="test-case-14">
+
+<p
+	style="color: #555; height:50px; padding-top:20px; background: black no-repeat -20px -20px url('https://w3.org/WAI/content-assets/wcag-act-rules/test-assets/contrast/black-hole.jpeg');"
+>
+	Black hole sun
+</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#failed-example-4">Failed Example 4</a></h2>
+<p><strong>Description:</strong> This black text with 30% alpha channel has a contrast ratio of 2.1:1 on the white background.</p>
+<div id="test-case-15">
+
+<p style="color: rgba(0,0,0,.3); background: #FFF">
+	Some text in English
+</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#failed-example-5">Failed Example 5</a></h2>
+<p><strong>Description:</strong> This black text with 30% opacity has a contrast ratio of 2.1:1 on the white background.</p>
+<div id="test-case-16">
+
+<div style="background: #FFF">
+	<p style="color: #000; opacity: .3">
+		Some text in English
+	</p>
+</div>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#failed-example-6">Failed Example 6</a></h2>
+<p><strong>Description:</strong> This light gray text has a contrast ratio of 2.3:1 on the white background in a shadow DOM tree.</p>
+<div id="test-case-17">
+
+<p style="color: #aaa; background: #fff;" id="shadow-host-17"></p>
+<script>
+	const shadowRoot = document.getElementById('shadow-host-17').attachShadow({ mode: 'open' })
+	shadowRoot.textContent = 'Some text in English'
+</script>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#failed-example-7">Failed Example 7</a></h2>
+<p><strong>Description:</strong> This semi-transparent gray text has a contrast ratio between 2.3:1 and 4.2:1 on the black and white background. The light gray text is compared to the white section of the background and the dark gray text is compared to the black section of the background.</p>
+<div id="test-case-18">
+<style>
+
+	#test-case-18 #backgroundSplit {
+		color: rgba(90, 90, 90, 0.8);
+		background-position: top 0 left 0;
+		background-image: linear-gradient(90deg, transparent, transparent 3.3em, black 3.3em, black 6em);
+		padding: 0 1em;
+	}
+
+</style>
+<span id="backgroundSplit">
+	Hello world
+</span>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#failed-example-8">Failed Example 8</a></h2>
+<p><strong>Description:</strong> The first p element has a contrast ratio of 12.6:1. The second p element, which contains an example of the Helvetica font, has a contrast ratio of 3.85:1. Because this provides information, and is not only for aesthetic purposes, this is not considered purely decorative.</p>
+<div id="test-case-19">
+
+<p style="color: #333; background: #FFF;">
+	Helvetica is a widely used sans-serif typeface developed in 1957 by Max Miedinger and Eduard Hoffmann.
+</p>
+<p style="font-family: helvetica; background: #EEE; color: #777;">
+	The quick brown fox jumps over the lazy dog.
+</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#failed-example-9">Failed Example 9</a></h2>
+<p><strong>Description:</strong> This text in a button element has a contrast ratio of 3.85:1.</p>
+<div id="test-case-20">
+
+<button style="color: #777; background: #EEE;">My button!</button>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#failed-example-10">Failed Example 10</a></h2>
+<p><strong>Description:</strong> This text in a semantic button has a contrast ratio of 3.85:1.</p>
+<div id="test-case-21">
+
+<div role="button" style="color: #777; background: #EEE;">My button!</div>
+</div>
+
+<h2>Inapplicable (11)</h2>
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#inapplicable-example-1">Inapplicable Example 1</a></h2>
+<p><strong>Description:</strong> This text is not visible because of display: none.</p>
+<div id="test-case-22">
+
+<p style="display: none">Some invisible text in English</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#inapplicable-example-2">Inapplicable Example 2</a></h2>
+<p><strong>Description:</strong> This text is not visible because it is positioned off screen.</p>
+<div id="test-case-23">
+
+<p style="position:absolute; top: -999em">Some invisible text in English</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#inapplicable-example-3">Inapplicable Example 3</a></h2>
+<p><strong>Description:</strong> This text is not visible because the foreground color is the same as the background color.</p>
+<div id="test-case-24">
+
+<p style="color: white; background: white;" aria-hidden="true">Hidden text - U U D D L R L R B A S</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#inapplicable-example-4">Inapplicable Example 4</a></h2>
+<p><strong>Description:</strong> This text is not the child of an HTML element.</p>
+<div id="test-case-25">
+
+<svg>
+	<text x="0" y="15">I love SVG!</text>
+</svg>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#inapplicable-example-5">Inapplicable Example 5</a></h2>
+<p><strong>Description:</strong> This text not part of a text node.</p>
+<div id="test-case-26">
+
+<p>
+	<img src="https://w3.org/WAI/content-assets/wcag-act-rules/test-assets/contrast/example.png" alt="example" />
+</p>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#inapplicable-example-6">Inapplicable Example 6</a></h2>
+<p><strong>Description:</strong> This text is part of a label of a disabled widget, because it is in a label element that is the label for an input element with type=&quot;text&quot;.</p>
+<div id="test-case-27">
+
+<label style="color:#888; background: white;">
+	My name
+	<input type="text" disabled />
+</label>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#inapplicable-example-7">Inapplicable Example 7</a></h2>
+<p><strong>Description:</strong> This text is part of a label of a disabled widget, because it is in an element that is referenced by aria-labelledby from an element with role=&quot;textbox&quot;.</p>
+<div id="test-case-28">
+
+<label id="my_pets_name" style="color:#888; background: white;">
+	My pet's name
+</label>
+<div
+	role="textbox"
+	aria-labelledby="my_pets_name"
+	aria-disabled="true"
+	style="height:20px; width:100px; border:1px solid black;"
+>
+	test
+</div>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#inapplicable-example-8">Inapplicable Example 8</a></h2>
+<p><strong>Description:</strong> This text is part of a label of a disabled widget, because it is in a label element that is the label for an input element in a fieldset element with the disabled attribute.</p>
+<div id="test-case-29">
+
+<fieldset disabled style="color:#888; background: white;">
+	<label>
+		My name
+		<input />
+	</label>
+</fieldset>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#inapplicable-example-9">Inapplicable Example 9</a></h2>
+<p><strong>Description:</strong> This text is part of a label of a disabled widget, because it is in a label element that is the label for an input element in an element with role=&quot;group&quot; with the aria-disabled=&quot;true&quot; attribute.</p>
+<div id="test-case-30">
+
+<div role="group" aria-disabled="true" style="color:#888; background: white;">
+	<label>
+		My name
+		<input />
+	</label>
+</div>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#inapplicable-example-10">Inapplicable Example 10</a></h2>
+<p><strong>Description:</strong> This text is part of a disabled widget because it is a child of a button element with the disabled attribute.</p>
+<div id="test-case-31">
+
+<button style="color: #777; background: #EEE;" disabled>My button!</button>
+</div>
+
+
+<h2><a href="https://www.w3.org/WAI/standards-guidelines/act/rules/afw4f7/#inapplicable-example-11">Inapplicable Example 11</a></h2>
+<p><strong>Description:</strong> This text is part of a disabled widget because it is a child of an element with the role attribute set to button and with an aria-disabled attribute set to true.</p>
+<div id="test-case-32">
+
+<div role="button" style="color: #777; background: #EEE;" aria-disabled="true">My button!</div>
+</div>
+
+
+</body>
+</html>
