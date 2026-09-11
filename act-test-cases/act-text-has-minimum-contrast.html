@@ -16,7 +16,7 @@
 <div id="test-case-1">
 
 <p style="color: #333; background: #FFF;">
-	Some text in a human language
+	Some text in a human language (Passed Example 1)
 </p>
 </div>
 
@@ -26,7 +26,7 @@
 <div id="test-case-2">
 
 <p style="color: #333; background: linear-gradient(to right, #FFF, #00F); width: 500px;">
-	Some text in a human language
+	Some text in a human language (Passed Example 2)
 </p>
 </div>
 
@@ -45,7 +45,7 @@
 	}
 
 </style>
-<p>Black hole sun</p>
+<p>Black hole sun (Passed Example 3)</p>
 </div>
 
 
@@ -54,7 +54,7 @@
 <div id="test-case-4">
 
 <p style="color: #000; background: #737373; text-shadow: white 0 0 3px">
-	Some text in a human language
+	Some text in a human language (Passed Example 4)
 </p>
 </div>
 
@@ -64,7 +64,7 @@
 <div id="test-case-5">
 
 <p style="color: #000; font-size:18pt; background: #666;">
-	Some text in a human language
+	Some text in a human language (Passed Example 5)
 </p>
 </div>
 
@@ -74,7 +74,7 @@
 <div id="test-case-6">
 
 <p style="color: #000; font-size:14pt; font-weight:700; background: #666;">
-	Some text in English
+	Some text in English (Passed Example 6)
 </p>
 </div>
 
@@ -93,7 +93,7 @@
 <p><strong>Description:</strong> This text has the default browser text color on the default browser background color. By default this is black text on a white background, which has a contrast ratio of 21:1.</p>
 <div id="test-case-8">
 
-<p>Some text in a human language</p>
+<p>Some text in a human language (Passed Example 8)</p>
 </div>
 
 
@@ -104,7 +104,7 @@
 <p style="color: #CCC; background: #fff;" id="shadow-host-9"></p>
 <script>
 	const shadowRoot = document.getElementById('shadow-host-9').attachShadow({ mode: 'open' })
-	shadowRoot.innerHTML = '<span style="color: #333;">Some text in English</span>'
+	shadowRoot.innerHTML = '<span style="color: #333;">Some text in English (Passed Example 9)</span>'
 </script>
 </div>
 
@@ -113,7 +113,7 @@
 <p><strong>Description:</strong> This text has the default user agent link text and background color, of #0000EE and white. This results in a contrast ratio of 9.39:1.</p>
 <div id="test-case-10">
 
-<a href="https://w3c.org/">W3C</a>
+<a href="https://w3c.org/">W3C (Passed Example 10)</a>
 </div>
 
 
@@ -121,7 +121,7 @@
 <p><strong>Description:</strong> This text is using the default user agent text color and background color. By default, this is black text on a white background with a contrast ratio of 21:1</p>
 <div id="test-case-11">
 
-<div role="button">My button!</div>
+<div role="button">My button! (Passed Example 11)</div>
 </div>
 
 <h2>Failed (10)</h2>
@@ -131,7 +131,7 @@
 <div id="test-case-12">
 
 <p style="color: #AAA; background: white;">
-	Some text in English
+	Some text in English (Failed Example 1)
 </p>
 </div>
 
@@ -141,7 +141,7 @@
 <div id="test-case-13">
 
 <p style="color: #AAA; background: linear-gradient(to right, #FFF, #00F); width: 300px">
-	Some text in English
+	Some text in English (Failed Example 2)
 </p>
 </div>
 
@@ -153,7 +153,7 @@
 <p
 	style="color: #555; height:50px; padding-top:20px; background: black no-repeat -20px -20px url('https://w3.org/WAI/content-assets/wcag-act-rules/test-assets/contrast/black-hole.jpeg');"
 >
-	Black hole sun
+	Black hole sun (Failed Example 3)
 </p>
 </div>
 
@@ -163,7 +163,7 @@
 <div id="test-case-15">
 
 <p style="color: rgba(0,0,0,.3); background: #FFF">
-	Some text in English
+	Some text in English (Failed Example 4)
 </p>
 </div>
 
@@ -174,7 +174,7 @@
 
 <div style="background: #FFF">
 	<p style="color: #000; opacity: .3">
-		Some text in English
+		Some text in English (Failed Example 5)
 	</p>
 </div>
 </div>
@@ -187,7 +187,7 @@
 <p style="color: #aaa; background: #fff;" id="shadow-host-17"></p>
 <script>
 	const shadowRoot = document.getElementById('shadow-host-17').attachShadow({ mode: 'open' })
-	shadowRoot.textContent = 'Some text in English'
+	shadowRoot.textContent = 'Some text in English (Failed Example 6)'
 </script>
 </div>
 
@@ -206,7 +206,7 @@
 
 </style>
 <span id="backgroundSplit">
-	Hello world
+	Hello world (Failed Example 7)
 </span>
 </div>
 
@@ -228,7 +228,7 @@
 <p><strong>Description:</strong> This text in a button element has a contrast ratio of 3.85:1.</p>
 <div id="test-case-20">
 
-<button style="color: #777; background: #EEE;">My button!</button>
+<button style="color: #777; background: #EEE;">My button! (Failed Example 9)</button>
 </div>
 
 
@@ -236,7 +236,7 @@
 <p><strong>Description:</strong> This text in a semantic button has a contrast ratio of 3.85:1.</p>
 <div id="test-case-21">
 
-<div role="button" style="color: #777; background: #EEE;">My button!</div>
+<div role="button" style="color: #777; background: #EEE;">My button! (Failed Example 10)</div>
 </div>
 
 <h2>Inapplicable (11)</h2>
@@ -245,7 +245,7 @@
 <p><strong>Description:</strong> This text is not visible because of display: none.</p>
 <div id="test-case-22">
 
-<p style="display: none">Some invisible text in English</p>
+<p style="display: none">Some invisible text in English (Inapplicable Example 1)</p>
 </div>
 
 
@@ -253,7 +253,7 @@
 <p><strong>Description:</strong> This text is not visible because it is positioned off screen.</p>
 <div id="test-case-23">
 
-<p style="position:absolute; top: -999em">Some invisible text in English</p>
+<p style="position:absolute; top: -999em">Some invisible text in English (Inapplicable Example 2)</p>
 </div>
 
 
@@ -270,7 +270,7 @@
 <div id="test-case-25">
 
 <svg>
-	<text x="0" y="15">I love SVG!</text>
+	<text x="0" y="15">I love SVG! (Inapplicable Example 4)</text>
 </svg>
 </div>
 
@@ -280,7 +280,7 @@
 <div id="test-case-26">
 
 <p>
-	<img src="https://w3.org/WAI/content-assets/wcag-act-rules/test-assets/contrast/example.png" alt="example" />
+	<img src="https://w3.org/WAI/content-assets/wcag-act-rules/test-assets/contrast/example.png" alt="example (Inapplicable Example 5)" />
 </p>
 </div>
 
@@ -290,7 +290,7 @@
 <div id="test-case-27">
 
 <label style="color:#888; background: white;">
-	My name
+	My name (Inapplicable Example 6)
 	<input type="text" disabled />
 </label>
 </div>
@@ -301,7 +301,7 @@
 <div id="test-case-28">
 
 <label id="my_pets_name" style="color:#888; background: white;">
-	My pet's name
+	My pet's name (Inapplicable Example 7)
 </label>
 <div
 	role="textbox"
@@ -320,7 +320,7 @@
 
 <fieldset disabled style="color:#888; background: white;">
 	<label>
-		My name
+		My name (Inapplicable Example 8)
 		<input />
 	</label>
 </fieldset>
@@ -333,7 +333,7 @@
 
 <div role="group" aria-disabled="true" style="color:#888; background: white;">
 	<label>
-		My name
+		My name (Inapplicable Example 9)
 		<input />
 	</label>
 </div>
@@ -344,7 +344,7 @@
 <p><strong>Description:</strong> This text is part of a disabled widget because it is a child of a button element with the disabled attribute.</p>
 <div id="test-case-31">
 
-<button style="color: #777; background: #EEE;" disabled>My button!</button>
+<button style="color: #777; background: #EEE;" disabled>My button! (Inapplicable Example 10)</button>
 </div>
 
 
