@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "Name": "Nome do sítio",
+    "entidade": "Entidade responsável",
+    "selo": "Ouro",
+    "data_selo": "2026-10-01",
+    "declaracao": "Conforme",
+    "data_declaracao": "2026-10-01",
+    "url_observatorio": "https://...",
+    "url": "https://..."
+  }
+]
