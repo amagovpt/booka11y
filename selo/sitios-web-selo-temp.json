@@ -44,6 +44,17 @@
     "url": "https://www.cm-sabugal.pt"
   },
   {
+    "id": 5,
+    "Name": "Sítio Autárquico - Câmara Municipal de Alcobaça",
+    "entidade": "CM Alcobaça",
+    "selo": "Prata",
+    "data_selo": "27/03/2026",
+    "declaracao": "Conforme",
+    "data_declaracao": "24/03/2026",
+    "url_observatorio": "",
+    "url": "https://www.cm-alcobaca.pt/"
+  },
+  {
     "id": 6,
     "Name": "Município de São João da Madeira",
     "entidade": "Câmara Municipal de São João da Madeira",
@@ -64,6 +75,17 @@
     "data_declaracao": "18/08/2026",
     "url_observatorio": "",
     "url": "https://alertalobos.cm-camaradelobos.pt"
+  },
+  {
+    "id": 8,
+    "Name": "Portal dos Territórios Inteligentes da ENTI",
+    "entidade": "ARTE - Agência para a Reforma Tecnológica do Estado, I.P.",
+    "selo": "Ouro",
+    "data_selo": "27/07/2026",
+    "declaracao": "Conforme",
+    "data_declaracao": "29/07/2026",
+    "url_observatorio": "",
+    "url": "https://territoriosinteligentes.gov.pt/"
   },
   {
     "id": 9,
@@ -229,6 +251,17 @@
     "data_declaracao": "nd",
     "url_observatorio": "",
     "url": "https://www.cm-montalegre.pt"
+  },
+  {
+    "id": 24,
+    "Name": "Câmara Municipal de Águeda (sítio Web institucional)",
+    "entidade": "Câmara Municipal de Águeda",
+    "selo": "Ouro",
+    "data_selo": "24/09/2026",
+    "declaracao": "Conforme",
+    "data_declaracao": "nd",
+    "url_observatorio": "",
+    "url": "https://www.cm-agueda.pt"
   },
   {
     "id": 25,
@@ -693,6 +726,17 @@
     "url": "https://www.cm-paredes.pt"
   },
   {
+    "id": 67,
+    "Name": "Município de Murça",
+    "entidade": "CM de Murça",
+    "selo": "Ouro",
+    "data_selo": "08-09-2026",
+    "declaracao": "Conforme",
+    "data_declaracao": "nd",
+    "url_observatorio": "",
+    "url": "https://www.cm-murca.pt/"
+  },
+  {
     "id": 68,
     "Name": "Município de Odemira",
     "entidade": "CM de Odemira",
@@ -980,83 +1024,6 @@
   },
   {
     "id": 94,
-    "Name": "Museu da Covilhã App IOS",
-    "entidade": "CM da Covilhã",
-    "selo": "Ouro",
-    "data_selo": "01/09/2026",
-    "declaracao": "Conforme",
-    "data_declaracao": "nd",
-    "url_observatorio": "",
-    "url": "https://apps.apple.com/pt/app/museu-da-covilh%C3%A3/id1562699710"
-  },
-  {
-    "id": 95,
-    "Name": "Municipio de São João da Madeira APP Android",
-    "entidade": "CM São João da Madeira",
-    "selo": "Prata",
-    "data_selo": "17-09-2026",
-    "declaracao": "Conforme",
-    "data_declaracao": "nd",
-    "url_observatorio": "",
-    "url": "https://play.google.com/store/apps/details?id=gofox.municipiosjm&pli=1"
-  },
-  {
-    "id": 96,
-    "Name": "Museu da Covilhã App Android",
-    "entidade": "Museu da Covilhã App Android",
-    "selo": "Ouro",
-    "data_selo": "01/09/2026",
-    "declaracao": "Conforme",
-    "data_declaracao": "nd",
-    "url_observatorio": "",
-    "url": "phttps://play.google.com/store/apps/details?id=com.realizasom.mdc&hl=pt_PT"
-  },
-  {
-    "id": 97,
-    "Name": "Judeus de Coimbra App Android",
-    "entidade": "CM de Coimbra",
-    "selo": "Ouro",
-    "data_selo": "28/08/2026",
-    "declaracao": "Conforme",
-    "data_declaracao": "nd",
-    "url_observatorio": "",
-    "url": "https://play.google.com/store/apps/details?id=com.realizasom.judeus_de_coimbra&hl=pt_PT"
-  },
-  {
-    "id": 98,
-    "Name": "Judeus de Coimbra App IOS",
-    "entidade": "CM de Coimbra",
-    "selo": "Ouro",
-    "data_selo": "28/08/2026",
-    "declaracao": "Conforme",
-    "data_declaracao": "nd",
-    "url_observatorio": "",
-    "url": "https://apps.apple.com/pt/app/museu-judeus-de-coimbra/id1611578096"
-  },
-  {
-    "id": 99,
-    "Name": "Museu do Douro App Android",
-    "entidade": "Museu do Douro",
-    "selo": "Ouro",
-    "data_selo": "17/08/2026",
-    "declaracao": "Conforme",
-    "data_declaracao": "nd",
-    "url_observatorio": "",
-    "url": "https://play.google.com/store/apps/details?id=com.realizasom.museudodouro&hl=pt_PT"
-  },
-  {
-    "id": 100,
-    "Name": "Museu do Douro App IOS",
-    "entidade": "Museu do Douro",
-    "selo": "Ouro",
-    "data_selo": "01/09/2026",
-    "declaracao": "Conforme",
-    "data_declaracao": "nd",
-    "url_observatorio": "",
-    "url": "https://apps.apple.com/pt/app/museu-do-douro/id1410820967"
-  },
-  {
-    "id": 101,
     "Name": "Infralobo - Empresa de infra-estruturas de Vale do Lobo  E.M.",
     "entidade": "Infralobo",
     "selo": "Prata",
@@ -1067,7 +1034,7 @@
     "url": "https://infralobo.pt"
   },
   {
-    "id": 102,
+    "id": 95,
     "Name": "Site Institucional do Município de Mondim de Basto",
     "entidade": "Município de Mondim de Basto",
     "selo": "Prata",
@@ -1078,7 +1045,7 @@
     "url": "https://municipio.mondimdebasto.pt/"
   },
   {
-    "id": 103,
+    "id": 96,
     "Name": "Portal de Serviços do Município da Maia",
     "entidade": "Município da Maia",
     "selo": "Ouro",
@@ -1089,7 +1056,7 @@
     "url": "https://diretorio.cm-maia.pt/"
   },
   {
-    "id": 104,
+    "id": 97,
     "Name": "Portal do Município de Albufeira",
     "entidade": "CM de Albufeira",
     "selo": "Bronze",
@@ -1100,7 +1067,7 @@
     "url": "https://www.cm-albufeira.pt/"
   },
   {
-    "id": 105,
+    "id": 98,
     "Name": "Plataforma Institucional do Município da Calheta",
     "entidade": "CM Calheta",
     "selo": "Prata",
@@ -1111,7 +1078,7 @@
     "url": "https://cm-calheta.pt"
   },
   {
-    "id": 106,
+    "id": 99,
     "Name": "Plataforma Institucional do Município de Castro Verde",
     "entidade": "CM de Castro Verde",
     "selo": "Prata",
@@ -1122,7 +1089,7 @@
     "url": "https://cm-castroverde.pt"
   },
   {
-    "id": 107,
+    "id": 100,
     "Name": "Município de Alvito",
     "entidade": "CM de Alvito",
     "selo": "Prata",
@@ -1133,7 +1100,7 @@
     "url": "https://www.cm-alvito.pt"
   },
   {
-    "id": 108,
+    "id": 101,
     "Name": "Portal Institucional do Município de Alter do Chão",
     "entidade": "CM de ALter do Chão",
     "selo": "Ouro",
@@ -1144,7 +1111,7 @@
     "url": "https://cm-alter-chao.pt"
   },
   {
-    "id": 109,
+    "id": 102,
     "Name": "https://www.cm-fornosdealgodres.pt",
     "entidade": "CM de Fornos de Algodres",
     "selo": "Bronze",
@@ -1155,7 +1122,7 @@
     "url": "https://www.cm-fornosdealgodres.pt"
   },
   {
-    "id": 110,
+    "id": 103,
     "Name": "Portal Institucional de Gavião",
     "entidade": "Município de Gavião",
     "selo": "Prata",
@@ -1166,7 +1133,7 @@
     "url": "https://cm-gaviao.pt/"
   },
   {
-    "id": 111,
+    "id": 104,
     "Name": "Bem-Me-Ker",
     "entidade": "IPO Porto",
     "selo": "Ouro",
@@ -1177,7 +1144,7 @@
     "url": "https://bemmeker-ipoporto.min-saude.pt"
   },
   {
-    "id": 112,
+    "id": 105,
     "Name": "Município de Cuba",
     "entidade": "CM de Cuba",
     "selo": "Prata",
@@ -1188,7 +1155,7 @@
     "url": "https://www.cm-cuba.pt"
   },
   {
-    "id": 113,
+    "id": 106,
     "Name": "Portal Autárquico de Mêda",
     "entidade": "CM de Mêda",
     "selo": "Bronze",
@@ -1199,7 +1166,7 @@
     "url": "https://www.cm-meda.pt/"
   },
   {
-    "id": 114,
+    "id": 107,
     "Name": "Serviços online do Município de Mondim de Basto",
     "entidade": "Município de Mondim de Basto",
     "selo": "Prata",
@@ -1210,7 +1177,7 @@
     "url": "https://servicosonline.cm-mondimdebasto.pt/"
   },
   {
-    "id": 115,
+    "id": 108,
     "Name": "Plataforma Wiretrust - Canal de Denúncias de diversos Municípios (template)",
     "entidade": "nome_do_proprietário",
     "selo": "Ouro",
@@ -1221,7 +1188,7 @@
     "url": "https://arte-selos.wiretrust.pt"
   },
   {
-    "id": 116,
+    "id": 109,
     "Name": "Instituto Politécnico de Viana do Castelo",
     "entidade": "Instituto Politécnico de Viana do Castelo",
     "selo": "Ouro",
@@ -1232,7 +1199,7 @@
     "url": "https://www.ipvc.pt/"
   },
   {
-    "id": 117,
+    "id": 110,
     "Name": "Município de Olhão",
     "entidade": "Município de Olhão",
     "selo": "Prata",
@@ -1243,7 +1210,7 @@
     "url": "https://cm-olhao.pt/"
   },
   {
-    "id": 118,
+    "id": 111,
     "Name": "Município de Manteigas",
     "entidade": "Município de Manteigas",
     "selo": "Bronze",
@@ -1254,7 +1221,7 @@
     "url": "https://cm-manteigas.pt/"
   },
   {
-    "id": 119,
+    "id": 112,
     "Name": "Portal do Utente da ULS Lezíria",
     "entidade": "Unidade Local de Saúde da Lezíria",
     "selo": "Ouro",
@@ -1265,7 +1232,7 @@
     "url": "https://myhds.hds.min-saude.pt/"
   },
   {
-    "id": 120,
+    "id": 113,
     "Name": "Município de Miranda do Corvo",
     "entidade": "Município de Miranda do Corvo",
     "selo": "Prata",
@@ -1276,7 +1243,7 @@
     "url": "https://cm-mirandadocorvo.pt/"
   },
   {
-    "id": 121,
+    "id": 114,
     "Name": "Município de Marvão",
     "entidade": "Município de Marvão",
     "selo": "Prata",
@@ -1287,7 +1254,7 @@
     "url": "https://www.cm-marvao.pt/"
   },
   {
-    "id": 122,
+    "id": 115,
     "Name": "Site institucional da APEC",
     "entidade": "APEC - Associação Promotora do Ensino dos Cegos",
     "selo": "Ouro",
@@ -1298,7 +1265,7 @@
     "url": "https://www.apec.org.pt/"
   },
   {
-    "id": 123,
+    "id": 116,
     "Name": "Diretório de Serviços do Município de Valongo",
     "entidade": "CM de Valongo",
     "selo": "Ouro",
@@ -1309,7 +1276,7 @@
     "url": "https://diretorio.cm-valongo.pt"
   },
   {
-    "id": 124,
+    "id": 117,
     "Name": "Portal Institucional da Câmara Municipal de Tábua",
     "entidade": "CM de Tábua",
     "selo": "Bronze",
@@ -1320,7 +1287,7 @@
     "url": "https://www.cm-tabua.pt/"
   },
   {
-    "id": 125,
+    "id": 118,
     "Name": "Plataforma Institucional do Município do Bombarral",
     "entidade": "Município do Bombarral",
     "selo": "Prata",
@@ -1331,29 +1298,7 @@
     "url": "https://www.cm-bombarral.pt/"
   },
   {
-    "id": 126,
-    "Name": "Bem-Me-Ker App Android",
-    "entidade": "IPO Porto",
-    "selo": "Ouro",
-    "data_selo": "23-09-2026",
-    "declaracao": "Conforme",
-    "data_declaracao": "nd",
-    "url_observatorio": "",
-    "url": "https://play.google.com/store/apps/details?id=com.ipoporto.bemmeker"
-  },
-  {
-    "id": 127,
-    "Name": "Bem-Me-Ker App iOS",
-    "entidade": "IPO Porto",
-    "selo": "Ouro",
-    "data_selo": "01/10/2026",
-    "declaracao": "Conforme",
-    "data_declaracao": "nd",
-    "url_observatorio": "",
-    "url": "https://apps.apple.com/pt/app/bem-me-ker/id1288638710"
-  },
-  {
-    "id": 128,
+    "id": 119,
     "Name": "Município de Alenquer",
     "entidade": "Município de Alenquer",
     "selo": "Prata",
@@ -1364,7 +1309,7 @@
     "url": "https://www.alenquer.pt"
   },
   {
-    "id": 129,
+    "id": 120,
     "Name": "Serviços Municipalizados de Água e Saneamento de Torres Vedras",
     "entidade": "Câmara de Torres Vedras",
     "selo": "Ouro",
@@ -1375,7 +1320,7 @@
     "url": "https://www.smastv.pt/"
   },
   {
-    "id": 130,
+    "id": 121,
     "Name": "Munícipio de Proença-a-Nova",
     "entidade": "Munícipio de Proença-a-Nova",
     "selo": "Prata",
@@ -1386,29 +1331,7 @@
     "url": "https://www.cm-proencanova.pt/"
   },
   {
-    "id": 131,
-    "Name": "Portal do Utente da ULS Lezíria app Android",
-    "entidade": "ULS Lezíria",
-    "selo": "Ouro",
-    "data_selo": "22-09-2026",
-    "declaracao": "Conforme",
-    "data_declaracao": "nd",
-    "url_observatorio": "",
-    "url": "https://play.google.com/store/apps/details?id=com.hds.MyHDS&hl=pt"
-  },
-  {
-    "id": 132,
-    "Name": "Portal do Utente da ULS Lezíria App iOS",
-    "entidade": "ULS Lezíria",
-    "selo": "Ouro",
-    "data_selo": "01/10/2026",
-    "declaracao": "Conforme",
-    "data_declaracao": "nd",
-    "url_observatorio": "",
-    "url": "https://apps.apple.com/pt/app/myulslez%C3%ADria/id1671520820"
-  },
-  {
-    "id": 133,
+    "id": 122,
     "Name": "Portal do SIGAME",
     "entidade": "Ministério da Saúde",
     "selo": "Ouro",
@@ -1419,51 +1342,7 @@
     "url": "https://sigame.chpvvc.min-saude.pt/"
   },
   {
-    "id": 134,
-    "Name": "Portal do SIGAME App iOS",
-    "entidade": "\tMinistério da Saúde UNIDADE LOCAL DE SAÚDE DA PÓVOA DE VARZIM/VILA DO CONDE",
-    "selo": "Ouro",
-    "data_selo": "30/09/2026",
-    "declaracao": "Conforme",
-    "data_declaracao": "nd",
-    "url_observatorio": "",
-    "url": "https://apps.apple.com/pt/app/sigame/id6502632431"
-  },
-  {
-    "id": 135,
-    "Name": "MNAz - Museu do Azulejo App Android",
-    "entidade": "Museu Nacional do Azulejo ",
-    "selo": "Ouro",
-    "data_selo": "03-09-2026",
-    "declaracao": "Conforme",
-    "data_declaracao": "nd",
-    "url_observatorio": "",
-    "url": "https://play.google.com/store/apps/details?id=com.realizasom.mnazcv"
-  },
-  {
-    "id": 136,
-    "Name": "MNAz - Museu do Azulejo App IOS",
-    "entidade": "Museu Nacional do Azulejo",
-    "selo": "Ouro",
-    "data_selo": "01-09-2026",
-    "declaracao": "Conforme",
-    "data_declaracao": "nd",
-    "url_observatorio": "",
-    "url": "https://apps.apple.com/us/app/museu-do-azulejo/id1151355810"
-  },
-  {
-    "id": 137,
-    "Name": "Municipio de São João da Madeira APP IOS",
-    "entidade": "CM São João da Madeira",
-    "selo": "Prata",
-    "data_selo": "10-09-2026",
-    "declaracao": "Conforme",
-    "data_declaracao": "nd",
-    "url_observatorio": "",
-    "url": "https://apps.apple.com/us/app/s-jo%C3%A3o-da-madeira/id1244211502"
-  },
-  {
-    "id": 138,
+    "id": 123,
     "Name": "Autenticação Gov",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Ouro",
@@ -1474,7 +1353,7 @@
     "url": "https://www.autenticacao.gov.pt"
   },
   {
-    "id": 139,
+    "id": 124,
     "Name": "Portal da Defesa Nacional",
     "entidade": "Secretaria-Geral do Ministério da Defesa Nacional",
     "selo": "Prata",
@@ -1485,7 +1364,7 @@
     "url": "https://www.defesa.gov.pt"
   },
   {
-    "id": 140,
+    "id": 125,
     "Name": "Portal Mais Transparência",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Ouro",
@@ -1496,7 +1375,7 @@
     "url": "https://transparencia.gov.pt"
   },
   {
-    "id": 141,
+    "id": 126,
     "Name": "IPV - Instituto Politécnico de Viseu",
     "entidade": "Instituto Politécnico de Viseu",
     "selo": "Prata",
@@ -1507,40 +1386,7 @@
     "url": "https://ipv.pt"
   },
   {
-    "id": 142,
-    "Name": "CM Águeda",
-    "entidade": "Câmara Municipal de Águeda",
-    "selo": "Bronze",
-    "data_selo": "2023-12-22T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2023-10-22T23:00:00.000Z",
-    "url_observatorio": "/directories/13/310",
-    "url": "https://www.cm-agueda.pt"
-  },
-  {
-    "id": 143,
-    "Name": "CM Alcobaça",
-    "entidade": "Câmara Municipal de Alcobaça",
-    "selo": "Prata",
-    "data_selo": "2026-03-27T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2026-03-24T00:00:00.000Z",
-    "url_observatorio": "/directories/13/317",
-    "url": "https://www.cm-alcobaca.pt"
-  },
-  {
-    "id": 144,
-    "Name": "CM Murça",
-    "entidade": "Câmara Municipal de Murça",
-    "selo": "Prata",
-    "data_selo": "2024-12-05T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2023-11-30T00:00:00.000Z",
-    "url_observatorio": "/directories/3/473",
-    "url": "https://www.cm-murca.pt"
-  },
-  {
-    "id": 145,
+    "id": 127,
     "Name": "CPP - Comité Paralimpico de Portugal",
     "entidade": "Comité Paralimpico de Portugal",
     "selo": "Ouro",
@@ -1551,7 +1397,7 @@
     "url": "https://paralimpicos.pt"
   },
   {
-    "id": 146,
+    "id": 128,
     "Name": "INR - Instituto Nacional para a Reabilitação, I.P.",
     "entidade": "Instituto Nacional para a Reabilitação",
     "selo": "Ouro",
@@ -1562,7 +1408,7 @@
     "url": "https://www.inr.pt"
   },
   {
-    "id": 147,
+    "id": 129,
     "Name": "Fundação para a Ciência e a Tecnologia, I.P.",
     "entidade": "Fundação para a Ciência e a Tecnologia, I.P",
     "selo": "Prata",
@@ -1573,7 +1419,7 @@
     "url": "https://www.fct.pt"
   },
   {
-    "id": 148,
+    "id": 130,
     "Name": "Secretaria-Geral da Presidência do Conselho de Ministros",
     "entidade": "Secretaria-Geral da Presidência do Conselho de Ministros",
     "selo": "Ouro",
@@ -1584,7 +1430,7 @@
     "url": "https://www.sg.pcm.gov.pt/"
   },
   {
-    "id": 149,
+    "id": 131,
     "Name": "Presidência da República",
     "entidade": "Presidência da República",
     "selo": "Ouro",
@@ -1595,7 +1441,7 @@
     "url": "https://www.presidencia.pt"
   },
   {
-    "id": 150,
+    "id": 132,
     "Name": "Acessibilidade.Gov",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Ouro",
@@ -1606,7 +1452,7 @@
     "url": "https://www.acessibilidade.gov.pt"
   },
   {
-    "id": 151,
+    "id": 133,
     "Name": "Dados.Gov",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Prata",
@@ -1617,7 +1463,7 @@
     "url": "https://dados.gov.pt"
   },
   {
-    "id": 152,
+    "id": 134,
     "Name": "iAP - Interoperabilidade na Administração Pública",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Prata",
@@ -1628,7 +1474,7 @@
     "url": "https://www.iap.gov.pt"
   },
   {
-    "id": 153,
+    "id": 135,
     "Name": "CGA - Caixa Geral de Aposentações",
     "entidade": "Caixa Geral de Aposentações",
     "selo": "Prata",
@@ -1639,7 +1485,7 @@
     "url": "https://www.cga.pt"
   },
   {
-    "id": 154,
+    "id": 136,
     "Name": "Livro Amarelo",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Prata",
@@ -1650,7 +1496,7 @@
     "url": "https://www.livroamarelo.gov.pt"
   },
   {
-    "id": 155,
+    "id": 137,
     "Name": "Participa.Gov",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Prata",
@@ -1661,7 +1507,7 @@
     "url": "https://participa.gov.pt"
   },
   {
-    "id": 156,
+    "id": 138,
     "Name": "Selo de Usabilidade e Acessibilidade",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Ouro",
@@ -1672,7 +1518,7 @@
     "url": "https://selo.usabilidade.gov.pt"
   },
   {
-    "id": 157,
+    "id": 139,
     "Name": "Digital.Gov",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Ouro",
@@ -1683,7 +1529,7 @@
     "url": "https://digital.gov.pt"
   },
   {
-    "id": 158,
+    "id": 140,
     "Name": "Secretaria-Geral do Ministério das Finanças",
     "entidade": "Secretaria-Geral do Ministério das Finanças",
     "selo": "Prata",
@@ -1694,7 +1540,7 @@
     "url": "https://www.sgmf.gov.pt"
   },
   {
-    "id": 159,
+    "id": 141,
     "Name": "Instituto Hidrográfico",
     "entidade": "Instituto Hidrográfico",
     "selo": "Prata",
@@ -1705,7 +1551,7 @@
     "url": "https://www.hidrografico.pt"
   },
   {
-    "id": 160,
+    "id": 142,
     "Name": "Museu Nacional Ferroviário",
     "entidade": "Fundação Museu Nacional Ferroviário",
     "selo": "Prata",
@@ -1716,7 +1562,7 @@
     "url": "https://www.fmnf.pt"
   },
   {
-    "id": 161,
+    "id": 143,
     "Name": "Direção-Geral de Estatísticas da Educação e Ciência",
     "entidade": "Direção-Geral de Estatísticas da Educação e Ciência",
     "selo": "Prata",
@@ -1727,7 +1573,7 @@
     "url": "https://www.dgeec.medu.pt"
   },
   {
-    "id": 162,
+    "id": 144,
     "Name": "EGEAC - Empresa de Gestão de Equipamentos e Animação Cultural, EM, S.A.",
     "entidade": "EGEAC - EMPRESA DE GESTÃO DE EQUIPAMENTOS E ANIMAÇÃO CULTURAL, EM, S.A.",
     "selo": "Prata",
@@ -1738,7 +1584,7 @@
     "url": "https://egeac.pt"
   },
   {
-    "id": 163,
+    "id": 145,
     "Name": "Portugal Digital",
     "entidade": "Estrutura de Missão Portugal Digital",
     "selo": "Ouro",
@@ -1749,7 +1595,7 @@
     "url": "https://portugaldigital.gov.pt"
   },
   {
-    "id": 164,
+    "id": 146,
     "Name": "AI4PA - Inteligência Artificial e Ciência de Dados no Setor Público",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Prata",
@@ -1760,7 +1606,7 @@
     "url": "https://ama-ai4pa.web.app/"
   },
   {
-    "id": 165,
+    "id": 147,
     "Name": "FCCN, serviços digitais da FCT",
     "entidade": "Fundação para a Ciência e a Tecnologia, I.P",
     "selo": "Prata",
@@ -1771,7 +1617,7 @@
     "url": "https://www.fccn.pt"
   },
   {
-    "id": 166,
+    "id": 148,
     "Name": "Certificado do Registo Criminal Online",
     "entidade": "Direção-Geral da Administração da Justiça",
     "selo": "Prata",
@@ -1782,7 +1628,7 @@
     "url": "https://registocriminal.justica.gov.pt"
   },
   {
-    "id": 167,
+    "id": 149,
     "Name": "Mosaico",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Ouro",
@@ -1793,7 +1639,7 @@
     "url": "https://mosaico.gov.pt"
   },
   {
-    "id": 168,
+    "id": 150,
     "Name": "Secretaria-Geral do Ambiente",
     "entidade": "Secretaria-Geral do Ambiente",
     "selo": "Prata",
@@ -1804,7 +1650,7 @@
     "url": "https://www.sgambiente.gov.pt"
   },
   {
-    "id": 169,
+    "id": 151,
     "Name": "Estado-Maior-General das Forças Armadas",
     "entidade": "Estado-Maior-General das Forças Armadas",
     "selo": "Prata",
@@ -1815,7 +1661,7 @@
     "url": "https://www.emgfa.pt"
   },
   {
-    "id": 170,
+    "id": 152,
     "Name": "Cultura Acessível",
     "entidade": "Acesso Cultura, Associação",
     "selo": "Prata",
@@ -1826,7 +1672,7 @@
     "url": "https://www.cultura-acessivel.pt"
   },
   {
-    "id": 171,
+    "id": 153,
     "Name": "Teatro José Lúcio da Silva",
     "entidade": "Câmara Municipal de Leiria",
     "selo": "Prata",
@@ -1837,7 +1683,7 @@
     "url": "https://www.teatrojlsilva.pt"
   },
   {
-    "id": 172,
+    "id": 154,
     "Name": "Rede Portuguesa de Arte Contemporânea - Norte",
     "entidade": "Rede Portuguesa de Arte Contemporânea Norte",
     "selo": "Bronze",
@@ -1848,7 +1694,7 @@
     "url": "https://rpacnorte.pt"
   },
   {
-    "id": 173,
+    "id": 155,
     "Name": "Guia de Eventos da Região de Turismo do Algarve",
     "entidade": "Região de Turismo do Algarve",
     "selo": "Prata",
@@ -1859,7 +1705,7 @@
     "url": "https://eventos.visitalgarve.pt"
   },
   {
-    "id": 174,
+    "id": 156,
     "Name": "Portal da Marinha",
     "entidade": "Marinha Portuguesa",
     "selo": "Prata",
@@ -1870,7 +1716,7 @@
     "url": "https://www.marinha.pt"
   },
   {
-    "id": 175,
+    "id": 157,
     "Name": "Livraria online do Teatro Nacional D. Maria II",
     "entidade": "Teatro Nacional D. Maria II, E.P.E.",
     "selo": "Prata",
@@ -1881,7 +1727,7 @@
     "url": "https://livrariaonline.tndm.pt"
   },
   {
-    "id": 176,
+    "id": 158,
     "Name": "IGAC - Inspeção-Geral das Atividades Culturais",
     "entidade": "Inspeção-Geral das Atividades Culturais",
     "selo": "Ouro",
@@ -1892,7 +1738,7 @@
     "url": "https://www.igac.gov.pt"
   },
   {
-    "id": 177,
+    "id": 159,
     "Name": "Secretaria-Geral do Ministério da Saúde",
     "entidade": "Secretaria-Geral do Ministério da Saúde",
     "selo": "Prata",
@@ -1903,7 +1749,7 @@
     "url": "https://www.sg.min-saude.pt"
   },
   {
-    "id": 178,
+    "id": 160,
     "Name": "Observatório de Preços Agroalimentares",
     "entidade": "Gabinete de Planeamento, Políticas e Administração Geral",
     "selo": "Bronze",
@@ -1914,7 +1760,7 @@
     "url": "https://observatorioagroalimentar.gov.pt"
   },
   {
-    "id": 179,
+    "id": 161,
     "Name": "S3 Norte",
     "entidade": "Comissão de Coordenação e Desenvolvimento Regional do Norte",
     "selo": "Bronze",
@@ -1925,7 +1771,7 @@
     "url": "https://s3norte.pt"
   },
   {
-    "id": 180,
+    "id": 162,
     "Name": "Comissão Nacional de Acompanhamento do PRR - CNAPRR",
     "entidade": "Plano de Recuperação e Resiliência",
     "selo": "Bronze",
@@ -1936,7 +1782,7 @@
     "url": "https://cnaprr.pt"
   },
   {
-    "id": 181,
+    "id": 163,
     "Name": "Portal da Transparência do Governo dos Açores",
     "entidade": "Governo Regional dos Açores",
     "selo": "Prata",
@@ -1947,7 +1793,7 @@
     "url": "https://transparencia.servicos.azores.gov.pt"
   },
   {
-    "id": 182,
+    "id": 164,
     "Name": "PESSOAS 2030 - Programa Temático Demografia, Qualificações e Inclusão",
     "entidade": "Agência para o Desenvolvimento e Coesão, I.P.",
     "selo": "Prata",
@@ -1958,7 +1804,7 @@
     "url": "https://pessoas2030.gov.pt"
   },
   {
-    "id": 183,
+    "id": 165,
     "Name": "Serviços de Ação Social da Universidade do Minho",
     "entidade": "Universidade do Minho",
     "selo": "Bronze",
@@ -1969,18 +1815,7 @@
     "url": "https://www.sas.uminho.pt"
   },
   {
-    "id": 184,
-    "Name": "Portal dos Territórios Inteligentes",
-    "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
-    "selo": "Prata",
-    "data_selo": "2025-03-26T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2025-03-26T00:00:00.000Z",
-    "url_observatorio": "/directories/43/2241",
-    "url": "https://territoriosinteligentes.gov.pt"
-  },
-  {
-    "id": 185,
+    "id": 166,
     "Name": "Casa Ásia – Coleção Francisco Capelo",
     "entidade": "Santa Casa da Misericórdia de Lisboa ",
     "selo": "Prata",
