@@ -7,28 +7,6 @@
     "data_selo": "2020-09-28T22:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2020-09-28T22:00:00.000Z",
-    "url_observatorio": "/directories/1/1",
-    "url": "https://www.autenticacao.gov.pt"
-  },
-  {
-    "id": 1,
-    "Name": "Autenticação Gov",
-    "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
-    "selo": "Ouro",
-    "data_selo": "2020-09-28T22:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2020-09-28T22:00:00.000Z",
-    "url_observatorio": "/directories/9/1",
-    "url": "https://www.autenticacao.gov.pt"
-  },
-  {
-    "id": 1,
-    "Name": "Autenticação Gov",
-    "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
-    "selo": "Ouro",
-    "data_selo": "2020-09-28T22:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2020-09-28T22:00:00.000Z",
     "url_observatorio": "/directories/43/1",
     "url": "https://www.autenticacao.gov.pt"
   },
@@ -40,52 +18,8 @@
     "data_selo": "2020-04-01T22:00:00.000Z",
     "declaracao": "Parcialmente conforme",
     "data_declaracao": "2026-01-09T00:00:00.000Z",
-    "url_observatorio": "/directories/1/4",
-    "url": "https://www.defesa.gov.pt"
-  },
-  {
-    "id": 4,
-    "Name": "Portal da Defesa Nacional",
-    "entidade": "Secretaria-Geral do Ministério da Defesa Nacional",
-    "selo": "Prata",
-    "data_selo": "2020-04-01T22:00:00.000Z",
-    "declaracao": "Parcialmente conforme",
-    "data_declaracao": "2026-01-09T00:00:00.000Z",
-    "url_observatorio": "/directories/9/4",
-    "url": "https://www.defesa.gov.pt"
-  },
-  {
-    "id": 4,
-    "Name": "Portal da Defesa Nacional",
-    "entidade": "Secretaria-Geral do Ministério da Defesa Nacional",
-    "selo": "Prata",
-    "data_selo": "2020-04-01T22:00:00.000Z",
-    "declaracao": "Parcialmente conforme",
-    "data_declaracao": "2026-01-09T00:00:00.000Z",
     "url_observatorio": "/directories/20/4",
     "url": "https://www.defesa.gov.pt"
-  },
-  {
-    "id": 22,
-    "Name": "Portal Mais Transparência",
-    "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
-    "selo": "Ouro",
-    "data_selo": "2024-10-06T23:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-10-06T23:00:00.000Z",
-    "url_observatorio": "/directories/1/22",
-    "url": "https://transparencia.gov.pt"
-  },
-  {
-    "id": 22,
-    "Name": "Portal Mais Transparência",
-    "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
-    "selo": "Ouro",
-    "data_selo": "2024-10-06T23:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-10-06T23:00:00.000Z",
-    "url_observatorio": "/directories/9/22",
-    "url": "https://transparencia.gov.pt"
   },
   {
     "id": 22,
@@ -117,52 +51,8 @@
     "data_selo": "2023-12-22T00:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2023-10-22T23:00:00.000Z",
-    "url_observatorio": "/directories/3/310",
-    "url": "https://www.cm-agueda.pt"
-  },
-  {
-    "id": 310,
-    "Name": "CM Águeda",
-    "entidade": "Câmara Municipal de Águeda",
-    "selo": "Bronze",
-    "data_selo": "2023-12-22T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2023-10-22T23:00:00.000Z",
-    "url_observatorio": "/directories/10/310",
-    "url": "https://www.cm-agueda.pt"
-  },
-  {
-    "id": 310,
-    "Name": "CM Águeda",
-    "entidade": "Câmara Municipal de Águeda",
-    "selo": "Bronze",
-    "data_selo": "2023-12-22T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2023-10-22T23:00:00.000Z",
     "url_observatorio": "/directories/13/310",
     "url": "https://www.cm-agueda.pt"
-  },
-  {
-    "id": 317,
-    "Name": "CM Alcobaça",
-    "entidade": "Câmara Municipal de Alcobaça",
-    "selo": "Prata",
-    "data_selo": "2026-03-27T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2026-03-24T00:00:00.000Z",
-    "url_observatorio": "/directories/3/317",
-    "url": "https://www.cm-alcobaca.pt"
-  },
-  {
-    "id": 317,
-    "Name": "CM Alcobaça",
-    "entidade": "Câmara Municipal de Alcobaça",
-    "selo": "Prata",
-    "data_selo": "2026-03-27T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2026-03-24T00:00:00.000Z",
-    "url_observatorio": "/directories/10/317",
-    "url": "https://www.cm-alcobaca.pt"
   },
   {
     "id": 317,
@@ -205,28 +95,6 @@
     "data_selo": "2020-10-08T22:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2020-10-08T22:00:00.000Z",
-    "url_observatorio": "/directories/5/878",
-    "url": "https://www.inr.pt"
-  },
-  {
-    "id": 878,
-    "Name": "INR - Instituto Nacional para a Reabilitação, I.P.",
-    "entidade": "Instituto Nacional para a Reabilitação",
-    "selo": "Ouro",
-    "data_selo": "2020-10-08T22:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2020-10-08T22:00:00.000Z",
-    "url_observatorio": "/directories/9/878",
-    "url": "https://www.inr.pt"
-  },
-  {
-    "id": 878,
-    "Name": "INR - Instituto Nacional para a Reabilitação, I.P.",
-    "entidade": "Instituto Nacional para a Reabilitação",
-    "selo": "Ouro",
-    "data_selo": "2020-10-08T22:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2020-10-08T22:00:00.000Z",
     "url_observatorio": "/directories/28/878",
     "url": "https://www.inr.pt"
   },
@@ -238,41 +106,8 @@
     "data_selo": "2024-12-18T00:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2024-12-07T00:00:00.000Z",
-    "url_observatorio": "/directories/5/886",
-    "url": "https://www.fct.pt"
-  },
-  {
-    "id": 886,
-    "Name": "Fundação para a Ciência e a Tecnologia, I.P.",
-    "entidade": "Fundação para a Ciência e a Tecnologia, I.P",
-    "selo": "Prata",
-    "data_selo": "2024-12-18T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-12-07T00:00:00.000Z",
-    "url_observatorio": "/directories/9/886",
-    "url": "https://www.fct.pt"
-  },
-  {
-    "id": 886,
-    "Name": "Fundação para a Ciência e a Tecnologia, I.P.",
-    "entidade": "Fundação para a Ciência e a Tecnologia, I.P",
-    "selo": "Prata",
-    "data_selo": "2024-12-18T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-12-07T00:00:00.000Z",
     "url_observatorio": "/directories/26/886",
     "url": "https://www.fct.pt"
-  },
-  {
-    "id": 894,
-    "Name": "Secretaria-Geral da Presidência do Conselho de Ministros",
-    "entidade": "Secretaria-Geral da Presidência do Conselho de Ministros",
-    "selo": "Ouro",
-    "data_selo": "2024-12-23T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-11-15T00:00:00.000Z",
-    "url_observatorio": "/directories/6/894",
-    "url": "https://www.sg.pcm.gov.pt/"
   },
   {
     "id": 894,
@@ -304,30 +139,8 @@
     "data_selo": "2020-09-29T00:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2020-09-29T00:00:00.000Z",
-    "url_observatorio": "/directories/9/928",
-    "url": "https://www.acessibilidade.gov.pt"
-  },
-  {
-    "id": 928,
-    "Name": "Acessibilidade.Gov",
-    "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
-    "selo": "Ouro",
-    "data_selo": "2020-09-29T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2020-09-29T00:00:00.000Z",
     "url_observatorio": "/directories/43/928",
     "url": "https://www.acessibilidade.gov.pt"
-  },
-  {
-    "id": 932,
-    "Name": "Dados.Gov",
-    "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
-    "selo": "Prata",
-    "data_selo": "2020-09-21T22:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2020-09-21T22:00:00.000Z",
-    "url_observatorio": "/directories/9/932",
-    "url": "https://dados.gov.pt"
   },
   {
     "id": 932,
@@ -348,30 +161,8 @@
     "data_selo": "2020-07-29T22:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2020-07-29T22:00:00.000Z",
-    "url_observatorio": "/directories/9/935",
-    "url": "https://www.iap.gov.pt"
-  },
-  {
-    "id": 935,
-    "Name": "iAP - Interoperabilidade na Administração Pública",
-    "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
-    "selo": "Prata",
-    "data_selo": "2020-07-29T22:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2020-07-29T22:00:00.000Z",
     "url_observatorio": "/directories/43/935",
     "url": "https://www.iap.gov.pt"
-  },
-  {
-    "id": 937,
-    "Name": "CGA - Caixa Geral de Aposentações",
-    "entidade": "Caixa Geral de Aposentações",
-    "selo": "Prata",
-    "data_selo": "2024-09-30T23:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-09-29T23:00:00.000Z",
-    "url_observatorio": "/directories/9/937",
-    "url": "https://www.cga.pt"
   },
   {
     "id": 937,
@@ -392,30 +183,8 @@
     "data_selo": "2021-07-20T23:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2021-07-20T23:00:00.000Z",
-    "url_observatorio": "/directories/9/939",
-    "url": "https://www.livroamarelo.gov.pt"
-  },
-  {
-    "id": 939,
-    "Name": "Livro Amarelo",
-    "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
-    "selo": "Prata",
-    "data_selo": "2021-07-20T23:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2021-07-20T23:00:00.000Z",
     "url_observatorio": "/directories/43/939",
     "url": "https://www.livroamarelo.gov.pt"
-  },
-  {
-    "id": 941,
-    "Name": "Participa.Gov",
-    "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
-    "selo": "Prata",
-    "data_selo": "2021-05-26T22:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2020-05-26T22:00:00.000Z",
-    "url_observatorio": "/directories/9/941",
-    "url": "https://participa.gov.pt"
   },
   {
     "id": 941,
@@ -436,30 +205,8 @@
     "data_selo": "2024-03-13T00:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2024-03-13T00:00:00.000Z",
-    "url_observatorio": "/directories/9/943",
-    "url": "https://selo.usabilidade.gov.pt"
-  },
-  {
-    "id": 943,
-    "Name": "Selo de Usabilidade e Acessibilidade",
-    "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
-    "selo": "Ouro",
-    "data_selo": "2024-03-13T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-03-13T00:00:00.000Z",
     "url_observatorio": "/directories/43/943",
     "url": "https://selo.usabilidade.gov.pt"
-  },
-  {
-    "id": 946,
-    "Name": "Digital.Gov",
-    "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
-    "selo": "Ouro",
-    "data_selo": "2024-02-09T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-02-07T00:00:00.000Z",
-    "url_observatorio": "/directories/9/946",
-    "url": "https://digital.gov.pt"
   },
   {
     "id": 946,
@@ -480,30 +227,8 @@
     "data_selo": "2025-08-10T23:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2025-08-06T23:00:00.000Z",
-    "url_observatorio": "/directories/9/955",
-    "url": "https://www.sgmf.gov.pt"
-  },
-  {
-    "id": 955,
-    "Name": "Secretaria-Geral do Ministério das Finanças",
-    "entidade": "Secretaria-Geral do Ministério das Finanças",
-    "selo": "Prata",
-    "data_selo": "2025-08-10T23:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2025-08-06T23:00:00.000Z",
     "url_observatorio": "/directories/23/955",
     "url": "https://www.sgmf.gov.pt"
-  },
-  {
-    "id": 963,
-    "Name": "Instituto Hidrográfico",
-    "entidade": "Instituto Hidrográfico",
-    "selo": "Prata",
-    "data_selo": "2021-12-30T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2021-07-19T22:00:00.000Z",
-    "url_observatorio": "/directories/9/963",
-    "url": "https://www.hidrografico.pt"
   },
   {
     "id": 963,
@@ -524,41 +249,8 @@
     "data_selo": "2025-05-22T23:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2023-10-05T23:00:00.000Z",
-    "url_observatorio": "/directories/9/978",
-    "url": "https://www.fmnf.pt"
-  },
-  {
-    "id": 978,
-    "Name": "Museu Nacional Ferroviário",
-    "entidade": "Fundação Museu Nacional Ferroviário",
-    "selo": "Prata",
-    "data_selo": "2025-05-22T23:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2023-10-05T23:00:00.000Z",
-    "url_observatorio": "/directories/31/978",
-    "url": "https://www.fmnf.pt"
-  },
-  {
-    "id": 978,
-    "Name": "Museu Nacional Ferroviário",
-    "entidade": "Fundação Museu Nacional Ferroviário",
-    "selo": "Prata",
-    "data_selo": "2025-05-22T23:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2023-10-05T23:00:00.000Z",
     "url_observatorio": "/directories/52/978",
     "url": "https://www.fmnf.pt"
-  },
-  {
-    "id": 1028,
-    "Name": "Direção-Geral de Estatísticas da Educação e Ciência",
-    "entidade": "Direção-Geral de Estatísticas da Educação e Ciência",
-    "selo": "Prata",
-    "data_selo": "2024-05-13T23:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-02-08T00:00:00.000Z",
-    "url_observatorio": "/directories/9/1028",
-    "url": "https://www.dgeec.medu.pt"
   },
   {
     "id": 1028,
@@ -579,41 +271,8 @@
     "data_selo": "2024-03-25T00:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2024-02-22T00:00:00.000Z",
-    "url_observatorio": "/directories/10/1230",
-    "url": "https://egeac.pt"
-  },
-  {
-    "id": 1230,
-    "Name": "EGEAC - Empresa de Gestão de Equipamentos e Animação Cultural, EM, S.A.",
-    "entidade": "EGEAC - EMPRESA DE GESTÃO DE EQUIPAMENTOS E ANIMAÇÃO CULTURAL, EM, S.A.",
-    "selo": "Prata",
-    "data_selo": "2024-03-25T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-02-22T00:00:00.000Z",
-    "url_observatorio": "/directories/13/1230",
-    "url": "https://egeac.pt"
-  },
-  {
-    "id": 1230,
-    "Name": "EGEAC - Empresa de Gestão de Equipamentos e Animação Cultural, EM, S.A.",
-    "entidade": "EGEAC - EMPRESA DE GESTÃO DE EQUIPAMENTOS E ANIMAÇÃO CULTURAL, EM, S.A.",
-    "selo": "Prata",
-    "data_selo": "2024-03-25T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-02-22T00:00:00.000Z",
     "url_observatorio": "/directories/44/1230",
     "url": "https://egeac.pt"
-  },
-  {
-    "id": 1288,
-    "Name": "Portugal Digital",
-    "entidade": "Estrutura de Missão Portugal Digital",
-    "selo": "Ouro",
-    "data_selo": "2022-03-23T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2022-03-23T00:00:00.000Z",
-    "url_observatorio": "/directories/9/1288",
-    "url": "https://portugaldigital.gov.pt"
   },
   {
     "id": 1288,
@@ -634,30 +293,8 @@
     "data_selo": "2022-01-26T00:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2022-01-26T00:00:00.000Z",
-    "url_observatorio": "/directories/9/1291",
-    "url": "https://ama-ai4pa.web.app/"
-  },
-  {
-    "id": 1291,
-    "Name": "AI4PA - Inteligência Artificial e Ciência de Dados no Setor Público",
-    "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
-    "selo": "Prata",
-    "data_selo": "2022-01-26T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2022-01-26T00:00:00.000Z",
     "url_observatorio": "/directories/43/1291",
     "url": "https://ama-ai4pa.web.app/"
-  },
-  {
-    "id": 1297,
-    "Name": "FCCN, serviços digitais da FCT",
-    "entidade": "Fundação para a Ciência e a Tecnologia, I.P",
-    "selo": "Prata",
-    "data_selo": "2024-10-21T23:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-10-21T23:00:00.000Z",
-    "url_observatorio": "/directories/9/1297",
-    "url": "https://www.fccn.pt"
   },
   {
     "id": 1297,
@@ -678,30 +315,8 @@
     "data_selo": "2025-09-29T00:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2025-09-11T23:00:00.000Z",
-    "url_observatorio": "/directories/9/1330",
-    "url": "https://registocriminal.justica.gov.pt"
-  },
-  {
-    "id": 1330,
-    "Name": "Certificado do Registo Criminal Online",
-    "entidade": "Direção-Geral da Administração da Justiça",
-    "selo": "Prata",
-    "data_selo": "2025-09-29T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2025-09-11T23:00:00.000Z",
     "url_observatorio": "/directories/22/1330",
     "url": "https://registocriminal.justica.gov.pt"
-  },
-  {
-    "id": 1334,
-    "Name": "Mosaico",
-    "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
-    "selo": "Ouro",
-    "data_selo": "2024-11-29T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-11-26T00:00:00.000Z",
-    "url_observatorio": "/directories/9/1334",
-    "url": "https://mosaico.gov.pt"
   },
   {
     "id": 1334,
@@ -722,30 +337,8 @@
     "data_selo": "2024-05-06T23:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2024-04-29T23:00:00.000Z",
-    "url_observatorio": "/directories/9/1430",
-    "url": "https://www.sgambiente.gov.pt"
-  },
-  {
-    "id": 1430,
-    "Name": "Secretaria-Geral do Ambiente",
-    "entidade": "Secretaria-Geral do Ambiente",
-    "selo": "Prata",
-    "data_selo": "2024-05-06T23:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-04-29T23:00:00.000Z",
     "url_observatorio": "/directories/30/1430",
     "url": "https://www.sgambiente.gov.pt"
-  },
-  {
-    "id": 1677,
-    "Name": "Estado-Maior-General das Forças Armadas",
-    "entidade": "Estado-Maior-General das Forças Armadas",
-    "selo": "Prata",
-    "data_selo": "2025-09-29T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2025-09-02T00:00:00.000Z",
-    "url_observatorio": "/directories/9/1677",
-    "url": "https://www.emgfa.pt"
   },
   {
     "id": 1677,
@@ -777,41 +370,8 @@
     "data_selo": "2023-08-24T23:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2023-04-02T23:00:00.000Z",
-    "url_observatorio": "/directories/10/1687",
-    "url": "https://www.teatrojlsilva.pt"
-  },
-  {
-    "id": 1687,
-    "Name": "Teatro José Lúcio da Silva",
-    "entidade": "Câmara Municipal de Leiria",
-    "selo": "Prata",
-    "data_selo": "2023-08-24T23:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2023-04-02T23:00:00.000Z",
-    "url_observatorio": "/directories/13/1687",
-    "url": "https://www.teatrojlsilva.pt"
-  },
-  {
-    "id": 1687,
-    "Name": "Teatro José Lúcio da Silva",
-    "entidade": "Câmara Municipal de Leiria",
-    "selo": "Prata",
-    "data_selo": "2023-08-24T23:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2023-04-02T23:00:00.000Z",
     "url_observatorio": "/directories/46/1687",
     "url": "https://www.teatrojlsilva.pt"
-  },
-  {
-    "id": 1694,
-    "Name": "Rede Portuguesa de Arte Contemporânea - Norte",
-    "entidade": "Rede Portuguesa de Arte Contemporânea Norte",
-    "selo": "Bronze",
-    "data_selo": "2023-11-20T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2022-06-01T23:00:00.000Z",
-    "url_observatorio": "/directories/9/1694",
-    "url": "https://rpacnorte.pt"
   },
   {
     "id": 1694,
@@ -843,63 +403,8 @@
     "data_selo": "2025-11-25T00:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2025-11-25T00:00:00.000Z",
-    "url_observatorio": "/directories/9/1696",
-    "url": "https://www.marinha.pt"
-  },
-  {
-    "id": 1696,
-    "Name": "Portal da Marinha",
-    "entidade": "Marinha Portuguesa",
-    "selo": "Prata",
-    "data_selo": "2025-11-25T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2025-11-25T00:00:00.000Z",
     "url_observatorio": "/directories/20/1696",
     "url": "https://www.marinha.pt"
-  },
-  {
-    "id": 1750,
-    "Name": "Livraria online do Teatro Nacional D. Maria II",
-    "entidade": "Teatro Nacional D. Maria II, E.P.E.",
-    "selo": "Prata",
-    "data_selo": "2024-02-09T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-02-09T00:00:00.000Z",
-    "url_observatorio": "/directories/9/1750",
-    "url": "https://livrariaonline.tndm.pt"
-  },
-  {
-    "id": 1750,
-    "Name": "Livraria online do Teatro Nacional D. Maria II",
-    "entidade": "Teatro Nacional D. Maria II, E.P.E.",
-    "selo": "Prata",
-    "data_selo": "2024-02-09T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-02-09T00:00:00.000Z",
-    "url_observatorio": "/directories/25/1750",
-    "url": "https://livrariaonline.tndm.pt"
-  },
-  {
-    "id": 1750,
-    "Name": "Livraria online do Teatro Nacional D. Maria II",
-    "entidade": "Teatro Nacional D. Maria II, E.P.E.",
-    "selo": "Prata",
-    "data_selo": "2024-02-09T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-02-09T00:00:00.000Z",
-    "url_observatorio": "/directories/10/1750",
-    "url": "https://livrariaonline.tndm.pt"
-  },
-  {
-    "id": 1750,
-    "Name": "Livraria online do Teatro Nacional D. Maria II",
-    "entidade": "Teatro Nacional D. Maria II, E.P.E.",
-    "selo": "Prata",
-    "data_selo": "2024-02-09T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-02-09T00:00:00.000Z",
-    "url_observatorio": "/directories/44/1750",
-    "url": "https://livrariaonline.tndm.pt"
   },
   {
     "id": 1750,
@@ -920,30 +425,8 @@
     "data_selo": "2025-03-24T00:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2025-03-21T00:00:00.000Z",
-    "url_observatorio": "/directories/9/1888",
-    "url": "https://www.igac.gov.pt"
-  },
-  {
-    "id": 1888,
-    "Name": "IGAC - Inspeção-Geral das Atividades Culturais",
-    "entidade": "Inspeção-Geral das Atividades Culturais",
-    "selo": "Ouro",
-    "data_selo": "2025-03-24T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2025-03-21T00:00:00.000Z",
     "url_observatorio": "/directories/25/1888",
     "url": "https://www.igac.gov.pt"
-  },
-  {
-    "id": 1893,
-    "Name": "Secretaria-Geral do Ministério da Saúde",
-    "entidade": "Secretaria-Geral do Ministério da Saúde",
-    "selo": "Prata",
-    "data_selo": "2025-02-14T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2025-01-14T00:00:00.000Z",
-    "url_observatorio": "/directories/9/1893",
-    "url": "https://www.sg.min-saude.pt"
   },
   {
     "id": 1893,
@@ -964,41 +447,8 @@
     "data_selo": "2023-11-20T00:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2023-11-15T00:00:00.000Z",
-    "url_observatorio": "/directories/9/1910",
-    "url": "https://observatorioagroalimentar.gov.pt"
-  },
-  {
-    "id": 1910,
-    "Name": "Observatório de Preços Agroalimentares",
-    "entidade": "Gabinete de Planeamento, Políticas e Administração Geral",
-    "selo": "Bronze",
-    "data_selo": "2023-11-20T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2023-11-15T00:00:00.000Z",
-    "url_observatorio": "/directories/24/1910",
-    "url": "https://observatorioagroalimentar.gov.pt"
-  },
-  {
-    "id": 1910,
-    "Name": "Observatório de Preços Agroalimentares",
-    "entidade": "Gabinete de Planeamento, Políticas e Administração Geral",
-    "selo": "Bronze",
-    "data_selo": "2023-11-20T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2023-11-15T00:00:00.000Z",
     "url_observatorio": "/directories/33/1910",
     "url": "https://observatorioagroalimentar.gov.pt"
-  },
-  {
-    "id": 1914,
-    "Name": "S3 Norte",
-    "entidade": "Comissão de Coordenação e Desenvolvimento Regional do Norte",
-    "selo": "Bronze",
-    "data_selo": "2024-03-01T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2023-11-22T00:00:00.000Z",
-    "url_observatorio": "/directories/24/1914",
-    "url": "https://s3norte.pt"
   },
   {
     "id": 1914,
@@ -1019,17 +469,6 @@
     "data_selo": "2024-04-10T23:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2024-04-01T23:00:00.000Z",
-    "url_observatorio": "/directories/19/1919",
-    "url": "https://cnaprr.pt"
-  },
-  {
-    "id": 1919,
-    "Name": "Comissão Nacional de Acompanhamento do PRR - CNAPRR",
-    "entidade": "Plano de Recuperação e Resiliência",
-    "selo": "Bronze",
-    "data_selo": "2024-04-10T23:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2024-04-01T23:00:00.000Z",
     "url_observatorio": "/directories/45/1919",
     "url": "https://cnaprr.pt"
   },
@@ -1041,30 +480,8 @@
     "data_selo": "2024-12-27T00:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2025-01-21T00:00:00.000Z",
-    "url_observatorio": "/directories/3/2187",
-    "url": "https://transparencia.servicos.azores.gov.pt"
-  },
-  {
-    "id": 2187,
-    "Name": "Portal da Transparência do Governo dos Açores",
-    "entidade": "Governo Regional dos Açores",
-    "selo": "Prata",
-    "data_selo": "2024-12-27T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2025-01-21T00:00:00.000Z",
     "url_observatorio": "/directories/8/2187",
     "url": "https://transparencia.servicos.azores.gov.pt"
-  },
-  {
-    "id": 2200,
-    "Name": "PESSOAS 2030 - Programa Temático Demografia, Qualificações e Inclusão",
-    "entidade": "Agência para o Desenvolvimento e Coesão, I.P.",
-    "selo": "Prata",
-    "data_selo": "2025-11-21T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2025-11-21T00:00:00.000Z",
-    "url_observatorio": "/directories/6/2200",
-    "url": "https://pessoas2030.gov.pt"
   },
   {
     "id": 2200,
@@ -1096,41 +513,8 @@
     "data_selo": "2025-03-26T00:00:00.000Z",
     "declaracao": "Conforme",
     "data_declaracao": "2025-03-26T00:00:00.000Z",
-    "url_observatorio": "/directories/9/2241",
-    "url": "https://territoriosinteligentes.gov.pt"
-  },
-  {
-    "id": 2241,
-    "Name": "Portal dos Territórios Inteligentes",
-    "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
-    "selo": "Prata",
-    "data_selo": "2025-03-26T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2025-03-26T00:00:00.000Z",
     "url_observatorio": "/directories/43/2241",
     "url": "https://territoriosinteligentes.gov.pt"
-  },
-  {
-    "id": 2255,
-    "Name": "Casa Ásia – Coleção Francisco Capelo",
-    "entidade": "Santa Casa da Misericórdia de Lisboa ",
-    "selo": "Prata",
-    "data_selo": "2025-12-18T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2025-02-18T00:00:00.000Z",
-    "url_observatorio": "/directories/9/2255",
-    "url": "https://casaasia-cfc.scml.pt"
-  },
-  {
-    "id": 2255,
-    "Name": "Casa Ásia – Coleção Francisco Capelo",
-    "entidade": "Santa Casa da Misericórdia de Lisboa ",
-    "selo": "Prata",
-    "data_selo": "2025-12-18T00:00:00.000Z",
-    "declaracao": "Conforme",
-    "data_declaracao": "2025-02-18T00:00:00.000Z",
-    "url_observatorio": "/directories/28/2255",
-    "url": "https://casaasia-cfc.scml.pt"
   },
   {
     "id": 2255,
