@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Bem-Me-Ker App Android",
+    "entidade": "IPO Porto",
+    "selo": "Ouro",
+    "data_selo": "2026-09-23",
+    "declaracao": "Conforme",
+    "data_declaracao": "2026-09-29",
+    "url_observatorio": "",
+    "url": "https://play.google.com/store/apps/details?id=com.ipoporto.bemmeker"
+  },
+  {
+    "id": 2,
+    "name": "Bem-Me-Ker App iOS",
+    "entidade": "IPO Porto",
+    "selo": "Ouro",
+    "data_selo": "2026-10-01",
+    "declaracao": "Conforme",
+    "data_declaracao": "2026-09-28",
+    "url_observatorio": "",
+    "url": "https://apps.apple.com/pt/app/bem-me-ker/id1288638710"
+  },
+  {
+    "id": 3,
+    "name": "Judeus de Coimbra App Android",
+    "entidade": "Município de Coimbra",
+    "selo": "Ouro",
+    "data_selo": "2026-08-28",
+    "declaracao": "Conforme",
+    "data_declaracao": "2026-08-28",
+    "url_observatorio": "",
+    "url": "https://play.google.com/store/apps/details?id=com.realizasom.judeus_de_coimbra&hl=pt_PT"
+  },
+  {
+    "id": 4,
+    "name": "Judeus de Coimbra App IOS",
+    "entidade": "Município de Coimbra",
+    "selo": "Ouro",
+    "data_selo": "2026-08-28",
+    "declaracao": "Conforme",
+    "data_declaracao": "2026-08-28",
+    "url_observatorio": "",
+    "url": "https://apps.apple.com/pt/app/museu-judeus-de-coimbra/id1611578096"
+  },
+  {
+    "id": 5,
+    "name": "MNAz - Museu do Azulejo App Android",
+    "entidade": "Museu Nacional do Azulejo ",
+    "selo": "Ouro",
+    "data_selo": "2026-09-03",
+    "declaracao": "Conforme",
+    "data_declaracao": "2026-08-31",
+    "url_observatorio": "",
+    "url": "https://play.google.com/store/apps/details?id=com.realizasom.mnazcv"
+  },
+  {
+    "id": 6,
+    "name": "MNAz - Museu do Azulejo App IOS",
+    "entidade": "Museu Nacional do Azulejo",
+    "selo": "Ouro",
+    "data_selo": "2026-09-01",
+    "declaracao": "Conforme",
+    "data_declaracao": "2026-08-31",
+    "url_observatorio": "",
+    "url": "https://apps.apple.com/us/app/museu-do-azulejo/id1151355810"
+  },
+  {
+    "id": 7,
+    "name": "Municipio de São João da Madeira APP Android",
+    "entidade": "CM São João da Madeira",
+    "selo": "Prata",
+    "data_selo": "2026-09-17",
+    "declaracao": "Conforme",
+    "data_declaracao": "dd/mm/aaaa",
+    "url_observatorio": "",
+    "url": "https://play.google.com/store/apps/details?id=gofox.municipiosjm&pli=1"
+  },
+  {
+    "id": 8,
+    "name": "Municipio de São João da Madeira APP IOS",
+    "entidade": "CM São João da Madeira",
+    "selo": "Prata",
+    "data_selo": "2026-09-10",
+    "declaracao": "Conforme",
+    "data_declaracao": "2026-09-25",
+    "url_observatorio": "",
+    "url": "https://apps.apple.com/us/app/s-jo%C3%A3o-da-madeira/id1244211502"
+  },
+  {
+    "id": 9,
+    "name": "Museu da Covilhã App Android",
+    "entidade": "Museu da Covilhã App Android",
+    "selo": "Ouro",
+    "data_selo": "2026-09-01",
+    "declaracao": "Conforme",
+    "data_declaracao": "2026-08-31",
+    "url_observatorio": "",
+    "url": "phttps://play.google.com/store/apps/details?id=com.realizasom.mdc&hl=pt_PT"
+  },
+  {
+    "id": 10,
+    "name": "Museu da Covilhã App IOS",
+    "entidade": "CM da Covilhã",
+    "selo": "Ouro",
+    "data_selo": "2026-09-01",
+    "declaracao": "Conforme",
+    "data_declaracao": "2026-08-31",
+    "url_observatorio": "",
+    "url": "https://apps.apple.com/pt/app/museu-da-covilh%C3%A3/id1562699710"
+  },
+  {
+    "id": 11,
+    "name": "Museu do Douro App Android",
+    "entidade": "Museu do Douro",
+    "selo": "Ouro",
+    "data_selo": "2026-08-17",
+    "declaracao": "Conforme",
+    "data_declaracao": "2026-08-26",
+    "url_observatorio": "",
+    "url": "https://play.google.com/store/apps/details?id=com.realizasom.museudodouro&hl=pt_PT"
+  },
+  {
+    "id": 12,
+    "name": "Museu do Douro App IOS",
+    "entidade": "Museu do Douro",
+    "selo": "Ouro",
+    "data_selo": "2026-09-01",
+    "declaracao": "Conforme",
+    "data_declaracao": "2026-08-31",
+    "url_observatorio": "",
+    "url": "https://apps.apple.com/pt/app/museu-do-douro/id1410820967"
+  },
+  {
+    "id": 13,
+    "name": "Portal do SIGAME App Android",
+    "entidade": "Unidade Local de Saúde da Póvoa do Varzim/Vila do Conde",
+    "selo": "Ouro",
+    "data_selo": "2026-09-22",
+    "declaracao": "Conforme",
+    "data_declaracao": "2026-09-29",
+    "url_observatorio": "",
+    "url": "https://play.google.com/store/apps/details?id=com.chpvvc.sigame&pcampaignid=web_share"
+  },
+  {
+    "id": 14,
+    "name": "Portal do SIGAME App iOS",
+    "entidade": "Unidade de Saúde da Póvoa do Varzim/Vila do Conde",
+    "selo": "Ouro",
+    "data_selo": "2026-09-30",
+    "declaracao": "Conforme",
+    "data_declaracao": "2026-09-29",
+    "url_observatorio": "",
+    "url": "https://apps.apple.com/pt/app/sigame/id6502632431"
+  },
+  {
+    "id": 15,
+    "name": "Portal do Utente da ULS Lezíria app Android",
+    "entidade": "ULS Lezíria",
+    "selo": "Ouro",
+    "data_selo": "2026-09-22",
+    "declaracao": "Conforme",
+    "data_declaracao": "2026-09-29",
+    "url_observatorio": "",
+    "url": "https://play.google.com/store/apps/details?id=com.hds.MyHDS&hl=pt"
+  },
+  {
+    "id": 16,
+    "name": "Portal do Utente da ULS Lezíria App iOS",
+    "entidade": "ULS Lezíria",
+    "selo": "Ouro",
+    "data_selo": "2026-10-01",
+    "declaracao": "Conforme",
+    "data_declaracao": "2026-09-29",
+    "url_observatorio": "",
+    "url": "https://apps.apple.com/pt/app/myulslez%C3%ADria/id1671520820"
+  }
+]
