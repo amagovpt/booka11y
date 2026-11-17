@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Abrigo Municipal de Machico",
+    "Name": "Abrigo Municipal de Machico",
     "entidade": "Município de Machico",
     "selo": "Prata",
     "data_selo": "2026-08-21",
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "name": "Acessibilidade.Gov",
+    "Name": "Acessibilidade.Gov",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Ouro",
     "data_selo": "2020-09-29",
@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "name": "Agenda Municipal de Câmara de Lobos",
+    "Name": "Agenda Municipal de Câmara de Lobos",
     "entidade": "Câmara Municipal de Câmara de Lobos",
     "selo": "Prata",
     "data_selo": "2026-08-21",
@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "name": "Agenda Municipal de Machico",
+    "Name": "Agenda Municipal de Machico",
     "entidade": "Município de Machico",
     "selo": "Prata",
     "data_selo": "2026-08-28",
@@ -45,7 +45,7 @@
   },
   {
     "id": 5,
-    "name": "AgitÁgueda - Município de Águeda",
+    "Name": "AgitÁgueda - Município de Águeda",
     "entidade": "CM de Águeda",
     "selo": "Bronze",
     "data_selo": "2026-08-15",
@@ -56,7 +56,7 @@
   },
   {
     "id": 6,
-    "name": "Águeda TV - Município de Águeda",
+    "Name": "Águeda TV - Município de Águeda",
     "entidade": "CM de Águeda",
     "selo": "Bronze",
     "data_selo": "2026-08-14",
@@ -67,7 +67,7 @@
   },
   {
     "id": 7,
-    "name": "AI4PA - Inteligência Artificial e Ciência de Dados no Setor Público",
+    "Name": "AI4PA - Inteligência Artificial e Ciência de Dados no Setor Público",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Prata",
     "data_selo": "2022-01-26",
@@ -78,7 +78,7 @@
   },
   {
     "id": 8,
-    "name": "Alerta Lobos",
+    "Name": "Alerta Lobos",
     "entidade": "Câmara Municipal de Lobos",
     "selo": "Prata",
     "data_selo": "2026-07-30",
@@ -89,7 +89,7 @@
   },
   {
     "id": 9,
-    "name": "Assembleia Municipal Câmara de Lobos",
+    "Name": "Assembleia Municipal Câmara de Lobos",
     "entidade": "Município da Câmara de Lobos",
     "selo": "Prata",
     "data_selo": "2026-08-21",
@@ -100,7 +100,7 @@
   },
   {
     "id": 10,
-    "name": "Associação para a Inclusão do Cidadão com Necessidades Especiais",
+    "Name": "Associação para a Inclusão do Cidadão com Necessidades Especiais",
     "entidade": "Associação INCLUIR",
     "selo": "Ouro",
     "data_selo": "2026-08-11",
@@ -111,7 +111,7 @@
   },
   {
     "id": 11,
-    "name": "Autenticação Gov",
+    "Name": "Autenticação Gov",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Ouro",
     "data_selo": "2020-09-28",
@@ -122,7 +122,7 @@
   },
   {
     "id": 12,
-    "name": "Balcão Online Municipal da Câmara de Lobos",
+    "Name": "Balcão Online Municipal da Câmara de Lobos",
     "entidade": "Câmara Municipal de Câmara de Lobos",
     "selo": "Prata",
     "data_selo": "2026-08-25",
@@ -133,7 +133,7 @@
   },
   {
     "id": 13,
-    "name": "Bem-Me-Ker",
+    "Name": "Bem-Me-Ker",
     "entidade": "IPO Porto",
     "selo": "Ouro",
     "data_selo": "2026-09-17",
@@ -144,7 +144,7 @@
   },
   {
     "id": 14,
-    "name": "Câmara de Felgueiras",
+    "Name": "Câmara de Felgueiras",
     "entidade": "Câmara Municipal de Felgueiras",
     "selo": "Prata",
     "data_selo": "2026-09-07",
@@ -155,7 +155,7 @@
   },
   {
     "id": 15,
-    "name": "Câmara Municipal de Águeda (sítio Web institucional)",
+    "Name": "Câmara Municipal de Águeda (sítio Web institucional)",
     "entidade": "Câmara Municipal de Águeda",
     "selo": "Ouro",
     "data_selo": "2026-09-24",
@@ -166,7 +166,7 @@
   },
   {
     "id": 16,
-    "name": "Câmara Municipal de Albergaria (sítio Web institucional)",
+    "Name": "Câmara Municipal de Albergaria (sítio Web institucional)",
     "entidade": "Câmara Municipal de Albergaria",
     "selo": "Ouro",
     "data_selo": "2026-08-31",
@@ -177,7 +177,7 @@
   },
   {
     "id": 17,
-    "name": "Câmara Municipal de Alcoutim",
+    "Name": "Câmara Municipal de Alcoutim",
     "entidade": "Município de Alcoutim",
     "selo": "Prata",
     "data_selo": "2026-07-21",
@@ -188,7 +188,7 @@
   },
   {
     "id": 18,
-    "name": "Câmara Municipal de Arcos de Valdevez (sítio Web institucional)",
+    "Name": "Câmara Municipal de Arcos de Valdevez (sítio Web institucional)",
     "entidade": "Câmara Municipal de Arcos de Valdevez",
     "selo": "Ouro",
     "data_selo": "2026-09-03",
@@ -199,7 +199,7 @@
   },
   {
     "id": 19,
-    "name": "Câmara Municipal de Bragança (sítio Web institucional)",
+    "Name": "Câmara Municipal de Bragança (sítio Web institucional)",
     "entidade": "Câmara Municipal de Bragança",
     "selo": "Ouro",
     "data_selo": "2026-07-24",
@@ -210,7 +210,7 @@
   },
   {
     "id": 20,
-    "name": "Câmara Municipal de Câmara de Lobos",
+    "Name": "Câmara Municipal de Câmara de Lobos",
     "entidade": "Câmara Municipal de Câmara de Lobos",
     "selo": "Prata",
     "data_selo": "2026-08-26",
@@ -221,7 +221,7 @@
   },
   {
     "id": 21,
-    "name": "Câmara Municipal de Caminha (sítio Web institucional)",
+    "Name": "Câmara Municipal de Caminha (sítio Web institucional)",
     "entidade": "Câmara Municipal de Caminha",
     "selo": "Ouro",
     "data_selo": "2026-09-04",
@@ -232,7 +232,7 @@
   },
   {
     "id": 22,
-    "name": "Câmara Municipal de Celorico de Basto",
+    "Name": "Câmara Municipal de Celorico de Basto",
     "entidade": "Câmara Municipal de Celorico de Basto",
     "selo": "Prata",
     "data_selo": "2026-09-21",
@@ -243,7 +243,7 @@
   },
   {
     "id": 23,
-    "name": "Câmara Municipal de Esposende (sítio Web institucional)",
+    "Name": "Câmara Municipal de Esposende (sítio Web institucional)",
     "entidade": "Câmara Municipal de Esposende",
     "selo": "Ouro",
     "data_selo": "2026-09-24",
@@ -254,7 +254,7 @@
   },
   {
     "id": 24,
-    "name": "Câmara Municipal de Ilhavo (sítio Web institucional)",
+    "Name": "Câmara Municipal de Ilhavo (sítio Web institucional)",
     "entidade": "Câmara Municipal de Ilhavo",
     "selo": "Ouro",
     "data_selo": "2026-09-04",
@@ -265,7 +265,7 @@
   },
   {
     "id": 25,
-    "name": "Câmara Municipal de Machico",
+    "Name": "Câmara Municipal de Machico",
     "entidade": "Município de Machico",
     "selo": "Prata",
     "data_selo": "2026-08-28",
@@ -276,7 +276,7 @@
   },
   {
     "id": 26,
-    "name": "Câmara Municipal de Matosinhos (sítio Web institucional)",
+    "Name": "Câmara Municipal de Matosinhos (sítio Web institucional)",
     "entidade": "Câmara Municipal de Matosinhos",
     "selo": "Ouro",
     "data_selo": "2026-09-03",
@@ -287,7 +287,7 @@
   },
   {
     "id": 27,
-    "name": "Câmara Municipal de Montalegre (sítio Web institucional)",
+    "Name": "Câmara Municipal de Montalegre (sítio Web institucional)",
     "entidade": "Câmara Municipal de Montalegre",
     "selo": "Ouro",
     "data_selo": "2026-09-03",
@@ -298,7 +298,7 @@
   },
   {
     "id": 28,
-    "name": "Câmara Municipal de Oliveira do Bairro (sítio Web institucional)",
+    "Name": "Câmara Municipal de Oliveira do Bairro (sítio Web institucional)",
     "entidade": "Câmara Municipal de Oliveira do Bairro",
     "selo": "Ouro",
     "data_selo": "2026-08-11",
@@ -309,7 +309,7 @@
   },
   {
     "id": 29,
-    "name": "Câmara Municipal de Peniche (sítio Web institucional)",
+    "Name": "Câmara Municipal de Peniche (sítio Web institucional)",
     "entidade": "Câmara Municipal de Peniche",
     "selo": "Ouro",
     "data_selo": "2026-09-15",
@@ -320,7 +320,7 @@
   },
   {
     "id": 30,
-    "name": "Câmara Municipal de Peso da Régua (sítio Web institucional)",
+    "Name": "Câmara Municipal de Peso da Régua (sítio Web institucional)",
     "entidade": "Câmara Municipal de Peso da Régua",
     "selo": "Ouro",
     "data_selo": "2026-09-02",
@@ -331,7 +331,7 @@
   },
   {
     "id": 31,
-    "name": "Câmara Municipal de Pombal (sítio Web institucional)",
+    "Name": "Câmara Municipal de Pombal (sítio Web institucional)",
     "entidade": "Câmara Municipal de Pombal",
     "selo": "Ouro",
     "data_selo": "2026-08-26",
@@ -342,7 +342,7 @@
   },
   {
     "id": 32,
-    "name": "Câmara Municipal de Sabrosa (sítio Web institucional)",
+    "Name": "Câmara Municipal de Sabrosa (sítio Web institucional)",
     "entidade": "Câmara Municipal de Sabrosa",
     "selo": "Ouro",
     "data_selo": "2026-08-31",
@@ -353,7 +353,7 @@
   },
   {
     "id": 33,
-    "name": "Câmara Municipal de Sátão (sítio Web institucional)",
+    "Name": "Câmara Municipal de Sátão (sítio Web institucional)",
     "entidade": "Câmara Municipal de Sátão",
     "selo": "Ouro",
     "data_selo": "2026-08-11",
@@ -364,7 +364,7 @@
   },
   {
     "id": 34,
-    "name": "Câmara Municipal de Vagos (sítio Web institucional)",
+    "Name": "Câmara Municipal de Vagos (sítio Web institucional)",
     "entidade": "Câmara Municipal de Vagos",
     "selo": "Ouro",
     "data_selo": "2026-09-02",
@@ -375,7 +375,7 @@
   },
   {
     "id": 35,
-    "name": "Câmara Municipal de Valongo (sítio Web institucional)",
+    "Name": "Câmara Municipal de Valongo (sítio Web institucional)",
     "entidade": "Câmara Municipal de Valongo",
     "selo": "Ouro",
     "data_selo": "2026-06-24",
@@ -386,7 +386,7 @@
   },
   {
     "id": 36,
-    "name": "Câmara Municipal de Valpaços (sitio Web institucional)",
+    "Name": "Câmara Municipal de Valpaços (sitio Web institucional)",
     "entidade": "Câmara Municipal de Valpaços",
     "selo": "Ouro",
     "data_selo": "2026-09-28",
@@ -397,7 +397,7 @@
   },
   {
     "id": 37,
-    "name": "Câmara Municipal do Barreiro",
+    "Name": "Câmara Municipal do Barreiro",
     "entidade": "Câmara Municipal do Barreiro",
     "selo": "Bronze",
     "data_selo": "2026-10-02",
@@ -408,7 +408,7 @@
   },
   {
     "id": 38,
-    "name": "Casa Ásia – Coleção Francisco Capelo",
+    "Name": "Casa Ásia – Coleção Francisco Capelo",
     "entidade": "Santa Casa da Misericórdia de Lisboa ",
     "selo": "Prata",
     "data_selo": "2025-12-18",
@@ -419,7 +419,7 @@
   },
   {
     "id": 39,
-    "name": "Certificado do Registo Criminal Online",
+    "Name": "Certificado do Registo Criminal Online",
     "entidade": "Direção-Geral da Administração da Justiça",
     "selo": "Prata",
     "data_selo": "2025-09-29",
@@ -430,7 +430,7 @@
   },
   {
     "id": 40,
-    "name": "CGA - Caixa Geral de Aposentações",
+    "Name": "CGA - Caixa Geral de Aposentações",
     "entidade": "Caixa Geral de Aposentações",
     "selo": "Prata",
     "data_selo": "2024-09-30",
@@ -441,7 +441,7 @@
   },
   {
     "id": 41,
-    "name": "CM Sabugal",
+    "Name": "CM Sabugal",
     "entidade": "CM Sabugal",
     "selo": "Bronze",
     "data_selo": "2026-08-14",
@@ -452,7 +452,7 @@
   },
   {
     "id": 42,
-    "name": "Comissão Nacional de Acompanhamento do PRR - CNAPRR",
+    "Name": "Comissão Nacional de Acompanhamento do PRR - CNAPRR",
     "entidade": "Plano de Recuperação e Resiliência",
     "selo": "Bronze",
     "data_selo": "2024-04-10",
@@ -463,7 +463,7 @@
   },
   {
     "id": 43,
-    "name": "Comunidade Intermunicipal da Região de Aveiro (sítio Web institucional)",
+    "Name": "Comunidade Intermunicipal da Região de Aveiro (sítio Web institucional)",
     "entidade": "Comunidade Intermunicipal da Região de Aveiro",
     "selo": "Ouro",
     "data_selo": "2026-06-18",
@@ -474,7 +474,7 @@
   },
   {
     "id": 44,
-    "name": "Comunidade Intermunicipal do Oeste",
+    "Name": "Comunidade Intermunicipal do Oeste",
     "entidade": "Comunidade Intermunicipal do Oeste",
     "selo": "Prata",
     "data_selo": "2026-08-27",
@@ -485,7 +485,7 @@
   },
   {
     "id": 45,
-    "name": "CPP - Comité Paralimpico de Portugal",
+    "Name": "CPP - Comité Paralimpico de Portugal",
     "entidade": "Comité Paralimpico de Portugal",
     "selo": "Ouro",
     "data_selo": "2021-08-08",
@@ -496,7 +496,7 @@
   },
   {
     "id": 46,
-    "name": "Cultura Acessível",
+    "Name": "Cultura Acessível",
     "entidade": "Acesso Cultura, Associação",
     "selo": "Prata",
     "data_selo": "2024-01-10",
@@ -507,7 +507,7 @@
   },
   {
     "id": 47,
-    "name": "Dados.Gov",
+    "Name": "Dados.Gov",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Prata",
     "data_selo": "2020-09-21",
@@ -518,7 +518,7 @@
   },
   {
     "id": 48,
-    "name": "Digital.Gov",
+    "Name": "Digital.Gov",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Ouro",
     "data_selo": "2024-02-09",
@@ -529,7 +529,7 @@
   },
   {
     "id": 49,
-    "name": "Direção-Geral de Estatísticas da Educação e Ciência",
+    "Name": "Direção-Geral de Estatísticas da Educação e Ciência",
     "entidade": "Direção-Geral de Estatísticas da Educação e Ciência",
     "selo": "Prata",
     "data_selo": "2024-05-13",
@@ -540,7 +540,7 @@
   },
   {
     "id": 50,
-    "name": "Diretório de Serviços do Município de Valongo",
+    "Name": "Diretório de Serviços do Município de Valongo",
     "entidade": "Município de Valongo",
     "selo": "Ouro",
     "data_selo": "2026-09-08",
@@ -551,7 +551,7 @@
   },
   {
     "id": 51,
-    "name": "ECOS Machico",
+    "Name": "ECOS Machico",
     "entidade": "Município de Machico",
     "selo": "Prata",
     "data_selo": "2026-08-27",
@@ -562,7 +562,7 @@
   },
   {
     "id": 52,
-    "name": "EGEAC - Empresa de Gestão de Equipamentos e Animação Cultural, EM, S.A.",
+    "Name": "EGEAC - Empresa de Gestão de Equipamentos e Animação Cultural, EM, S.A.",
     "entidade": "EGEAC - EMPRESA DE GESTÃO DE EQUIPAMENTOS E ANIMAÇÃO CULTURAL, EM, S.A.",
     "selo": "Prata",
     "data_selo": "2024-03-25",
@@ -573,7 +573,7 @@
   },
   {
     "id": 53,
-    "name": "Escola Superior de Saúde do Alcoitão - ESSAlcoitão (Área Pública)",
+    "Name": "Escola Superior de Saúde do Alcoitão - ESSAlcoitão (Área Pública)",
     "entidade": "Santa Casa da Misericórdia",
     "selo": "Prata",
     "data_selo": "2026-05-13",
@@ -584,7 +584,7 @@
   },
   {
     "id": 54,
-    "name": "Estado-Maior-General das Forças Armadas",
+    "Name": "Estado-Maior-General das Forças Armadas",
     "entidade": "Estado-Maior-General das Forças Armadas",
     "selo": "Prata",
     "data_selo": "2025-09-29",
@@ -595,7 +595,7 @@
   },
   {
     "id": 55,
-    "name": "FCCN, serviços digitais da FCT",
+    "Name": "FCCN, serviços digitais da FCT",
     "entidade": "Fundação para a Ciência e a Tecnologia, I.P",
     "selo": "Prata",
     "data_selo": "2024-10-21",
@@ -606,7 +606,7 @@
   },
   {
     "id": 56,
-    "name": "Fundação para a Ciência e a Tecnologia, I.P.",
+    "Name": "Fundação para a Ciência e a Tecnologia, I.P.",
     "entidade": "Fundação para a Ciência e a Tecnologia, I.P",
     "selo": "Prata",
     "data_selo": "2024-12-18",
@@ -617,7 +617,7 @@
   },
   {
     "id": 57,
-    "name": "Guia de Eventos da Região de Turismo do Algarve",
+    "Name": "Guia de Eventos da Região de Turismo do Algarve",
     "entidade": "Região de Turismo do Algarve",
     "selo": "Prata",
     "data_selo": "2023-12-21",
@@ -628,7 +628,7 @@
   },
   {
     "id": 58,
-    "name": "iAP - Interoperabilidade na Administração Pública",
+    "Name": "iAP - Interoperabilidade na Administração Pública",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Prata",
     "data_selo": "2020-07-29",
@@ -639,7 +639,7 @@
   },
   {
     "id": 59,
-    "name": "IGAC - Inspeção-Geral das Atividades Culturais",
+    "Name": "IGAC - Inspeção-Geral das Atividades Culturais",
     "entidade": "Inspeção-Geral das Atividades Culturais",
     "selo": "Ouro",
     "data_selo": "2025-03-24",
@@ -650,7 +650,7 @@
   },
   {
     "id": 60,
-    "name": "Infralobo - Empresa de infra-estruturas de Vale do Lobo  E.M.",
+    "Name": "Infralobo - Empresa de infra-estruturas de Vale do Lobo  E.M.",
     "entidade": "Infralobo - Empresa de infra-estruturas de Vale do Lobo  E.M.",
     "selo": "Prata",
     "data_selo": "2026-08-26",
@@ -661,7 +661,7 @@
   },
   {
     "id": 61,
-    "name": "Inframoura - Empresa de Infraestruturas de Vilamoura E.M.",
+    "Name": "Inframoura - Empresa de Infraestruturas de Vilamoura E.M.",
     "entidade": "Inframoura - Empresa de Infraestruturas de Vilamoura E.M.",
     "selo": "Prata",
     "data_selo": "2026-08-26",
@@ -672,7 +672,7 @@
   },
   {
     "id": 62,
-    "name": "INR - Instituto Nacional para a Reabilitação, I.P.",
+    "Name": "INR - Instituto Nacional para a Reabilitação, I.P.",
     "entidade": "Instituto Nacional para a Reabilitação",
     "selo": "Ouro",
     "data_selo": "2020-10-08",
@@ -683,7 +683,7 @@
   },
   {
     "id": 63,
-    "name": "Instituto Hidrográfico",
+    "Name": "Instituto Hidrográfico",
     "entidade": "Instituto Hidrográfico",
     "selo": "Prata",
     "data_selo": "2021-12-30",
@@ -694,7 +694,7 @@
   },
   {
     "id": 64,
-    "name": "Instituto Politécnico de Viana do Castelo",
+    "Name": "Instituto Politécnico de Viana do Castelo",
     "entidade": "Instituto Politécnico de Viana do Castelo",
     "selo": "Ouro",
     "data_selo": "2026-09-24",
@@ -705,7 +705,7 @@
   },
   {
     "id": 65,
-    "name": "IPV - Instituto Politécnico de Viseu",
+    "Name": "IPV - Instituto Politécnico de Viseu",
     "entidade": "Instituto Politécnico de Viseu",
     "selo": "Prata",
     "data_selo": "2025-08-27",
@@ -716,7 +716,7 @@
   },
   {
     "id": 66,
-    "name": "Livraria online do Teatro Nacional D. Maria II",
+    "Name": "Livraria online do Teatro Nacional D. Maria II",
     "entidade": "Teatro Nacional D. Maria II, E.P.E.",
     "selo": "Prata",
     "data_selo": "2024-02-09",
@@ -727,7 +727,7 @@
   },
   {
     "id": 67,
-    "name": "Livro Amarelo",
+    "Name": "Livro Amarelo",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Prata",
     "data_selo": "2021-07-20",
@@ -738,7 +738,7 @@
   },
   {
     "id": 68,
-    "name": "Machico Ambiente",
+    "Name": "Machico Ambiente",
     "entidade": "Município de Machico",
     "selo": "Prata",
     "data_selo": "2026-08-28",
@@ -749,7 +749,7 @@
   },
   {
     "id": 69,
-    "name": "Machico Apoia",
+    "Name": "Machico Apoia",
     "entidade": "Município de Machico",
     "selo": "Prata",
     "data_selo": "2026-08-28",
@@ -760,7 +760,7 @@
   },
   {
     "id": 70,
-    "name": "Mosaico",
+    "Name": "Mosaico",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Ouro",
     "data_selo": "2024-11-29",
@@ -771,7 +771,7 @@
   },
   {
     "id": 71,
-    "name": "Município da Maia",
+    "Name": "Município da Maia",
     "entidade": "CM Maia",
     "selo": "Ouro",
     "data_selo": "2026-09-08",
@@ -782,7 +782,7 @@
   },
   {
     "id": 72,
-    "name": "Município da Moita",
+    "Name": "Município da Moita",
     "entidade": "CM da Moita",
     "selo": "Ouro",
     "data_selo": "2026-09-08",
@@ -793,7 +793,7 @@
   },
   {
     "id": 73,
-    "name": "Município de Alenquer",
+    "Name": "Município de Alenquer",
     "entidade": "Município de Alenquer",
     "selo": "Prata",
     "data_selo": "2026-08-14",
@@ -804,7 +804,7 @@
   },
   {
     "id": 74,
-    "name": "Município de Alvito",
+    "Name": "Município de Alvito",
     "entidade": "Município de Alvito",
     "selo": "Prata",
     "data_selo": "2026-08-27",
@@ -815,7 +815,7 @@
   },
   {
     "id": 75,
-    "name": "Munícipio de Barrancos",
+    "Name": "Munícipio de Barrancos",
     "entidade": "CM de Barrancos",
     "selo": "Prata",
     "data_selo": "2026-08-27",
@@ -826,7 +826,7 @@
   },
   {
     "id": 76,
-    "name": "Município de Castelo de Vide",
+    "Name": "Município de Castelo de Vide",
     "entidade": "Município de Castelo de Vide",
     "selo": "Prata",
     "data_selo": "2026-08-27",
@@ -837,7 +837,7 @@
   },
   {
     "id": 77,
-    "name": "Município de Cuba",
+    "Name": "Município de Cuba",
     "entidade": "Município de Cuba",
     "selo": "Prata",
     "data_selo": "2026-09-10",
@@ -848,7 +848,7 @@
   },
   {
     "id": 78,
-    "name": "Município de Manteigas",
+    "Name": "Município de Manteigas",
     "entidade": "Município de Manteigas",
     "selo": "Bronze",
     "data_selo": "2026-08-31",
@@ -859,7 +859,7 @@
   },
   {
     "id": 79,
-    "name": "Município de Marvão",
+    "Name": "Município de Marvão",
     "entidade": "Município de Marvão",
     "selo": "Prata",
     "data_selo": "2026-08-28",
@@ -870,7 +870,7 @@
   },
   {
     "id": 80,
-    "name": "Município de Miranda do Corvo",
+    "Name": "Município de Miranda do Corvo",
     "entidade": "Município de Miranda do Corvo",
     "selo": "Prata",
     "data_selo": "2026-08-27",
@@ -881,7 +881,7 @@
   },
   {
     "id": 81,
-    "name": "Município de Moimenta da Beira",
+    "Name": "Município de Moimenta da Beira",
     "entidade": "Município de Moimenta da Beira",
     "selo": "Ouro",
     "data_selo": "2026-09-09",
@@ -892,7 +892,7 @@
   },
   {
     "id": 82,
-    "name": "Município de Murça",
+    "Name": "Município de Murça",
     "entidade": "CM de Murça",
     "selo": "Ouro",
     "data_selo": "2026-09-08",
@@ -903,7 +903,7 @@
   },
   {
     "id": 83,
-    "name": "Município de Odemira",
+    "Name": "Município de Odemira",
     "entidade": "CM de Odemira",
     "selo": "Ouro",
     "data_selo": "2026-09-09",
@@ -914,7 +914,7 @@
   },
   {
     "id": 84,
-    "name": "Município de Olhão",
+    "Name": "Município de Olhão",
     "entidade": "Município de Olhão",
     "selo": "Prata",
     "data_selo": "2026-08-27",
@@ -925,7 +925,7 @@
   },
   {
     "id": 85,
-    "name": "Município de Paredes",
+    "Name": "Município de Paredes",
     "entidade": "CM de Paredes",
     "selo": "Ouro",
     "data_selo": "2026-09-07",
@@ -936,7 +936,7 @@
   },
   {
     "id": 86,
-    "name": "Município de Penacova",
+    "Name": "Município de Penacova",
     "entidade": "Município de Penacova",
     "selo": "Ouro",
     "data_selo": "2026-08-27",
@@ -947,7 +947,7 @@
   },
   {
     "id": 87,
-    "name": "Município de Penamacor",
+    "Name": "Município de Penamacor",
     "entidade": "CM Penamacor",
     "selo": "Ouro",
     "data_selo": "2026-09-18",
@@ -958,7 +958,7 @@
   },
   {
     "id": 88,
-    "name": "Munícipio de Proença-a-Nova",
+    "Name": "Munícipio de Proença-a-Nova",
     "entidade": "Munícipio de Proença-a-Nova",
     "selo": "Prata",
     "data_selo": "2026-06-25",
@@ -969,7 +969,7 @@
   },
   {
     "id": 89,
-    "name": "Município de Santo Tirso",
+    "Name": "Município de Santo Tirso",
     "entidade": "CM de Santo Tirso",
     "selo": "Ouro",
     "data_selo": "2026-09-08",
@@ -980,7 +980,7 @@
   },
   {
     "id": 90,
-    "name": "Município de São João da Madeira",
+    "Name": "Município de São João da Madeira",
     "entidade": "Câmara Municipal de São João da Madeira",
     "selo": "Prata",
     "data_selo": "2026-08-14",
@@ -991,7 +991,7 @@
   },
   {
     "id": 91,
-    "name": "Munícipio de Sernancelhe",
+    "Name": "Munícipio de Sernancelhe",
     "entidade": "CM de Sernancelhe",
     "selo": "Ouro",
     "data_selo": "2026-09-18",
@@ -1002,7 +1002,7 @@
   },
   {
     "id": 92,
-    "name": "Município de Trancoso",
+    "Name": "Município de Trancoso",
     "entidade": "Município de Trancoso",
     "selo": "Bronze",
     "data_selo": "2026-09-02",
@@ -1013,7 +1013,7 @@
   },
   {
     "id": 93,
-    "name": "Município de Vila do Conde",
+    "Name": "Município de Vila do Conde",
     "entidade": "CM de Vila do Conde",
     "selo": "Ouro",
     "data_selo": "2026-09-07",
@@ -1024,7 +1024,7 @@
   },
   {
     "id": 94,
-    "name": "Município de Vila Franca de Xira",
+    "Name": "Município de Vila Franca de Xira",
     "entidade": "CM de Vila Franca de Xira",
     "selo": "Ouro",
     "data_selo": "2026-09-18",
@@ -1035,7 +1035,7 @@
   },
   {
     "id": 95,
-    "name": "Museu da Chapelaria",
+    "Name": "Museu da Chapelaria",
     "entidade": "Município de São João da Madeira",
     "selo": "Prata",
     "data_selo": "2026-07-08",
@@ -1046,7 +1046,7 @@
   },
   {
     "id": 96,
-    "name": "Museu do Calçado",
+    "Name": "Museu do Calçado",
     "entidade": "Câmara Municipal de São João da Madeira",
     "selo": "Prata",
     "data_selo": "2026-07-29",
@@ -1057,7 +1057,7 @@
   },
   {
     "id": 97,
-    "name": "Museu Nacional Ferroviário",
+    "Name": "Museu Nacional Ferroviário",
     "entidade": "Fundação Museu Nacional Ferroviário",
     "selo": "Prata",
     "data_selo": "2025-05-22",
@@ -1068,7 +1068,7 @@
   },
   {
     "id": 98,
-    "name": "Observatório de Preços Agroalimentares",
+    "Name": "Observatório de Preços Agroalimentares",
     "entidade": "Gabinete de Planeamento, Políticas e Administração Geral",
     "selo": "Bronze",
     "data_selo": "2023-11-20",
@@ -1079,7 +1079,7 @@
   },
   {
     "id": 99,
-    "name": "Participa.Gov",
+    "Name": "Participa.Gov",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Prata",
     "data_selo": "2021-05-26",
@@ -1090,7 +1090,7 @@
   },
   {
     "id": 100,
-    "name": "PESSOAS 2030 - Programa Temático Demografia, Qualificações e Inclusão",
+    "Name": "PESSOAS 2030 - Programa Temático Demografia, Qualificações e Inclusão",
     "entidade": "Agência para o Desenvolvimento e Coesão, I.P.",
     "selo": "Prata",
     "data_selo": "2025-11-21",
@@ -1101,7 +1101,7 @@
   },
   {
     "id": 101,
-    "name": "Plataforma Institucional do Município da Calheta",
+    "Name": "Plataforma Institucional do Município da Calheta",
     "entidade": "CM Calheta",
     "selo": "Prata",
     "data_selo": "2026-08-27",
@@ -1112,7 +1112,7 @@
   },
   {
     "id": 102,
-    "name": "Plataforma Institucional do Município da Lourinhã",
+    "Name": "Plataforma Institucional do Município da Lourinhã",
     "entidade": "CM da Lourinhã",
     "selo": "Prata",
     "data_selo": "2026-08-27",
@@ -1123,7 +1123,7 @@
   },
   {
     "id": 103,
-    "name": "Plataforma Institucional do Município de Castro Verde",
+    "Name": "Plataforma Institucional do Município de Castro Verde",
     "entidade": "Município de Castro Verde",
     "selo": "Prata",
     "data_selo": "2026-08-27",
@@ -1134,7 +1134,7 @@
   },
   {
     "id": 104,
-    "name": "Plataforma Institucional do Município do Bombarral",
+    "Name": "Plataforma Institucional do Município do Bombarral",
     "entidade": "Município do Bombarral",
     "selo": "Prata",
     "data_selo": "2026-08-07",
@@ -1145,7 +1145,7 @@
   },
   {
     "id": 105,
-    "name": "Plataforma Wiretrust - Canal de Denúncias de diversos Municípios (template)",
+    "Name": "Plataforma Wiretrust - Canal de Denúncias de diversos Municípios (template)",
     "entidade": "Wiremaze",
     "selo": "Ouro",
     "data_selo": "2026-09-11",
@@ -1156,7 +1156,7 @@
   },
   {
     "id": 106,
-    "name": "Portal Autárquico de Fornos de Algodres",
+    "Name": "Portal Autárquico de Fornos de Algodres",
     "entidade": "Município de Fornos de Algodres",
     "selo": "Bronze",
     "data_selo": "2026-09-02",
@@ -1167,7 +1167,7 @@
   },
   {
     "id": 107,
-    "name": "Portal Autárquico de Mêda",
+    "Name": "Portal Autárquico de Mêda",
     "entidade": "Município de Mêda",
     "selo": "Bronze",
     "data_selo": "2026-09-02",
@@ -1178,7 +1178,7 @@
   },
   {
     "id": 108,
-    "name": "Portal Autárquico do Município de Arganil",
+    "Name": "Portal Autárquico do Município de Arganil",
     "entidade": "Município de Arganil",
     "selo": "Bronze",
     "data_selo": "2026-08-28",
@@ -1189,7 +1189,7 @@
   },
   {
     "id": 109,
-    "name": "Portal da Bolsa de Emprego de Câmara de Lobos",
+    "Name": "Portal da Bolsa de Emprego de Câmara de Lobos",
     "entidade": "Câmara Municipal de Câmara de Lobos",
     "selo": "Prata",
     "data_selo": "2026-08-28",
@@ -1200,7 +1200,7 @@
   },
   {
     "id": 110,
-    "name": "Portal da Defesa Nacional",
+    "Name": "Portal da Defesa Nacional",
     "entidade": "Secretaria-Geral do Ministério da Defesa",
     "selo": "Ouro",
     "data_selo": "2026-08-27",
@@ -1211,7 +1211,7 @@
   },
   {
     "id": 111,
-    "name": "Portal da Defesa Nacional",
+    "Name": "Portal da Defesa Nacional",
     "entidade": "Secretaria-Geral do Ministério da Defesa Nacional",
     "selo": "Prata",
     "data_selo": "2020-04-01",
@@ -1222,7 +1222,7 @@
   },
   {
     "id": 112,
-    "name": "Portal da Marinha",
+    "Name": "Portal da Marinha",
     "entidade": "Marinha Portuguesa",
     "selo": "Prata",
     "data_selo": "2025-11-25",
@@ -1233,7 +1233,7 @@
   },
   {
     "id": 113,
-    "name": "Portal da Transparência do Governo dos Açores",
+    "Name": "Portal da Transparência do Governo dos Açores",
     "entidade": "Governo Regional dos Açores",
     "selo": "Prata",
     "data_selo": "2024-12-27",
@@ -1244,7 +1244,7 @@
   },
   {
     "id": 114,
-    "name": "Portal das Bolsas de Estudo de Câmara de Lobos",
+    "Name": "Portal das Bolsas de Estudo de Câmara de Lobos",
     "entidade": "Câmara Municipal de Câmara de Lobos",
     "selo": "Prata",
     "data_selo": "2026-08-28",
@@ -1255,7 +1255,7 @@
   },
   {
     "id": 115,
-    "name": "Portal das Bolsas de Estudo de Machico",
+    "Name": "Portal das Bolsas de Estudo de Machico",
     "entidade": "Município de Machico",
     "selo": "Prata",
     "data_selo": "2026-08-26",
@@ -1266,7 +1266,7 @@
   },
   {
     "id": 116,
-    "name": "Portal de Serviços do Município da Maia",
+    "Name": "Portal de Serviços do Município da Maia",
     "entidade": "Município da Maia",
     "selo": "Ouro",
     "data_selo": "2026-09-08",
@@ -1277,7 +1277,7 @@
   },
   {
     "id": 117,
-    "name": "Portal do Associativismo de Câmara de Lobos",
+    "Name": "Portal do Associativismo de Câmara de Lobos",
     "entidade": "Câmara Municipal de Câmara de Lobos",
     "selo": "Prata",
     "data_selo": "2026-08-26",
@@ -1288,7 +1288,7 @@
   },
   {
     "id": 118,
-    "name": "Portal do Associativismo de Machico",
+    "Name": "Portal do Associativismo de Machico",
     "entidade": "Município de Machico",
     "selo": "Prata",
     "data_selo": "2026-08-27",
@@ -1299,7 +1299,7 @@
   },
   {
     "id": 119,
-    "name": "Portal do Município de Albufeira",
+    "Name": "Portal do Município de Albufeira",
     "entidade": "CM de Albufeira",
     "selo": "Bronze",
     "data_selo": "2026-09-21",
@@ -1310,7 +1310,7 @@
   },
   {
     "id": 120,
-    "name": "Portal do SIGAME",
+    "Name": "Portal do SIGAME",
     "entidade": "Ministério da Saúde",
     "selo": "Ouro",
     "data_selo": "2026-09-17",
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 121,
-    "name": "Portal do Utente da ULS Lezíria",
+    "Name": "Portal do Utente da ULS Lezíria",
     "entidade": "Unidade Local de Saúde da Lezíria",
     "selo": "Ouro",
     "data_selo": "2026-09-14",
@@ -1332,7 +1332,7 @@
   },
   {
     "id": 122,
-    "name": "Portal dos Territórios Inteligentes da ENTI",
+    "Name": "Portal dos Territórios Inteligentes da ENTI",
     "entidade": "ARTE - Agência para a Reforma Tecnológica do Estado, I.P.",
     "selo": "Ouro",
     "data_selo": "2026-07-27",
@@ -1343,7 +1343,7 @@
   },
   {
     "id": 123,
-    "name": "Portal IDN - Instituto Defesa Nacional",
+    "Name": "Portal IDN - Instituto Defesa Nacional",
     "entidade": "Instituto da Defesa Nacional",
     "selo": "Ouro",
     "data_selo": "2026-08-28",
@@ -1354,7 +1354,7 @@
   },
   {
     "id": 124,
-    "name": "Portal Institucional da Câmara Municipal de Tábua",
+    "Name": "Portal Institucional da Câmara Municipal de Tábua",
     "entidade": "Município de Tábua",
     "selo": "Bronze",
     "data_selo": "2026-09-18",
@@ -1365,7 +1365,7 @@
   },
   {
     "id": 125,
-    "name": "Portal Institucional de Gavião",
+    "Name": "Portal Institucional de Gavião",
     "entidade": "Município de Gavião",
     "selo": "Prata",
     "data_selo": "2026-09-02",
@@ -1376,7 +1376,7 @@
   },
   {
     "id": 126,
-    "name": "Portal Institucional do Município de Alter do Chão",
+    "Name": "Portal Institucional do Município de Alter do Chão",
     "entidade": "Município de ALter do Chão",
     "selo": "Ouro",
     "data_selo": "2026-09-10",
@@ -1387,7 +1387,7 @@
   },
   {
     "id": 127,
-    "name": "Portal Institucional do Município de Avis",
+    "Name": "Portal Institucional do Município de Avis",
     "entidade": "CM de Avis",
     "selo": "Prata",
     "data_selo": "2026-08-28",
@@ -1398,7 +1398,7 @@
   },
   {
     "id": 128,
-    "name": "Portal Institucional do Município de Sousel",
+    "Name": "Portal Institucional do Município de Sousel",
     "entidade": "Município de Sousel",
     "selo": "Prata",
     "data_selo": "2026-08-14",
@@ -1409,7 +1409,7 @@
   },
   {
     "id": 129,
-    "name": "Portal Mais Transparência",
+    "Name": "Portal Mais Transparência",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Ouro",
     "data_selo": "2024-10-06",
@@ -1420,7 +1420,7 @@
   },
   {
     "id": 130,
-    "name": "Portal Municipal de Celorico da Beira",
+    "Name": "Portal Municipal de Celorico da Beira",
     "entidade": "CM de Celorico da Beira",
     "selo": "Bronze",
     "data_selo": "2026-09-10",
@@ -1431,7 +1431,7 @@
   },
   {
     "id": 131,
-    "name": "Portal Oficial da ADM Estrela",
+    "Name": "Portal Oficial da ADM Estrela",
     "entidade": "ADM Estrela",
     "selo": "Bronze",
     "data_selo": "2026-08-20",
@@ -1442,7 +1442,7 @@
   },
   {
     "id": 132,
-    "name": "Portugal Digital",
+    "Name": "Portugal Digital",
     "entidade": "Estrutura de Missão Portugal Digital",
     "selo": "Ouro",
     "data_selo": "2022-03-23",
@@ -1453,7 +1453,7 @@
   },
   {
     "id": 133,
-    "name": "Presidência da República",
+    "Name": "Presidência da República",
     "entidade": "Presidência da República",
     "selo": "Ouro",
     "data_selo": "2024-02-19",
@@ -1464,7 +1464,7 @@
   },
   {
     "id": 134,
-    "name": "Recrutamento Online do Município de Valongo",
+    "Name": "Recrutamento Online do Município de Valongo",
     "entidade": "Município de Valongo",
     "selo": "Ouro",
     "data_selo": "2026-08-21",
@@ -1475,7 +1475,7 @@
   },
   {
     "id": 135,
-    "name": "Rede Portuguesa de Arte Contemporânea - Norte",
+    "Name": "Rede Portuguesa de Arte Contemporânea - Norte",
     "entidade": "Rede Portuguesa de Arte Contemporânea Norte",
     "selo": "Bronze",
     "data_selo": "2023-11-20",
@@ -1486,7 +1486,7 @@
   },
   {
     "id": 136,
-    "name": "S3 Norte",
+    "Name": "S3 Norte",
     "entidade": "Comissão de Coordenação e Desenvolvimento Regional do Norte",
     "selo": "Bronze",
     "data_selo": "2024-03-01",
@@ -1497,7 +1497,7 @@
   },
   {
     "id": 137,
-    "name": "Secretaria-Geral da Presidência do Conselho de Ministros",
+    "Name": "Secretaria-Geral da Presidência do Conselho de Ministros",
     "entidade": "Secretaria-Geral da Presidência do Conselho de Ministros",
     "selo": "Ouro",
     "data_selo": "2024-12-23",
@@ -1508,7 +1508,7 @@
   },
   {
     "id": 138,
-    "name": "Secretaria-Geral do Ambiente",
+    "Name": "Secretaria-Geral do Ambiente",
     "entidade": "Secretaria-Geral do Ambiente",
     "selo": "Prata",
     "data_selo": "2024-05-06",
@@ -1519,7 +1519,7 @@
   },
   {
     "id": 139,
-    "name": "Secretaria-Geral do Ministério da Saúde",
+    "Name": "Secretaria-Geral do Ministério da Saúde",
     "entidade": "Secretaria-Geral do Ministério da Saúde",
     "selo": "Prata",
     "data_selo": "2025-02-14",
@@ -1530,7 +1530,7 @@
   },
   {
     "id": 140,
-    "name": "Secretaria-Geral do Ministério das Finanças",
+    "Name": "Secretaria-Geral do Ministério das Finanças",
     "entidade": "Secretaria-Geral do Ministério das Finanças",
     "selo": "Prata",
     "data_selo": "2025-08-10",
@@ -1541,7 +1541,7 @@
   },
   {
     "id": 141,
-    "name": "Selo de Usabilidade e Acessibilidade",
+    "Name": "Selo de Usabilidade e Acessibilidade",
     "entidade": "Agência para a Reforma Tecnológica do Estado,  I.P.",
     "selo": "Ouro",
     "data_selo": "2024-03-13",
@@ -1552,7 +1552,7 @@
   },
   {
     "id": 142,
-    "name": "Serviços de Ação Social da Universidade do Minho",
+    "Name": "Serviços de Ação Social da Universidade do Minho",
     "entidade": "Universidade do Minho",
     "selo": "Bronze",
     "data_selo": "2025-02-27",
@@ -1563,7 +1563,7 @@
   },
   {
     "id": 143,
-    "name": "Serviços de Ação Social do Instituto Politécnico de Bragança",
+    "Name": "Serviços de Ação Social do Instituto Politécnico de Bragança",
     "entidade": "Serviços de Ação Social do IP de Bragança",
     "selo": "Ouro",
     "data_selo": "2026-08-31",
@@ -1574,7 +1574,7 @@
   },
   {
     "id": 144,
-    "name": "Serviços de Ação Social do Instituto Politécnico de Coimbra",
+    "Name": "Serviços de Ação Social do Instituto Politécnico de Coimbra",
     "entidade": "Serviços de Ação Social do IP de Coimbra",
     "selo": "Ouro",
     "data_selo": "2026-08-31",
@@ -1585,7 +1585,7 @@
   },
   {
     "id": 145,
-    "name": "Serviços de Ação Social do Instituto Politécnico de Leiria",
+    "Name": "Serviços de Ação Social do Instituto Politécnico de Leiria",
     "entidade": "Serviços de Ação Social do IP de Leiria",
     "selo": "Ouro",
     "data_selo": "2026-08-31",
@@ -1596,7 +1596,7 @@
   },
   {
     "id": 146,
-    "name": "Serviços de Ação Social do Instituto Politécnico de Lisboa",
+    "Name": "Serviços de Ação Social do Instituto Politécnico de Lisboa",
     "entidade": "Serviços de Ação Social do Instituto Politécnico de Lisboa",
     "selo": "Ouro",
     "data_selo": "2026-08-31",
@@ -1607,7 +1607,7 @@
   },
   {
     "id": 147,
-    "name": "Serviços de Ação Social do Instituto Politécnico de Portalegre",
+    "Name": "Serviços de Ação Social do Instituto Politécnico de Portalegre",
     "entidade": "Serviços de Ação Social do IP de Portalegre",
     "selo": "Ouro",
     "data_selo": "2026-08-31",
@@ -1618,7 +1618,7 @@
   },
   {
     "id": 148,
-    "name": "Serviços de Ação Social do Instituto Politécnico de Setúbal",
+    "Name": "Serviços de Ação Social do Instituto Politécnico de Setúbal",
     "entidade": "Serviços de Ação Social do IP de Setúbal",
     "selo": "Ouro",
     "data_selo": "2026-08-31",
@@ -1629,7 +1629,7 @@
   },
   {
     "id": 149,
-    "name": "Serviços de Ação Social do Instituto Politécnico de Viana do Castelo",
+    "Name": "Serviços de Ação Social do Instituto Politécnico de Viana do Castelo",
     "entidade": "Serviços de Ação Social do IP Viana do Castelo",
     "selo": "Ouro",
     "data_selo": "2026-08-31",
@@ -1640,7 +1640,7 @@
   },
   {
     "id": 150,
-    "name": "Serviços de Ação Social do Instituto Politécnico de Viseu",
+    "Name": "Serviços de Ação Social do Instituto Politécnico de Viseu",
     "entidade": "Serviços de Ação Social do IP de Viseu",
     "selo": "Ouro",
     "data_selo": "2026-08-28",
@@ -1651,7 +1651,7 @@
   },
   {
     "id": 151,
-    "name": "Serviços de Ação Social do Instituto Politécnico do Cávado e Ave",
+    "Name": "Serviços de Ação Social do Instituto Politécnico do Cávado e Ave",
     "entidade": "Serviços de Ação Social do IP do Cávado e Ave",
     "selo": "Ouro",
     "data_selo": "2026-08-31",
@@ -1662,7 +1662,7 @@
   },
   {
     "id": 152,
-    "name": "Serviços de Ação Social do IP Santarém",
+    "Name": "Serviços de Ação Social do IP Santarém",
     "entidade": "Serviços de Ação Social do IP Santarém",
     "selo": "Ouro",
     "data_selo": "2026-08-31",
@@ -1673,7 +1673,7 @@
   },
   {
     "id": 153,
-    "name": "Serviços Municipalizados de Água e Saneamento de Torres Vedras",
+    "Name": "Serviços Municipalizados de Água e Saneamento de Torres Vedras",
     "entidade": "Câmara Municipal de Torres Vedras",
     "selo": "Ouro",
     "data_selo": "2026-08-10",
@@ -1684,7 +1684,7 @@
   },
   {
     "id": 154,
-    "name": "Serviços Municipalizados de Alcobaça",
+    "Name": "Serviços Municipalizados de Alcobaça",
     "entidade": "Serviços Municipalizados de Alcobaça",
     "selo": "Prata",
     "data_selo": "2026-07-30",
@@ -1695,7 +1695,7 @@
   },
   {
     "id": 155,
-    "name": "Serviços online do Município de Mondim de Basto",
+    "Name": "Serviços online do Município de Mondim de Basto",
     "entidade": "Município de Mondim de Basto",
     "selo": "Prata",
     "data_selo": "2026-09-18",
@@ -1706,7 +1706,7 @@
   },
   {
     "id": 156,
-    "name": "Site do Município da Chamusca",
+    "Name": "Site do Município da Chamusca",
     "entidade": "Município da Chamusca",
     "selo": "Ouro",
     "data_selo": "2026-09-08",
@@ -1717,7 +1717,7 @@
   },
   {
     "id": 157,
-    "name": "Site do Município de Carregal do Sal",
+    "Name": "Site do Município de Carregal do Sal",
     "entidade": "Município de Carregal do Sal",
     "selo": "Ouro",
     "data_selo": "2026-09-02",
@@ -1728,7 +1728,7 @@
   },
   {
     "id": 158,
-    "name": "Site institucional da APEC",
+    "Name": "Site institucional da APEC",
     "entidade": "APEC - Associação Promotora do Ensino dos Cegos",
     "selo": "Ouro",
     "data_selo": "2026-09-14",
@@ -1739,7 +1739,7 @@
   },
   {
     "id": 159,
-    "name": "Site Institucional do Município de Alvaiázere",
+    "Name": "Site Institucional do Município de Alvaiázere",
     "entidade": "Município de Alvaiázere",
     "selo": "Ouro",
     "data_selo": "2026-08-28",
@@ -1750,7 +1750,7 @@
   },
   {
     "id": 160,
-    "name": "Site Institucional do Município de Anadia",
+    "Name": "Site Institucional do Município de Anadia",
     "entidade": "CM de Anadia",
     "selo": "Ouro",
     "data_selo": "2026-09-10",
@@ -1761,7 +1761,7 @@
   },
   {
     "id": 161,
-    "name": "Site Institucional do Município de Armamar",
+    "Name": "Site Institucional do Município de Armamar",
     "entidade": "CM de Armamar",
     "selo": "Ouro",
     "data_selo": "2026-09-08",
@@ -1772,7 +1772,7 @@
   },
   {
     "id": 162,
-    "name": "Site Institucional do Município de Chaves",
+    "Name": "Site Institucional do Município de Chaves",
     "entidade": "Município de Chaves",
     "selo": "Ouro",
     "data_selo": "2026-09-03",
@@ -1783,7 +1783,7 @@
   },
   {
     "id": 163,
-    "name": "Site Institucional do Município de Lagoa do Algarve",
+    "Name": "Site Institucional do Município de Lagoa do Algarve",
     "entidade": "CM de Lagoa do Algarve",
     "selo": "Ouro",
     "data_selo": "2026-10-01",
@@ -1794,7 +1794,7 @@
   },
   {
     "id": 164,
-    "name": "Site Institucional do Município de Lousada",
+    "Name": "Site Institucional do Município de Lousada",
     "entidade": "Município de Lousada",
     "selo": "Ouro",
     "data_selo": "2026-09-09",
@@ -1805,7 +1805,7 @@
   },
   {
     "id": 165,
-    "name": "Site Institucional do Município de Mirandela",
+    "Name": "Site Institucional do Município de Mirandela",
     "entidade": "Município de Mirandela",
     "selo": "Ouro",
     "data_selo": "2026-09-08",
@@ -1816,7 +1816,7 @@
   },
   {
     "id": 166,
-    "name": "Site Institucional do Município de Mondim de Basto",
+    "Name": "Site Institucional do Município de Mondim de Basto",
     "entidade": "Município de Mondim de Basto",
     "selo": "Prata",
     "data_selo": "2026-09-21",
@@ -1827,7 +1827,7 @@
   },
   {
     "id": 167,
-    "name": "Site Institucional do Município de Óbidos",
+    "Name": "Site Institucional do Município de Óbidos",
     "entidade": "Município de Óbidos",
     "selo": "Ouro",
     "data_selo": "2026-09-11",
@@ -1838,7 +1838,7 @@
   },
   {
     "id": 168,
-    "name": "Site Institucional do Município de Odivelas",
+    "Name": "Site Institucional do Município de Odivelas",
     "entidade": "CM de Odivelas",
     "selo": "Ouro",
     "data_selo": "2026-09-09",
@@ -1849,7 +1849,7 @@
   },
   {
     "id": 169,
-    "name": "Site Institucional do Município de Ponta Delgada",
+    "Name": "Site Institucional do Município de Ponta Delgada",
     "entidade": "Município de Ponta Delgada",
     "selo": "Ouro",
     "data_selo": "2026-08-28",
@@ -1860,7 +1860,7 @@
   },
   {
     "id": 170,
-    "name": "Site Institucional do Município de Ribeira de Pena",
+    "Name": "Site Institucional do Município de Ribeira de Pena",
     "entidade": "CM de Ribeira de Pena",
     "selo": "Ouro",
     "data_selo": "2026-09-07",
@@ -1871,7 +1871,7 @@
   },
   {
     "id": 171,
-    "name": "Site Institucional do Município de São João da Pesqueira",
+    "Name": "Site Institucional do Município de São João da Pesqueira",
     "entidade": "CM de São João da Pesqueira",
     "selo": "Ouro",
     "data_selo": "2026-09-08",
@@ -1882,7 +1882,7 @@
   },
   {
     "id": 172,
-    "name": "Site Institucional do Município de São Pedro do Sul ",
+    "Name": "Site Institucional do Município de São Pedro do Sul ",
     "entidade": "Município de São Pedro do Sul",
     "selo": "Ouro",
     "data_selo": "2026-09-10",
@@ -1893,7 +1893,7 @@
   },
   {
     "id": 173,
-    "name": "Site Institucional do Município de Sever do Vouga",
+    "Name": "Site Institucional do Município de Sever do Vouga",
     "entidade": "CM de Sever do Vouga",
     "selo": "Ouro",
     "data_selo": "2026-09-10",
@@ -1904,7 +1904,7 @@
   },
   {
     "id": 174,
-    "name": "Site Institucional do Município de Vila Flor",
+    "Name": "Site Institucional do Município de Vila Flor",
     "entidade": "Município de Vila Flor",
     "selo": "Ouro",
     "data_selo": "2026-09-08",
@@ -1915,7 +1915,7 @@
   },
   {
     "id": 175,
-    "name": "Sítio Autárquico - Câmara Municipal de Alcobaça",
+    "Name": "Sítio Autárquico - Câmara Municipal de Alcobaça",
     "entidade": "CM Alcobaça",
     "selo": "Prata",
     "data_selo": "2026-03-27",
@@ -1926,7 +1926,7 @@
   },
   {
     "id": 176,
-    "name": "Teatro José Lúcio da Silva",
+    "Name": "Teatro José Lúcio da Silva",
     "entidade": "Câmara Municipal de Leiria",
     "selo": "Prata",
     "data_selo": "2023-08-24",
@@ -1937,7 +1937,7 @@
   },
   {
     "id": 177,
-    "name": "Urbanismo de Câmara de Lobos",
+    "Name": "Urbanismo de Câmara de Lobos",
     "entidade": "Câmara Municipal de Câmara de Lobos",
     "selo": "Prata",
     "data_selo": "2026-08-25",
@@ -1948,7 +1948,7 @@
   },
   {
     "id": 178,
-    "name": "Vila do Bispo (sítio Web Institucional)",
+    "Name": "Vila do Bispo (sítio Web Institucional)",
     "entidade": "Câmara Municipal de Vila do Bispo",
     "selo": "Prata",
     "data_selo": "2026-07-20",
